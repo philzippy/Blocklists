@@ -163,7 +163,6 @@ fuller-plan.us
 allgoodthingspetfood.com
 digitaledgelearning.net
 fig.theravereviews.com
-teaparty247.org
 hyundaifriends.com
 dailynews-world.com
 singularity-good.com
@@ -291,4 +290,3 @@ sportkeeda.org
 thumbhumortree.org
 squaremktg.com
 cybercoders.com
-santanderfeedback.com
