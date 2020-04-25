@@ -317,3 +317,5 @@ thehalloweenspot.com
 agusiq-torrents.pl
 kiwifarms.net
 zynga.com
+dietslim.net
+kadrove.info
