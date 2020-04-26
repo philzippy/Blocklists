@@ -325,3 +325,4 @@ my.foxnews.com
 smetrics.foxnews.com
 apps.foxnews.com
 foxnews.com.edgekey.net
+foxnews.h-cdn.com
