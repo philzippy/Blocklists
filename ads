@@ -327,3 +327,6 @@ apps.foxnews.com
 foxnews.com.edgekey.net
 foxnews.h-cdn.com
 static.foxnews.com.edgekey.net
+www.foxbusiness.com
+a57.foxnews.com
+www.foxnews.com.edgekey.net
