@@ -330,3 +330,7 @@ static.foxnews.com.edgekey.net
 www.foxbusiness.com
 a57.foxnews.com
 www.foxnews.com.edgekey.net
+foxnewsplayer-a.akamaihd.net
+api.foxnews.com
+www.foxnews.com
+static.foxnews.com
