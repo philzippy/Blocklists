@@ -320,3 +320,5 @@ zynga.com
 dietslim.net
 kadrove.info
 foxnews.com
+feeds-elections.foxnews.com
+my.foxnews.com
