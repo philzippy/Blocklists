@@ -324,4 +324,4 @@ feeds-elections.foxnews.com
 my.foxnews.com
 smetrics.foxnews.com
 apps.foxnews.com
-www.foxnews.com.edgekey.net
+foxnews.com.edgekey.net
