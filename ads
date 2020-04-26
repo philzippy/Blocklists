@@ -326,3 +326,4 @@ smetrics.foxnews.com
 apps.foxnews.com
 foxnews.com.edgekey.net
 foxnews.h-cdn.com
+static.foxnews.com.edgekey.net
