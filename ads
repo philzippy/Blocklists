@@ -334,3 +334,6 @@ foxnewsplayer-a.akamaihd.net
 api.foxnews.com
 www.foxnews.com
 static.foxnews.com
+vod.foxnews.com
+a57-foxnews-com.cdn.ampproject.org
+cdn.ampproject.org
