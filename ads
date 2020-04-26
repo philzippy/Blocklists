@@ -319,3 +319,4 @@ kiwifarms.net
 zynga.com
 dietslim.net
 kadrove.info
+foxnews.com
