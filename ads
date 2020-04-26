@@ -322,3 +322,5 @@ kadrove.info
 foxnews.com
 feeds-elections.foxnews.com
 my.foxnews.com
+smetrics.foxnews.com
+apps.foxnews.com
