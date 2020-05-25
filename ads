@@ -393,3 +393,7 @@ aws-prod.fbs25.trendmicro.com
 ntd-asus-2014b-en.fbs20.trendmicro.com
 gslb6.fbs.trendmicro.com.akadns.net
 infonow.xyz
+cannacoffeecompany.com
+fourcolourdesign.com
+okayprotectdeals.com
+foodtruckbrokers.com
