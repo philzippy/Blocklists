@@ -18,7 +18,7 @@ coccilqbysl.com
 sceptre-coral.com
 reactive-serve.com
 horoscopeall.net
-WildAlaskanCompany
+WildAlaskanCompany.com
 choicevcqdx.com
 taxuzbmivih.com
 photon-ll.com
