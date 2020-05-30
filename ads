@@ -408,3 +408,6 @@ libertysepticsolutions.com
 senioraffordablecareact.com
 prizesna.info
 courthea.info
+api.zynga.com
+http2.api.zynga.com
+zoom.zynga.com
