@@ -411,3 +411,10 @@ courthea.info
 api.zynga.com
 http2.api.zynga.com
 zoom.zynga.com
+samelil.com
+realgamesweb.com
+onerhombus.com
+firelotusentertainment.org
+wonderlanddesert.com
+spustpoo.com
+freesecuritycams.com
