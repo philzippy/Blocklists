@@ -446,3 +446,5 @@ voanews.com
 media.voltron.voanews.com
 im-media.voltron.voanews.com
 www.voanews.com
+efax.com
+inbound.efax.com
