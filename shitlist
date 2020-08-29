@@ -1,29 +1,3 @@
-#pihole blacklist
-api.zynga.com
-http2.api.zynga.com
-zoom.zynga.com
-mco.mineplex.com
-safebrowsing.googleapis.com
-#Roblox
-#chat.roblox.com
-#notifications.roblox.com
-#realtime.roblox.com
-#economy.roblox.com
-#api.roblox.com
-#ecsv2.roblox.com
-#ephemeralcounters.api.roblox.com
-#presence.roblox.com
-#assetdelivery.roblox.com
-#assetgame.roblox.com
-#thumbnails.roblox.com
-#clientsettingscdn.roblox.com
-#gameinternationalization.roblox.com
-#abtesting.roblox.com
-#gamejoin.roblox.com
-#badges.roblox.com
-#followings.roblox.com
-#games.roblox.com
-#Spam
 rs-stripe.signupgenius.com
 iadsdk.apple.com
 news.iadsdk.apple.com
@@ -44,7 +18,7 @@ coccilqbysl.com
 sceptre-coral.com
 reactive-serve.com
 horoscopeall.net
-WildAlaskanCompany
+wildalaskancompany
 choicevcqdx.com
 taxuzbmivih.com
 photon-ll.com
@@ -258,10 +232,10 @@ bestcomcastoffers.com
 9areblilo.com
 uopeople.edu
 cox.net
-h4GS2kCP.consumercultures.com
+h4gs2kcp.consumercultures.com
 h1.hilton.com
 simpltec.services
-E2zEa8my.ingen-enkle-kamper.nl
+e2zea8my.ingen-enkle-kamper.nl
 soulmate-kiss.world
 plazaprecise.agency
 email.ancestry.com
@@ -277,7 +251,7 @@ tempokubus.nl
 chartbyte.world
 zoho.eu
 telus.com
-MwYTL.junkmailfilter.com
+mwytl.junkmailfilter.com
 bonily.life
 homesnap.com
 junkmailfilter.com
@@ -471,7 +445,7 @@ gohouse.biz
 qthzj.promyscore.com
 people4mcbath.com
 easycollegecoupons.com
-KLM-mail.com
+klm-mail.com
 shamposunsilkrambutpanjanghub.com
 ieshadubuque@gmail.com
 efax.com
@@ -536,7 +510,7 @@ holiday-shop.com
 hydercoemail.com
 themaillistcompany.com
 surveymonkeyuser.com
-SmartphonePerformanceSettlement.com
+smartphoneperformancesettlement.com
 portlandsportsplaza.com
 mutualfunband.com
 medicalresearchs.org
@@ -581,7 +555,7 @@ onlineahmad.com
 manifestwealthtoday.com
 choicefactorlifestyle.net
 #added 2020_08_19
-HowToFindThisDeal.com
+howtofindthisdeal.com
 olivia.troubleshootco.com
 payschools.com
 abuh-abahmedan01.net
@@ -596,3 +570,13 @@ jasoncrowforcongress.com
 cash.musicspb.com
 coffeeofgoodness.com
 codeemail.net
+#added 2020_08_29
+ilikevolleyball.com
+lovefitnessweb.com
+shop-individualplans.kp.org
+hazelnutclothing.com
+insideedgedesigners.com
+jmzarchitects.com
+thefrugalshopper.net
+wearepricing.com
+thecouponescape.com
