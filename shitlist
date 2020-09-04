@@ -387,10 +387,12 @@ ichnaea.netflix.com
 1fcf.playfabapi.com
 playfab.com
 community.playfab.com
-trendmicro.com.edgesuite.net
-aws-prod.fbs25.trendmicro.com
-ntd-asus-2014b-en.fbs20.trendmicro.com
-gslb6.fbs.trendmicro.com.akadns.net
+#2020_09_03 TrendMicro
+#trendmicro.com.edgesuite.net
+#aws-prod.fbs25.trendmicro.com
+#ntd-asus-2014b-en.fbs20.trendmicro.com
+#rgom10-en.url.trendmicro.com
+#gslb6.fbs.trendmicro.com.akadns.net
 infonow.xyz
 cannacoffeecompany.com
 fourcolourdesign.com
