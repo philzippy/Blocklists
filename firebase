@@ -653,3 +653,4 @@ firebase-dot-devsite-v2-prod.appspot.com
 api-project-681339092820.firebaseio.com
 firebaseremoteconfig.googleapis.com
 s-usc1c-nss-211.firebaseio.com
+(\.|^)firebaseio\.com$
