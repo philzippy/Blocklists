@@ -746,3 +746,7 @@ ssm1.internet.sony.tv
 blu-ray.update.sony.net
 iflipsites.com
 us.vieraconnect.tv
+(\.|^)gab\.com$
+gab.com
+(\.|^)telegram\.com$
+telegram.com
