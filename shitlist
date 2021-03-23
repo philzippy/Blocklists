@@ -659,6 +659,8 @@
 (\.|^)zynga\.com$
 (\.|^)ustsoftwares\.com$
 (\.|^)kxmegaro\.com$
+(\.|^)ga\.gov$
+(\.|^)aaronbennettonline\.com$
 #literals
 10xbusinesstraining.com
 1fcf.playfabapi.com
@@ -1415,3 +1417,5 @@ zoho.eu
 zynga.com
 ustsoftwares.org
 kxmegaro.com
+ga.gov
+aaronbennettonline.com
