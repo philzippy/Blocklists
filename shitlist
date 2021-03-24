@@ -661,6 +661,8 @@
 (\.|^)kxmegaro\.com$
 (\.|^)ga\.gov$
 (\.|^)aaronbennettonline\.com$
+(\.|^)technologicsolution\.in$
+(\.|^)axzopress\.com$
 #literals
 10xbusinesstraining.com
 1fcf.playfabapi.com
@@ -1419,3 +1421,5 @@ ustsoftwares.org
 kxmegaro.com
 ga.gov
 aaronbennettonline.com
+technologicsolution.in
+axzopress.com
