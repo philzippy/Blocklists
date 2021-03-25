@@ -663,6 +663,9 @@
 (\.|^)aaronbennettonline\.com$
 (\.|^)technologicsolution\.in$
 (\.|^)axzopress\.com$
+(\.|^)tanpabapak\.com$
+(\.|^)steamboat-tinting\.com$
+(\.|^)commercialprod\.com$
 #literals
 10xbusinesstraining.com
 1fcf.playfabapi.com
@@ -1423,3 +1426,7 @@ ga.gov
 aaronbennettonline.com
 technologicsolution.in
 axzopress.com
+#new add
+tanpabapak.com
+steamboat-tinting.com
+commercialprod.com
