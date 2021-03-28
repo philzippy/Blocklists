@@ -666,6 +666,7 @@
 (\.|^)tanpabapak\.com$
 (\.|^)steamboat-tinting\.com$
 (\.|^)commercialprod\.com$
+(\.|^)curiousdisease\.com$
 #literals
 10xbusinesstraining.com
 1fcf.playfabapi.com
@@ -1430,3 +1431,4 @@ axzopress.com
 tanpabapak.com
 steamboat-tinting.com
 commercialprod.com
+curiousdisease.com
