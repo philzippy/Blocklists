@@ -667,6 +667,8 @@
 (\.|^)steamboat-tinting\.com$
 (\.|^)commercialprod\.com$
 (\.|^)curiousdisease\.com$
+(\.|^)dawnsobolewski\.com$
+(\.|^)paylessforcontacts\.com$
 #literals
 10xbusinesstraining.com
 1fcf.playfabapi.com
@@ -1427,8 +1429,11 @@ ga.gov
 aaronbennettonline.com
 technologicsolution.in
 axzopress.com
-#new add
 tanpabapak.com
 steamboat-tinting.com
 commercialprod.com
 curiousdisease.com
+#new add
+theregister.co.uk
+dawnsobolewski.com
+paylessforcontacts.com
