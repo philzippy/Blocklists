@@ -669,6 +669,7 @@
 (\.|^)curiousdisease\.com$
 (\.|^)dawnsobolewski\.com$
 (\.|^)paylessforcontacts\.com$
+(\.|^)segregated-possessed\.com$
 #literals
 10xbusinesstraining.com
 1fcf.playfabapi.com
@@ -1437,3 +1438,4 @@ curiousdisease.com
 theregister.co.uk
 dawnsobolewski.com
 paylessforcontacts.com
+segregated-possessed.com
