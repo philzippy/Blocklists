@@ -1,6 +1,8 @@
-(\.|^)googleapis\.com$
 (\.|^)youtube\.com$
-(\.|^)googleusercontent\.com$
-youtube-ui.l.google.com
-(\.|^)googlevideo\.com$
 (\.|^)youtubei$
+(\.|^)googlevideo\.com$
+youtube-ui.l.google.com
+googlehosted.l.googleusercontent.com
+lh3.googleusercontent.com
+(\.|^)googleusercontent\.com$
+(\.|^)googleapis\.com$
