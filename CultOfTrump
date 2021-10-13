@@ -1,4 +1,5 @@
 foxnews.com
+(\.|^)foxnews\.com$
 radio.foxnews.com
 entertainment.blogs.foxnews.com
 liveshots.blogs.foxnews.com
