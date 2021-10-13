@@ -1639,6 +1639,7 @@ api.infowars.com
 stream-aac-us.a.infowars.com
 httpstream.infowars.com
 live-hds.infowars.com
+(\.|^)newsmax\.com$
 newsmax.com
 archive.newsmax.com
 moneynews.newsmax.com
