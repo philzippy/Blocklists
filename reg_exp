@@ -3,7 +3,7 @@
 (\.|^)foxnews\.com$
 (\.|^)oann\.com$
 (\.|^)infowars\.com$
-(\.|^)|^)newsmax\\.com$$
+(\.|^)newsmax\\.com$
 (\.|^)newsmax\.com$
 (\.|^)foxbusiness\.com$
 (\.|^)foxsports\.com$
