@@ -83,3 +83,5 @@ staging.generations.openai.com
 prod-primary-aks-scentralus-api-b.api.openai.com
 url603.notify.openai.com
 musenet-pg.openai.com
+mail.chat-gpt.org
+chat-gpt.org
