@@ -1,4 +1,11 @@
-#CultOfTrump
+# Title: philzippy/blocklists/CultOfTrump
+#
+# This hosts file is a merged collection of hosts from a reverse dns lookup
+# Date: Sun Sept 23 13:12:00 2023 UTC
+# Number of unique domains: 9402
+# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/CultOfTrump
+# Project home page: https://github.com/philzippy/Blocklists
+#
 truthsocial.com
 foxnews.com
 radio.foxnews.com
