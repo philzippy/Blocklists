@@ -1,13 +1,12 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sun Oct 04 2023 18:30:00 UTC
-# Number of unique domains: 2073
+# Date: Sun Oct 07 2023 15:30:00 UTC
+# Number of unique domains: 2121
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists
 #
-#literals
-10xbusinesstraining.com
+#literals10xbusinesstraining.com
 1fcf.playfabapi.com
 3webmarketing.com
 7centsecurity.com
@@ -2089,7 +2088,6 @@ gmai.com
 infini.fr
 edu.lv
 mpiktebalsngets.com
-dikr.co.uk
 cksc.edu.ph
 sany.org
 tpaa.org
@@ -2119,3 +2117,13 @@ colegioneuzadutra.com
 alfonsinastorni.edu.ar
 rpsk12.org
 crusafont.cat
+vipeducation.edu.my
+sevier.org
+vajsenhuset.dk
+leadpublicschools.org
+jembik.net
+rmasmayanloh.com
+suesd.org
+student.lvusd.org
+as-j.net
+gotowebinar.com
