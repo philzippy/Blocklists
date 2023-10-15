@@ -1,3 +1,11 @@
+# Title: philzippy/blocklists/TikTok
+#
+# This hosts file is a merged collection of hosts from a reverse dns lookup
+# Date: Sun Oct 15 2023 14:36:00 UTC
+# Number of unique domains: 14141
+# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/TikTok
+# Project home page: https://github.com/philzippy/Blocklists
+#
 #TikTok
 edge-alinc2-oss-slb2.bytedance.com
 rtc-access.bytedance.com
