@@ -1,1 +1,10 @@
+# Title: philzippy/blocklists/TLD_Abuse
+#
+# Date: Sun Nov 5 2023 13:36:00 UTC
+# Number of unique TLDs: 109
+# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/TLD_Abuse
+# Project home page: https://github.com/philzippy/Blocklists
+#
+#Note: do not add this as a pihile adlist - instead copy the entire line below, select Domains>REGEX FILTER, paste the line in the domain - optionally use TLD_Abuse in the comment
+#
 (\.|^)(ki|nf|sx|so|sc|pw|su|tj|ug|to|biz|rent|sh|ms|mu|cx|mn|ac|ru|want|rest|boston|degree|cyou|wiki|wtf|dance|name|cn|us|club|info|vip|ga|cf|gq|site|online|top|buzz|ml|tk|xyz|shop|space|fun|store|live|bar|accountants|bid|click|country|date|download|gdn|jetzt|kim|loan|men|mom|party|racing|ren|review|stream|trade|wang|win|work|xin|lol|makeup|ci|zw|mw|am|cd|ke|app|ly|bd|surf|sbs|dev|quest|page|monster|host|mx|me|ro|gy|br|autos|bio|boats|boutique|hair|haus|loans|rip|skin|support|tokyo|uno|voto|website|zip)$
