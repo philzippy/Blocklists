@@ -310,5 +310,5 @@ alert-socket-api.relay.school
 staging-reporting-api-sls.relay.school
 staging-preview.relay.school
 policy-api.relay.school
-(\.|^)relay\.school$
-(\.|^)lightspeedsystems\.com$
+||relay.school^
+||lightspeedsystems.com^
