@@ -2,10 +2,12 @@
 #
 # This hosts file is a merged collection of hosts as regex from a reverse dns lookup
 # Date: Sun Nov 19 2023 16:03:00 UTC
-# Number of unique domains: 1185
+# Number of unique domains: 1179
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/reg_exp
 # Project home page: https://github.com/philzippy/Blocklists
 #
+||.mil^
+||.xyz^
 ||10xbusinesstraining.com^
 ||11alive.com^
 ||1800contacts.com^
@@ -22,8 +24,6 @@
 ||8kun.top^
 ||8kun.us^
 ||9areblilo.com^
-||.mil^
-||.xyz^
 ||aaronbennettonline.com^
 ||abuh-abahmedan01.net^
 ||accessabilityoasis.com^
@@ -145,8 +145,6 @@
 ||calfornc.com^
 ||calgiveaway.com^
 ||callofdutyonline.com^
-||camman18smp.com^
-||cammansmp.com^
 ||cannacoffeecompany.com^
 ||capustip.info^
 ||caretipsforyou.com^
@@ -405,8 +403,8 @@
 ||fuller-plan.us^
 ||fun^
 ||funnyperfectionart.website^
-||ga^
 ||ga.gov^
+||ga^
 ||gab.com^
 ||gaidkepacakvtu284.com^
 ||gamehivestudios.com^
@@ -434,7 +432,6 @@
 ||goodalldental.com^
 ||goodcentersfind.com^
 ||gooddeedagent.com^
-||googleapis.com^
 ||googlegroups.com^
 ||googlevideo.com^
 ||gosphero.com^
@@ -509,7 +506,6 @@
 ||htcstar.com^
 ||htmlelement.com^
 ||huldua.com^
-||hulu.com^
 ||humanchannel.info^
 ||hungrybearshop.com^
 ||hvfam-nethumming.com^
@@ -695,7 +691,6 @@
 ||neonnettle.com^
 ||neonrevolt.com^
 ||netease.com^
-||netflix.com^
 ||netflixsubs.com^
 ||netsuite.com^
 ||newagemastermind.com^
@@ -704,6 +699,7 @@
 ||neweducdept.com^
 ||newscientist.com^
 ||newsmax.com^
+||newsmax\.com^
 ||newstodaytech.com^
 ||newstoreweb.net^
 ||nianticlabs.com^
@@ -782,6 +778,7 @@
 ||pharmacyrideshop.com^
 ||phishtrain.org^
 ||photon-ll.com^
+||pi@raspberrypic^
 ||pictureunlimited.com^
 ||pioneerpayton.com^
 ||pjimail6.com^
@@ -856,7 +853,6 @@
 ||richmondhomelink.com^
 ||rivercasa.com^
 ||rkyamanmusical.com^
-||roblox.com^
 ||robuxday.com^
 ||rochesterny.com^
 ||ropeacces.com^
@@ -1161,8 +1157,8 @@
 ||whalewatchinginazores.com^
 ||whenwashad.com^
 ||wifa.st^
-||wildalaskancompany^
 ||wildalaskancompany.^
+||wildalaskancompany^
 ||win^
 ||windowgaudy.net^
 ||wonderlanddesert.com^
@@ -1189,5 +1185,3 @@
 ||zoho.eu^
 ||zohoinsights.com^
 ||zynga.com^
-||pi@raspberrypic^
-||newsmax\.com^
