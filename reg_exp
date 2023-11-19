@@ -3,7 +3,7 @@
 # This hosts file is a merged collection of hosts as regex from a reverse dns lookup
 # Date: Sun Nov 19 2023 16:03:00 UTC
 # Number of unique domains: 1185
-# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/Block_Child_Exploitation
+# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/reg_exp
 # Project home page: https://github.com/philzippy/Blocklists
 #
 ||10xbusinesstraining.com^
