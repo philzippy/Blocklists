@@ -1,11 +1,11 @@
-(\.|^)youtube\.com$
-(\.|^)youtubei$
-(\.|^)googlevideo\.com$
+||youtube.com^
+||youtubei^
+||googlevideo.com^
 youtube-ui.l.google.com
 googlehosted.l.googleusercontent.com
 lh3.googleusercontent.com
-(\.|^)googleusercontent\.com$
-(\.|^)googleapis\.com$
+||googleusercontent.com^
+||googleapis.com^
 suggestqueries.l.google.com
 play.google.com
 youtube-ui.l.google.com
