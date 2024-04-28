@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Fri Mar 29 2024 23:56:00 UTC
-# Number of unique domains: 2159
+# Date: Sun Apr 28 2024 16:03:00 UTC
+# Number of unique domains: 2179
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists
 #
@@ -2175,3 +2175,14 @@
 ||vmezsu.com^
 ||gog.com^
 ||linuxgamereview.com^
+||theuncommonthoughts.com^
+||gog.com^
+||bankrollreview.com^
+||inagaming305.com^
+||loft.com^
+||tiscali.itv^
+||sidespine.com^
+||colmexen.com^
+||linhkienaudio.com^
+||agngulf.com^
+||blcomputersys.com^
