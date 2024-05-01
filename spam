@@ -7,7 +7,7 @@
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 #
 ||10xbusinesstraining.com^
-||1fcf.playfabapi.com^
+||playfabapi.com^
 ||3webmarketing.com^
 ||7centsecurity.com^
 ||8020research.info^
@@ -17,11 +17,11 @@
 ||account105-amazon.com^
 ||accuroinsurance.com^
 ||achievetodayacademy.com^
-||act.democrats.org^
+||democrats.org^
 ||adaptive-bud.com^
 ||agusiq-torrents.pl^
 ||aircondisnorhub.com^
-||ak.productionseastmedia.com^
+||productionseastmedia.com^
 ||alkalizehealthy.com^
 ||allgoodthingspetfood.com^
 ||allhealthiernews.com^
@@ -3218,4 +3218,3 @@
 ||thegodlymother.com
 ||slowlytryingtowrest.net
 ||conservativeintel.com
-||wildalaskancompany
