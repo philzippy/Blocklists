@@ -5,7 +5,7 @@
 # Number of unique domains: 2179
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists
-#||.me^
+||.me^
 ||.site^
 ||#new add^
 ||10xbusinesstraining.com^
@@ -878,7 +878,6 @@
 ||goodalldental.com^
 ||goodcentersfind.com^
 ||gooddeedagent.com^
-||googleapis.com^
 ||googlegroups.com^
 ||googlevideo.com^
 ||gorgindrza.sbs^
