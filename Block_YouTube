@@ -3,9 +3,12 @@
 ||googlevideo.com^
 youtube-ui.l.google.com
 googlehosted.l.googleusercontent.com
-lh3.googleusercontent.com
-||googleusercontent.com^
-||googleapis.com^
+#below blocked - experimental
+#lh3.googleusercontent.com
+#below blocked - experimental
+#||googleusercontent.com^
+#below blocked - experimental
+#||googleapis.com^# 
 suggestqueries.l.google.com
 play.google.com
 youtube-ui.l.google.com
