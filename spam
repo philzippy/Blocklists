@@ -5,8 +5,7 @@
 # Number of unique domains: 2282
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
-#
-||10xbusinesstraining.com^
+#||10xbusinesstraining.com^
 ||playfabapi.com^
 ||3webmarketing.com^
 ||7centsecurity.com^
@@ -2241,22 +2240,21 @@
 ||com.np^
 ||newstodaytech.com^
 ||clickfunnels.com^
-||#literals^
 ||1fcf.playfabapi.com^
 ||act.democrats.org^
 ||ak.productionseastmedia.com^
 ||nytimes.com^
 ||wildalaskancompany^
-||||adtilt.com^^
-||||adcolony.com^^
-||||hyprmx.com^^
-||||joinhoney.com^^
-||||funimation.com^^
-||||hivebedrock.network^^
-||||mineplex.com^
-||||inpvp.net^^
-||||cubecraft.net^^
-||||lbsg.net^^
+||adtilt.com^
+||adcolony.com^
+||hyprmx.com^
+||joinhoney.com^
+||funimation.com^
+||hivebedrock.network^
+||mineplex.com^
+||inpvp.net^
+||cubecraft.net^
+||lbsg.net^
 ||airmoust.com^
 ||gurley.tymesr@icloud.com^
 ||tiscali.it^
