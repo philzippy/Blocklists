@@ -5,7 +5,7 @@
 # Number of unique domains: 2282
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
-#||10xbusinesstraining.com^
+||10xbusinesstraining.com^
 ||playfabapi.com^
 ||3webmarketing.com^
 ||7centsecurity.com^
@@ -765,7 +765,6 @@
 ||steamboat-tinting.com^
 ||commercialprod.com^
 ||curiousdisease.com^
-||#new add^
 ||theregister.co.uk^
 ||dawnsobolewski.com^
 ||paylessforcontacts.com^
@@ -2179,7 +2178,7 @@
 ||manyvids.com^
 ||thevalleypound.com^
 ||verizonmedia.com^
-||wildalaskancompany.^
+||wildalaskancompany.com^
 ||ustsoftwares.com^
 ||earthlink.com^
 ||securely.com^
@@ -2256,7 +2255,6 @@
 ||cubecraft.net^
 ||lbsg.net^
 ||airmoust.com^
-||gurley.tymesr@icloud.com^
 ||tiscali.it^
 ||belpostavka.com^
 ||mobiri.se^
