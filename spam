@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sun August 11 2024 15:31:00 UTC
-# Number of unique domains: 2290
+# Date: Sun August 17 2024 14:43:00 UTC
+# Number of unique domains: 2305
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -66,8 +66,8 @@
 ||air.almona.online^
 ||aircondisnorhub.com^
 ||airlaw.asia^
-||airmoust.com ^
 ||airmoust.com^
+||airmoust.com ^
 ||ajubate.com^
 ||ak.productionseastmedia.com^
 ||akautobd.com^
@@ -93,7 +93,9 @@
 ||alsalvadori.com^
 ||altaylarotomotiv.com^
 ||altech-usa.com^
+||alteche.com^
 ||alumnoifp.es^
+||alunosatc.edu.br^
 ||americana-trends.com^
 ||americanomemek.com^
 ||amerinstobrajes.edu.bo^
@@ -208,6 +210,7 @@
 ||becomingthefuture.com^
 ||bedmal.co^
 ||beehiiv.com^
+||beghap.com^
 ||begunnoteworthysololark.co.uk^
 ||being11clocked.sbs^
 ||bellessential.com^
@@ -235,6 +238,7 @@
 ||billoreilly.com^
 ||billowylatch.com^
 ||bimpsumpy.com^
+||biosolro.com^
 ||birdieball.com^
 ||birthdaybullies.com^
 ||bjrszc.com^
@@ -804,6 +808,7 @@
 ||funnyalley.com^
 ||funnyperfectionart.website^
 ||futuredreadsealbutcher.org^
+||futuresavingnow.com^
 ||fxnetworks.info^
 ||ga.gov^
 ||gab.com^
@@ -821,6 +826,7 @@
 ||gcdd.ga.gov^
 ||gdc.co.ke^
 ||gemini-nest.com^
+||gemtang.com^
 ||generalstuffshop.com^
 ||generalzenith.agency^
 ||generationhomessc.com^
@@ -905,6 +911,7 @@
 ||gurley.tymesr@icloud.com^
 ||guruinovatif.com^
 ||gutterguardiangreens.com^
+||gvfintaci.com^
 ||gyouhjodpl.com^
 ||h1.hilton.com^
 ||h4gs2kcp.consumercultures.com^
@@ -1082,6 +1089,7 @@
 ||ipapazou.com^
 ||ipe-edu.org^
 ||ipfunny.com^
+||iprsbd.com^
 ||ir.internetofresources.com^
 ||ironmail-usa.com^
 ||isparis.edu^
@@ -1150,6 +1158,7 @@
 ||kidsgrovecarpets.com^
 ||killer-simple.com^
 ||kinal.edu.gt^
+||kindechoes.com^
 ||kingsway-operations.com^
 ||kitanaiklagiyarrm45.com^
 ||kiwifarms.net^
@@ -1238,6 +1247,7 @@
 ||lovefitnessweb.com^
 ||loxford.london^
 ||lqphhokgx.com^
+||lucilts.com^
 ||luckyracers.com^
 ||m512rk.com^
 ||macdlst.com^
@@ -1594,6 +1604,7 @@
 ||presto-moon.com^
 ||presto-town.com^
 ||prgmlearn.com^
+||primejourneyjoy.com^
 ||printermigrationsenior.online^
 ||prizesna.info^
 ||procomi.com^
@@ -1765,6 +1776,7 @@
 ||secretmakeups.com^
 ||securely.com^
 ||segregated-possessed.com^
+||selfreliiance.com^
 ||senate.gov^
 ||senatemajority.com^
 ||send-profit.com^
@@ -2000,12 +2012,14 @@
 ||theemarketingspecialist.com^
 ||thefrugalshopper.net^
 ||thegodlymother.com^
+||thegrayhat.com^
 ||thegreatestnovels.biz^
 ||thehalloweenspot.com^
 ||thehealthdrops.com^
 ||thelimitlessapp.com^
 ||themaillistcompany.com^
 ||themedicareresource.net^
+||themonthofjoy.com^
 ||theorchard.com^
 ||theoryservice.com^
 ||theravereviews.com^
@@ -2105,6 +2119,7 @@
 ||turntshead.com^
 ||tworld.com^
 ||tytydmoshfit.com^
+||ubidibs.com^
 ||uce.edu.ec^
 ||ucr.edu^
 ||uerwtlopauwjs.com^
@@ -2242,8 +2257,8 @@
 ||whm.tpusa.com^
 ||wifa.st^
 ||wifnavy.com^
-||wildalaskancompany.com^
 ||wildalaskancompany^
+||wildalaskancompany.com^
 ||wincache.shop^
 ||windomnet.com^
 ||windowgaudy.net^
