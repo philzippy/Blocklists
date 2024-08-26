@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sun August 23 2024 23:41:00 UTC
-# Number of unique domains: 2419
+# Date: Sun August 26 2024 00:13:00 UTC
+# Number of unique domains: 2450
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -98,6 +98,7 @@
 ||altaylarotomotiv.com^
 ||altech-usa.com^
 ||alteche.com^
+||alumno.udg.mx^
 ||alumnoifp.es^
 ||aluno.sesiescola.org.br^
 ||aluno.unicesumar.edu.br^
@@ -463,6 +464,7 @@
 ||cookiesbydesign.com^
 ||cookingprofessionally.com^
 ||coolnuptials.agency^
+||cooperadores.org^
 ||coretxnetwork.com^
 ||coronalmassejections.net^
 ||cosmodiscounts.com^
@@ -628,8 +630,17 @@
 ||ecwrd.ae^
 ||edgeservicing.com^
 ||edit.ne.jp^
+||edu.br^
+||edu.co^
+||edu.eg^
+||edu.gh^
 ||edu.lv^
+||edu.pe^
+||edu.ph^
+||edu.tr^
+||edu.tw^
 ||edu.uca.ma^
+||edu.vn^
 ||edu0.ml^
 ||edubizz.me^
 ||educati0n.ml^
@@ -712,6 +723,8 @@
 ||establishedbuddhism.life^
 ||estaffllc.com^
 ||estlifeinsurancetips.com^
+||estudiante.uniajc.edu.co^
+||estudiantesgach.com^
 ||etpr.pt^
 ||etu.cyu.fr^
 ||eurosportsscouting.net^
@@ -722,6 +735,7 @@
 ||everydaychanneling.net^
 ||everydayshoppingnow.com^
 ||ewab-ontraport.net^
+||exclusiveeasy.com^
 ||executionstringupdates.com^
 ||existenceofaplanet.net^
 ||exoticfashions.co.in^
@@ -765,6 +779,7 @@
 ||fightergod3.shop^
 ||fighttherightpac.com^
 ||fillfam.com^
+||fim.edu.al^
 ||fin.emathematicslearn.com^
 ||financeforall.club^
 ||FinancePerspectiveToday.com^
@@ -827,6 +842,7 @@
 ||fresheyesbook.net^
 ||frezzor.com^
 ||frgrt.com^
+||friendlinkupnow.com^
 ||fringferno.com^
 ||fs-toner.com^
 ||ftc.edu^
@@ -880,6 +896,7 @@
 ||girltalkfoundationinc.com^
 ||givemazingthings.com^
 ||gladbernard.com^
+||glcc.edu^
 ||globalaircraftservices.net^
 ||globalwarmingmessurement.net^
 ||gmachardware.com^
@@ -1135,6 +1152,7 @@
 ||ipe-edu.org^
 ||ipfunny.com^
 ||iprsbd.com^
+||ipv.pt^
 ||ir.internetofresources.com^
 ||ironmail-usa.com^
 ||isiswa.uitm.edu.my^
@@ -1513,6 +1531,7 @@
 ||officialproudboys.com^
 ||ogr.akdeniz.edu.tr^
 ||ogr.comu.edu.tr^
+||ogrenci.btu.edu.tr^
 ||ogrenci.ege.edu.tr^
 ||ogusers.com^
 ||ohteegee.com^
@@ -1689,6 +1708,7 @@
 ||proofofacircumtriple.org^
 ||proofofconceptouter.com^
 ||propionate.biz^
+||prosperousdeal.com^
 ||protectingcitizensprofessionals.life^
 ||protectyourrights.tpusa.com^
 ||protonmail.com^
@@ -1762,6 +1782,7 @@
 ||resandwoodflooring.com^
 ||reset.tpusa.com^
 ||resolutionmultispectral.org^
+||responsibleinvestplan.com^
 ||resslahanjengmemek.com^
 ||resttedd.com^
 ||resy.com^
@@ -1836,6 +1857,7 @@
 ||savagex.com^
 ||scarcestimulating.be^
 ||sceptre-coral.com^
+||schools.mk^
 ||schooltiment.com^
 ||schueler.gymneander.de^
 ||sciencen-medicine.com^
@@ -1921,6 +1943,7 @@
 ||skolahranicka.cz^
 ||skratchlabs.com^
 ||skydslir.com^
+||slceps.org.uk^
 ||slewingbackdreadfulclumps.camp^
 ||slickwraps.com^
 ||slimspirits01.fun^
@@ -1949,6 +1972,7 @@
 ||spanishors.com^
 ||spanninggreatdistances.com^
 ||sparkpostmail.com^
+||spdv.ro^
 ||specialdelitedfood.com^
 ||specialmomentforme.co.uk^
 ||speed.digitalmarketinglobe.com^
@@ -1964,6 +1988,7 @@
 ||sportsmenonly.com^
 ||sportyappaltothesedan.org^
 ||spreetsheet.com^
+||sps-tachov.cz^
 ||spustpoo.com^
 ||spy-artistsworld.com^
 ||sqdlllpoadzz.news^
@@ -2007,6 +2032,7 @@
 ||strike-boards.us^
 ||strike-doctor.com^
 ||strikerssecond.net^
+||stu.ftccollege.edu^
 ||stu.nesc.edu.tt^
 ||student.edu.az^
 ||student.lvusd.org^
@@ -2014,6 +2040,7 @@
 ||student.uum.edu.my^
 ||studenti.unibg.it^
 ||studenti.unisalento.it^
+||students.asu.edu.jo^
 ||studentsfortrump.tpaction.com^
 ||studyess.buzz^
 ||studyplanetsbeyond.com^
@@ -2221,6 +2248,7 @@
 ||ucr.edu^
 ||uerwtlopauwjs.com^
 ||ufromail.cl^
+||ufsc.br^
 ||uic.edu^
 ||uicpost.com^
 ||uiowa.edu^
@@ -2304,6 +2332,7 @@
 ||verizonmedia.com^
 ||vers.co.in^
 ||verti-game.com^
+||vhcsk12.com^
 ||vianet.com.np^
 ||vidyasart.com^
 ||vief.edu.vn^
@@ -2400,6 +2429,7 @@
 ||yahoo.co.jp^
 ||yandesbafdrgtjyoutlook.com^
 ||ybwzx.com^
+||yearofeternaljoy.com^
 ||yogaium.net^
 ||yorijore1.rdersaini.com^
 ||youchasethedreams.com^
@@ -2422,5 +2452,6 @@
 ||zoneine.com^
 ||zpxhddyvo.com^
 ||zs4leszno.pl^
+||zsp2-krotoszyn.pl^
 ||zynga.com^
 ||zzy.guru^
