@@ -6,6 +6,7 @@
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
+||.ed.cr^
 ||.makeup^
 ||.shop^
 ||.store^
@@ -82,7 +83,6 @@
 ||air.almona.online^
 ||aircondisnorhub.com^
 ||airlaw.asia^
-||airmoust.com^
 ||airmoust.com^
 ||ajubate.com^
 ||ak.productionseastmedia.com^
@@ -200,6 +200,7 @@
 ||audienatomrights.com^
 ||augmented-band.com^
 ||auschool.me^
+||aussiejobsearch.com^
 ||australentertainment.com^
 ||autoconfig.tpusa.com^
 ||autodealerblog.com^
@@ -304,6 +305,7 @@
 ||bluelineinsurance.com^
 ||bluemountain.com^
 ||bnks.edu.np^
+||boardmanschools.org^
 ||boashoponlinedepartment.com^
 ||bobbyweinberg.com^
 ||bodygoalstea.com^
@@ -464,6 +466,7 @@
 ||cma-china.itunes-apple.com.akadns.net^
 ||cmkkagafhr.com^
 ||cnbc.com^
+||cnpschools.org^
 ||coachsuccess.org^
 ||cobney.com^
 ||cobwebethereal.com^
@@ -520,6 +523,7 @@
 ||consumercultures.com^
 ||consumersilver.com^
 ||contacdup.cyberservices.com^
+||contactbees.com^
 ||conticentfanal.com^
 ||conventified.com^
 ||conviva.com^
@@ -687,6 +691,7 @@
 ||dushangible.com^
 ||dutyoftheseobservers.co.uk^
 ||dynadot.com^
+||e-hps.net^
 ||e2zea8my.ingen-enkle-kamper.nl^
 ||earnafreevacation.com^
 ||earthlink.com^
@@ -779,7 +784,7 @@
 ||energycloudnetwork.com^
 ||energyisatypeofforceboson.camp^
 ||eng-kol-bredd.org^
-||eng.asu.edu.eg867534cccccbilcnfccrfvcierritrndekjjduhhljeibugerv^
+||asu.edu^
 ||enhancedrefinance.com^
 ||eniac.edu.br^
 ||ens.univ-artois.fr^
@@ -824,10 +829,12 @@
 ||excelgens.com^
 ||excellentcraftobsolete.com^
 ||exclusiveeasy.com^
+||exclusivefindspro.com^
 ||executionstringupdates.com^
 ||existenceofaplanet.net^
 ||exoticfashions.co.in^
 ||experigreen-online.com^
+||expertsmackup.com^
 ||exploratio-nmix.us^
 ||explorehomedecor.org^
 ||express.medallia.com^
@@ -838,6 +845,7 @@
 ||fabulaceweather.com^
 ||facebookmail.com^
 ||factframes.com^
+||factonw.com^
 ||factory-llc.com^
 ||fahrenheithub.com^
 ||fairpey.com^
@@ -847,6 +855,7 @@
 ||fancytai1spetspa.biz^
 ||fapfaplq-03.com^
 ||farawaystarsystem.net^
+||faresamga.com^
 ||farmhouseinteriordesigns.net^
 ||fascaring.com^
 ||fashionfusionhubvip.com^
@@ -959,6 +968,7 @@
 ||funnyalley.com^
 ||funnyperfectionart.website^
 ||funpinoy.com^
+||funstuuff.com^
 ||futuredreadsealbutcher.org^
 ||futuresavingnow.com^
 ||fxnetworks.info^
@@ -1061,6 +1071,7 @@
 ||gr8.com^
 ||grabflexibleadvice.world^
 ||graciefashion.com^
+||gradbena.si^
 ||grandeplus.biz^
 ||grandsmileup.com^
 ||granite-change.com^
@@ -1070,6 +1081,7 @@
 ||greasemonkey.com^
 ||greasemonkeyauto.com^
 ||greatdaynew.com^
+||greatelegancehomedecor.com^
 ||greaterlifestylenow.com^
 ||greatwanderwise.com^
 ||greatwebhostingtips.com^
@@ -1142,6 +1154,7 @@
 ||hearthistoday.com^
 ||heartlink-management.com^
 ||heavenonearthapparel.com^
+||hei.fr^
 ||hellofresh^
 ||helowebsite.com^
 ||helpforfinance.xyz^
@@ -1176,6 +1189,7 @@
 ||homesnap.com^
 ||homestylemarketplace.com^
 ||honeymoontourtodanang.net^
+||hongeria.com^
 ||honorablehypnotic.org^
 ||hoousefittings.com^
 ||hopemontgomery.com^
@@ -1290,6 +1304,7 @@
 ||internetofresources.com^
 ||internetoftours.com^
 ||interviewjobtips.com^
+||inthevita.com^
 ||intricatenetworks.com^
 ||intuitivel0gica1reas0ningskills.codes^
 ||investbunn.co^
@@ -1331,6 +1346,7 @@
 ||jereko.icu^
 ||jewelhomecarellc.com^
 ||jewishinboston.com^
+||jiangzichaofan.net^
 ||jklasercutting.com^
 ||jmzarchitects.com^
 ||jnt-warriors.com^
@@ -1452,6 +1468,7 @@
 ||limitededitiongoods.com^
 ||lincolns100thbirthday.skin^
 ||linesatmultiplelevels.org^
+||linewiki.com^
 ||lingeronforalittlebit.com^
 ||linhkienaudio.com^
 ||linhsyd.com^
@@ -1485,6 +1502,7 @@
 ||lovefitnessweb.com^
 ||loxford.london^
 ||lqphhokgx.com^
+||lsmaravillas.com^
 ||lucilts.com^
 ||luckyracers.com^
 ||m512rk.com^
@@ -1523,9 +1541,11 @@
 ||majikr1.ga^
 ||makemepossible.info^
 ||makersmovement.org^
+||malaniuk.com^
 ||maldronhotelmail.com^
 ||maliseh.com^
 ||management-loan.com^
+||manavrachna.net^
 ||mancaregalavny.com^
 ||manegerialismnow.com^
 ||manifestwealthtoday.com^
@@ -1569,7 +1589,6 @@
 ||megaseats.com^
 ||message.card.visa.com^
 ||messages.va.gov^
-||mgnfesentefvfvritichyzffpozoanskyish.makeup^
 ||mgs.edu^
 ||michaelbennet.com^
 ||michellemolinabeauty.com^
@@ -1577,7 +1596,6 @@
 ||microscopicsinglecelled.org^
 ||mielwa.com^
 ||millionocracyundeify.hair^
-||minecraftprod.maelstrom.gameservices.xboxlive.com^
 ||mineplex.com^
 ||minerpetty.host^
 ||minhthy.com^
@@ -1619,6 +1637,7 @@
 ||mpiktebalsngets.com^
 ||mrsbpo.com^
 ||mrsmeyers.com^
+||msrof.com^
 ||mtest.com.sa^
 ||mtjyouelk.com^
 ||mtrosecogic.org^
@@ -1644,6 +1663,7 @@
 ||mybasicfashion.com^
 ||mycarexpenses.com^
 ||mycarlsbadinsurance.com^
+||myccoder.com^
 ||mycdi.ca^
 ||myfitboo.com^
 ||myfw.com^
@@ -1789,6 +1809,7 @@
 ||oodrive.com^
 ||opentable.com^
 ||operationsdeclinedtop.coffee^
+||opinionintelligent.com^
 ||opitmizepress.com^
 ||oppehunnio.click^
 ||oppepoeli.click^
@@ -1828,6 +1849,7 @@
 ||panamericantrading.com^
 ||panerabread.com^
 ||pantalikon.com^
+||papamurphys.com^
 ||parhelionaccounting.com^
 ||parker.distilwaters.com^
 ||parler.com^
@@ -1867,6 +1889,7 @@
 ||philforcolorado.com^
 ||phishtrain.org^
 ||photon-ll.com^
+||photozis.com^
 ||phyundab.com^
 ||pictureofthedayfeature.net^
 ||pictureunlimited.com^
@@ -1978,6 +2001,7 @@
 ||quizderes.com^
 ||quizvolt.com^
 ||racyters.com^
+||radarfeedback.com^
 ||radicaltechreveal.com^
 ||radioddity.com^
 ||rafdxnsds.com^
@@ -2030,6 +2054,7 @@
 ||resslahanjengmemek.com^
 ||resttedd.com^
 ||resy.com^
+||reupolde.com^
 ||reviewzportal.com^
 ||revolutionpro.org^
 ||revolveswrotebring.com^
@@ -2062,6 +2087,7 @@
 ||rollinginthatdough.com^
 ||rollingstone.com^
 ||romwe.com^
+||rongaiathletics.com^
 ||roofmasterspro.com^
 ||roolerpink.org^
 ||ropeacces.com^
@@ -2130,7 +2156,6 @@
 ||secretmakeups.com^
 ||securely.com^
 ||securey0urfuture.info^
-||securitytrails.com^
 ||seedlingkinderschool.org^
 ||seemingle.com^
 ||segregated-possessed.com^
@@ -2246,6 +2271,7 @@
 ||specialmomentforme.co.uk^
 ||speed.digitalmarketinglobe.com^
 ||speeddirectlytoward.co.uk^
+||speedofgiving.com^
 ||speedperks.com^
 ||spfk12.org^
 ||splendourdance.com^
@@ -2323,6 +2349,7 @@
 ||stylehousedecor.com^
 ||styleisthenewblack.com^
 ||subbonus.in.net^
+||subtlenotion.com^
 ||successandintelligence.com^
 ||successfulcrisis.fun^
 ||suesd.org^
@@ -2376,9 +2403,11 @@
 ||taxuzbmivih.com^
 ||teachinginvestors.com^
 ||team.moneybank.cyberservices.com^
+||teamxaviers.org^
 ||teaparty247.org^
 ||technologicsolution.in^
 ||technolutions.net^
+||techtrendsone.com^
 ||tecnm.mx^
 ||teddded.com^
 ||teeice.com^
@@ -2403,6 +2432,7 @@
 ||thankhug.com^
 ||thanksd.com^
 ||thebabooshka.com^
+||thebestchangge.com^
 ||thebestnlsites.com^
 ||thebrightdecor.org.in^
 ||thebuttonradio.com^
@@ -2534,7 +2564,6 @@
 ||tworiverswinery.com^
 ||tworld.com^
 ||twtge.com^
-||twtge.com^
 ||tytydmoshfit.com^
 ||uartes.edu.ec^
 ||ubcqimrfvx.com^
@@ -2552,6 +2581,7 @@
 ||umich.edu^
 ||umpurd.com^
 ||unadvirtual.edu.co^
+||unah.hn^
 ||unam.mx^
 ||unbelievablycomplexstep.com^
 ||unchartedvalues.com^
@@ -2636,6 +2666,7 @@
 ||vcmoffers.com^
 ||vedicgem.com^
 ||vehiestore.com^
+||velziogimnazija.lt^
 ||verificationme.com^
 ||verizonmedia.com^
 ||vers.co.in^
@@ -2694,6 +2725,7 @@
 ||webmaphosts.com^
 ||wedos.net^
 ||weebly.com^
+||weeverify.com^
 ||weightlossessence.com^
 ||welcometootheworld.com^
 ||welderslog.com^
