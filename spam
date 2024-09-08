@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sun September 01 2024 22:10:00 UTC
-# Number of unique domains: 2779
+# Date: Sun September 08 2024 16:46:00 UTC
+# Number of unique domains: 2850
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -33,6 +33,7 @@
 ||9areblilo.com^
 ||aagorph.com^
 ||aaronbennettonline.com^
+||abbentek.com^
 ||abdataclassactionmail.com^
 ||abuh-abahmedan01.net^
 ||accelerateconsiderably.com^
@@ -51,6 +52,7 @@
 ||acmailers.com^
 ||act.democrats.org^
 ||activehealthyfun.org^
+||adamasgems.com^
 ||adamforcolorado.com^
 ||adamschiff.com^
 ||adamson.edu.ph^
@@ -171,6 +173,7 @@
 ||arizonaopticalsystems.com^
 ||arktisklada.com^
 ||arriannasver.net^
+||artisanmarketvip.com^
 ||artisansofiq.com^
 ||artnursery.org^
 ||as-j.net^
@@ -190,6 +193,7 @@
 ||assuranceshub.com^
 ||astate.edu^
 ||astrology.com^
+||asu.edu^
 ||asurion.com^
 ||atheneumsinttruiden.be^
 ||athomeupdates.org^
@@ -386,6 +390,7 @@
 ||cariberoyale.com^
 ||carinsurancezilla.com^
 ||carnately.com^
+||caronetwork.com^
 ||carrierzone.com^
 ||cartiercul.com^
 ||casaexterminators.com^
@@ -394,6 +399,7 @@
 ||cbssports.com^
 ||cdn.tpusa.com^
 ||cedar-bringer.com^
+||cefet-rj.br^
 ||celeritystaff.pro^
 ||celestialobjectsvisible.com^
 ||celides.com^
@@ -573,8 +579,10 @@
 ||customsever.com^
 ||cvb.liacooks.net^
 ||cvshealthcare.com^
+||cyaniti.com^
 ||cybercoders.com^
 ||cyberservices.com^
+||cybertechelite.com^
 ||czoeffects.com^
 ||d1issuingbanks.com^
 ||d5live.net^
@@ -595,6 +603,7 @@
 ||davidepao.com^
 ||davingar.com^
 ||dawnsobolewski.com^
+||daymakehaste.com^
 ||daymasterpieces.com^
 ||dayofeternaljoy.com^
 ||daytimec0ntr0ldevice.info^
@@ -647,6 +656,7 @@
 ||digitalmarketinglobe.com^
 ||digitalmediapowerhouse.com^
 ||digitalmoneyusa.com^
+||digitalreaddepot.com^
 ||digitalz.org^
 ||dignitymemorial.com^
 ||dikr.co.uk^
@@ -712,6 +722,7 @@
 ||ecwrd.ae^
 ||edgeservicing.com^
 ||edit.ne.jp^
+||eds.com^
 ||edu.br^
 ||edu.co^
 ||edu.eg^
@@ -742,6 +753,7 @@
 ||elevated-pen.com^
 ||elevatedvapourreadings.org^
 ||elextrixshop.com^
+||elitedeliciouseats.com^
 ||em.honda.com^
 ||em.nbcsports.com^
 ||em.shutterfly.com^
@@ -784,7 +796,6 @@
 ||energycloudnetwork.com^
 ||energyisatypeofforceboson.camp^
 ||eng-kol-bredd.org^
-||asu.edu^
 ||enhancedrefinance.com^
 ||eniac.edu.br^
 ||ens.univ-artois.fr^
@@ -795,6 +806,7 @@
 ||envmay.com^
 ||ephemeralcounters.api.roblox.com^
 ||epiqpay.com^
+||eptn.pt^
 ||equalamus.ru.com^
 ||equalscentripetalmove.com^
 ||equifaxbreachsettlement.com^
@@ -978,6 +990,7 @@
 ||gaddabouts.com^
 ||gadget-arena.net^
 ||gaidkepacakvtu284.com^
+||gamblegalaxyvip.com^
 ||gamehivestudios.com^
 ||gamepartzone.com^
 ||gamesandappstore.com^
@@ -1023,6 +1036,7 @@
 ||gioguall.life^
 ||girltalkfoundationinc.com^
 ||givemazingthings.com^
+||givepresente.com^
 ||givinngeveryday.com^
 ||gladbernard.com^
 ||glcc.edu^
@@ -1080,6 +1094,7 @@
 ||grcgrupa.com^
 ||greasemonkey.com^
 ||greasemonkeyauto.com^
+||greatchicelegance.com^
 ||greatdaynew.com^
 ||greatelegancehomedecor.com^
 ||greaterlifestylenow.com^
@@ -1154,6 +1169,7 @@
 ||hearthistoday.com^
 ||heartlink-management.com^
 ||heavenonearthapparel.com^
+||heepix.com^
 ||hei.fr^
 ||hellofresh^
 ||helowebsite.com^
@@ -1167,6 +1183,7 @@
 ||hickenlooper.com^
 ||hiddengearvault.com^
 ||higher-phone.com^
+||highglamourglow.com^
 ||highmxiehwa.com^
 ||hightechpavilion.net^
 ||higotechnologies.com^
@@ -1385,6 +1402,7 @@
 ||kcstarlight.com^
 ||kean.edu^
 ||keepmy.space^
+||kefwud.com^
 ||kelkorta.com^
 ||kennydirts.com^
 ||kensingtontours.com^
@@ -1616,9 +1634,11 @@
 ||mondaysswimwear.com^
 ||moneysecretscenter.com^
 ||monitorbitcoinoffice.com^
+||monksys.com^
 ||monlau.com^
 ||monodrup.com^
 ||monotezion.com^
+||monthsopportunity.com^
 ||moralamp.com^
 ||morcellateunligable.makeup^
 ||moresier.com^
@@ -1679,6 +1699,7 @@
 ||mysticalusa.info^
 ||mystou.net^
 ||mytavalifestyle.com^
+||nagadexpress.com^
 ||nameservices.net^
 ||nationalbankofamerica.com^
 ||nationalbanksuppliers.com^
@@ -1744,6 +1765,8 @@
 ||ntp-g7g.amazon.com^
 ||nuclear-mill.us^
 ||nuipqhkwg.com^
+||numaymolina.com^
+||numerique-educatif.fr^
 ||nutricooker.com^
 ||nwbvcwp.com^
 ||nytimes.com^
@@ -1761,6 +1784,7 @@
 ||office365.ulisboa.pt^
 ||official.nike.com^
 ||officialproudboys.com^
+||offpricesports.com^
 ||ogr.akdeniz.edu.tr^
 ||ogr.comu.edu.tr^
 ||ogrenci.btu.edu.tr^
@@ -1798,6 +1822,7 @@
 ||onlinemarketingacademia.com^
 ||onlinemarketinglooks.com^
 ||onlinerewardszone.com^
+||onlinesellexpert.com^
 ||onlineshopperskohls.com^
 ||onlineskincares.com^
 ||onlinestudytoday.com^
@@ -1809,6 +1834,7 @@
 ||oodrive.com^
 ||opentable.com^
 ||operationsdeclinedtop.coffee^
+||opinioncentralvip.com^
 ||opinionintelligent.com^
 ||opitmizepress.com^
 ||oppehunnio.click^
@@ -1818,6 +1844,7 @@
 ||orange.cz^
 ||orange.sn^
 ||orangetor.com^
+||org.br^
 ||orientateyourself.com^
 ||originalgraphiteplace.co.uk^
 ||osfuelsend.com^
@@ -1851,6 +1878,7 @@
 ||pantalikon.com^
 ||papamurphys.com^
 ||parhelionaccounting.com^
+||parisnanterre.fr^
 ||parker.distilwaters.com^
 ||parler.com^
 ||particularlybrightobject.org^
@@ -1976,6 +2004,7 @@
 ||provincia.tn.it^
 ||ps.palmws.com^
 ||pse-pas.com^
+||pseglistore.com^
 ||pthomas.cyberservices.com^
 ||puaiawpmuembreua.com^
 ||public-edu.co.uk^
@@ -2004,6 +2033,7 @@
 ||radarfeedback.com^
 ||radicaltechreveal.com^
 ||radioddity.com^
+||radoszycesp.pl^
 ||rafdxnsds.com^
 ||raftarfeed.com^
 ||raj.cyberservices.com^
@@ -2161,6 +2191,7 @@
 ||segregated-possessed.com^
 ||seleonol.com^
 ||selfreliiance.com^
+||sellonlinemarketplace.com^
 ||senate.gov^
 ||senatemajority.com^
 ||send-profit.com^
@@ -2393,6 +2424,7 @@
 ||tacticalsurvivor.net^
 ||tadnisantasi.com^
 ||tagmany.com^
+||takeflightll.com^
 ||talentburst.com^
 ||tamodo.com^
 ||tanpabapak.com^
@@ -2405,6 +2437,7 @@
 ||team.moneybank.cyberservices.com^
 ||teamxaviers.org^
 ||teaparty247.org^
+||techilem.com^
 ||technologicsolution.in^
 ||technolutions.net^
 ||techtrendsone.com^
@@ -2472,6 +2505,8 @@
 ||thevalleypound.com^
 ||thinklittlebigmarketing.com^
 ||thirtyminutehomeworkout.com^
+||thomasko.com^
+||thorntonacademy.org^
 ||threeam.com.au^
 ||threefirstclassmatch.com^
 ||threemonthsoflisting.tel^
@@ -2507,6 +2542,7 @@
 ||tomartravels.com^
 ||top10browsing.com^
 ||top10fashions.com^
+||topcartonline.com^
 ||topstoriessection.com^
 ||topuptat.com^
 ||touchingtheground.net^
@@ -2566,6 +2602,7 @@
 ||twtge.com^
 ||tytydmoshfit.com^
 ||uartes.edu.ec^
+||uba.ar^
 ||ubcqimrfvx.com^
 ||uber.com^
 ||ubidibs.com^
@@ -2680,6 +2717,7 @@
 ||villamacaradi.com^
 ||vineyardvines.com^
 ||violaflair.com^
+||vipartprints.com^
 ||vipeducation.edu.my^
 ||virginpulse.com^
 ||virtualassistantsservice.com^
@@ -2702,6 +2740,7 @@
 ||walkamileclub.net^
 ||wallstreetbusinesstigers.com^
 ||washingtontimesnews.com^
+||watanaloud.com^
 ||watchworldmagzine.org^
 ||waterformingsurface.org^
 ||waterfrontwest.net^
@@ -2807,10 +2846,12 @@
 ||zerocarpayment.com^
 ||zoho.eu^
 ||zohoinsights.com^
+||zohoprojects.eu^
 ||zoneine.com^
 ||zpxhddyvo.com^
 ||zs4leszno.pl^
 ||zsp2-krotoszyn.pl^
 ||zuhgo.com^
+||zyanime.com^
 ||zynga.com^
 ||zzy.guru^
