@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sun September 08 2024 16:46:00 UTC
-# Number of unique domains: 2850
+# Date: Sun September 10 2024 21:34:00 UTC
+# Number of unique domains: 2906
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -67,6 +67,7 @@
 ||adverthosts.com^
 ||ae-ginestalmachado.pt^
 ||aemm.pt^
+||aeolidia.com^
 ||aerautumn.com^
 ||aeriagames.com^
 ||aerialcubes.com^
@@ -123,6 +124,7 @@
 ||alumnoifp.es^
 ||aluno.sesiescola.org.br^
 ||aluno.unicesumar.edu.br^
+||alunocarioca.rio^
 ||alunos.epbjc.pt^
 ||alunos.fibbauru.br^
 ||alunosatc.edu.br^
@@ -224,6 +226,7 @@
 ||axzopress.com^
 ||ayamgulaicuy.com^
 ||aydinotoankara.com^
+||ayersupply.com^
 ||b33r.us^
 ||babycarehub.net^
 ||backdefence.net^
@@ -674,6 +677,7 @@
 ||discounttraveldirect.com^
 ||discovermychild.com^
 ||dismdus.com^
+||dispatchthenew.com^
 ||distilwaters.com^
 ||ditariackedvapored.lol^
 ||dled-aore.com^
@@ -682,6 +686,7 @@
 ||dnsmedomain.com^
 ||doakaromah.com^
 ||dobintastik.me^
+||dobsour.com^
 ||docomo-usa.com^
 ||doctorondemand.com^
 ||documentsincollectedseveral.news^
@@ -761,6 +766,7 @@
 ||elevatedvapourreadings.org^
 ||elextrixshop.com^
 ||elitedeliciouseats.com^
+||eliteniceadvisors.com^
 ||em.honda.com^
 ||em.nbcsports.com^
 ||em.shutterfly.com^
@@ -882,6 +888,7 @@
 ||fashions16.com^
 ||fastcompany.com^
 ||fastestinspiralrate.com^
+||fastfeedbacknow.com^
 ||fastreactorsimportant.church^
 ||fastsavingshere.co^
 ||fatppek.com^
@@ -896,6 +903,7 @@
 ||fecostarica.com^
 ||feeds.tpusa.com^
 ||fellowshipepc.org^
+||feriassie.com^
 ||ferrysp.us^
 ||fg169.com^
 ||fig.theravereviews.com^
@@ -953,6 +961,7 @@
 ||foolicritses.it^
 ||forensic-architecture.org^
 ||forever21.com^
+||foreverbrewery.com^
 ||forgetmassives.com^
 ||fortunate-finances.com^
 ||forumgameslive.com^
@@ -1189,6 +1198,7 @@
 ||heretopiecesao.lol^
 ||heritage-shot.us^
 ||heroicusa.in.net^
+||herrealliving.com^
 ||hgfsafasd8.com^
 ||hickenlooper.com^
 ||hiddengearvault.com^
@@ -1363,6 +1373,7 @@
 ||itrithuc.vn^
 ||ivacationforever.com^
 ||ivalisgroup.com^
+||ixcomb.com^
 ||jakkloref.com^
 ||jas1.ds.jas.com^
 ||jasagbclanpebeh.com^
@@ -1376,6 +1387,7 @@
 ||jewelhomecarellc.com^
 ||jewishinboston.com^
 ||jiangzichaofan.net^
+||jianhuimetals.net^
 ||jklasercutting.com^
 ||jmzarchitects.com^
 ||jnt-warriors.com^
@@ -1441,6 +1453,7 @@
 ||kohlsnonstick.com^
 ||kohlsproducts.com^
 ||kolpocen.com^
+||komikko.com^
 ||komkesberaksi.com^
 ||kongduts.com^
 ||kopaakelas.xyz^
@@ -1536,6 +1549,7 @@
 ||lqphhokgx.com^
 ||lsmaravillas.com^
 ||lucilts.com^
+||luckpeaceofmind.com^
 ||luckyracers.com^
 ||m512rk.com^
 ||macdlst.com^
@@ -1626,6 +1640,7 @@
 ||michellemolinabeauty.com^
 ||microlensingevents.com^
 ||microscopicsinglecelled.org^
+||mielec.pl^
 ||mielwa.com^
 ||millionocracyundeify.hair^
 ||mineplex.com^
@@ -1714,6 +1729,7 @@
 ||mysticalusa.info^
 ||mystou.net^
 ||mytavalifestyle.com^
+||naestved-cds.dk^
 ||nagadexpress.com^
 ||nameservices.net^
 ||nationalbankofamerica.com^
@@ -1726,6 +1742,7 @@
 ||ndtau-jjmanning.com^
 ||nec.co.jp^
 ||nennydish.com^
+||nervide.com^
 ||nesholth.com^
 ||netflixsubs.com^
 ||neticla.com^
@@ -1741,12 +1758,14 @@
 ||newcapitalissues.com^
 ||newcocout.com^
 ||neweducdept.com^
+||newgreatday.com^
 ||neworleans-food.com^
 ||news.iadsdk.apple.com^
 ||newscientist.com^
 ||newsmemory.com^
 ||newstodaytech.com^
 ||newstoreweb.net^
+||newtperiod.com^
 ||newyearresolution.site^
 ||next1occurs.cloud^
 ||nextdoor.com^
@@ -1802,6 +1821,7 @@
 ||official.nike.com^
 ||officialproudboys.com^
 ||offpricesports.com^
+||ofkens.com^
 ||ogr.akdeniz.edu.tr^
 ||ogr.comu.edu.tr^
 ||ogrenci.btu.edu.tr^
@@ -1888,6 +1908,7 @@
 ||pagesglobal.com^
 ||paintsha.us^
 ||palak4767singgmail.com^
+||palmasport.es^
 ||palmws.com^
 ||palteolitheraic.com^
 ||panamericantrading.com^
@@ -2207,6 +2228,7 @@
 ||searshomeservices.com^
 ||seasunrisecrc.com^
 ||secretmakeups.com^
+||secureidapp.com^
 ||securely.com^
 ||securey0urfuture.info^
 ||seedlingkinderschool.org^
@@ -2285,6 +2307,7 @@
 ||skippercareerbest.net^
 ||skolahranicka.cz^
 ||skratchlabs.com^
+||skvob.nl^
 ||skydslir.com^
 ||skyvats.com^
 ||slceps.org.uk^
@@ -2345,6 +2368,7 @@
 ||squaremktg.com^
 ||sredfinance.com^
 ||sriutama.edu.my^
+||sroams.com^
 ||ssastatements-notifications.org^
 ||ssgreatbritian.com^
 ||ssm1.internet.sony.tv^
@@ -2444,6 +2468,7 @@
 ||t-mobile.com^
 ||t-online.de^
 ||t2accountancy.co.uk^
+||tacmotion.com^
 ||tacticalsurvivor.net^
 ||tadnisantasi.com^
 ||tagmany.com^
@@ -2634,6 +2659,7 @@
 ||uce.edu.ec^
 ||ucr.edu^
 ||uerwtlopauwjs.com^
+||ufmg.br^
 ||ufromail.cl^
 ||ufsc.br^
 ||uic.edu^
@@ -2672,6 +2698,7 @@
 ||universityavenue.org^
 ||universitydigitalcopy.com^
 ||universityindex.org^
+||univpm.it^
 ||unizar.es^
 ||unlv.edu^
 ||unusedretainrelieved.makeup^
@@ -2759,17 +2786,20 @@
 ||votedemocrats.net^
 ||votersfirstvictoryfund.org^
 ||vrflier.com^
+||vusalaalizade.com^
 ||wageworks.com^
 ||walgre320ens.com^
 ||walgre906ens.com^
 ||walkamileclub.net^
 ||wallstreetbusinesstigers.com^
+||waltonemc.com^
 ||washingtontimesnews.com^
 ||watanaloud.com^
 ||watchworldmagzine.org^
 ||waterformingsurface.org^
 ||waterfrontwest.net^
 ||wavedir.com^
+||waw.pl^
 ||waystofindconfidence.rest^
 ||wclpainting.com^
 ||wcusd.net^
