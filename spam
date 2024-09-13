@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sun September 10 2024 21:34:00 UTC
-# Number of unique domains: 2906
+# Date: Sun September 13 2024 00:07:00 UTC
+# Number of unique domains: 2938
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -195,6 +195,7 @@
 ||assayyara.com^
 ||assetsurveysolutions.co.uk^
 ||assistwebappscare.com^
+||assuranceengagement.com^
 ||assuranceshub.com^
 ||astate.edu^
 ||astrology.com^
@@ -223,6 +224,7 @@
 ||awudhyugsyg.com^
 ||axcgnzkme.com^
 ||axesurvival.com^
+||axizza.com^
 ||axzopress.com^
 ||ayamgulaicuy.com^
 ||aydinotoankara.com^
@@ -401,6 +403,7 @@
 ||cartiercul.com^
 ||casaexterminators.com^
 ||cash.musicspb.com^
+||castilabs.com^
 ||castirnulop.com^
 ||cbssports.com^
 ||cdn.tpusa.com^
@@ -438,10 +441,12 @@
 ||choices-4-homeowners.com^
 ||choicevcqdx.com^
 ||cht.co.nz^
+||cincinaura.com^
 ||circasteel.com^
 ||circuitrad.info^
 ||cityteleconference.com^
 ||ciwideyhotel.com^
+||cjminori.com^
 ||cksc.edu.ph^
 ||clair-voyance.me^
 ||clandestinfevr.de.com^
@@ -480,7 +485,9 @@
 ||cmkkagafhr.com^
 ||cnbc.com^
 ||cnpschools.org^
+||cnteafair.net^
 ||coachsuccess.org^
+||cobaltadvocates.org^
 ||cobney.com^
 ||cobwebethereal.com^
 ||coccilqbysl.com^
@@ -654,6 +661,7 @@
 ||dharmous.com^
 ||diaconnector.com^
 ||dialiana.com^
+||dierbai.com^
 ||dieselace.com^
 ||dietpromos.com^
 ||dietslim.net^
@@ -748,6 +756,7 @@
 ||edu.vn^
 ||edu0.ml^
 ||edubizz.me^
+||educantabria.es^
 ||educastur.es^
 ||educati0n.ml^
 ||educationguidezone.com^
@@ -853,6 +862,7 @@
 ||everydayshoppingnow.com^
 ||ewab-ontraport.net^
 ||excelgens.com^
+||excellenceleisureescapes.com^
 ||excellentcraftobsolete.com^
 ||exclusiveeasy.com^
 ||exclusivefindspro.com^
@@ -1008,6 +1018,7 @@
 ||gaddabouts.com^
 ||gadget-arena.net^
 ||gaidkepacakvtu284.com^
+||galuen.com^
 ||gamblegalaxyvip.com^
 ||gamehivestudios.com^
 ||gamepartzone.com^
@@ -1149,6 +1160,7 @@
 ||handelspoolservices.com^
 ||handicomp.com^
 ||hankypanky.com^
+||hannelli.com^
 ||hanstaffing.com^
 ||happydonn.com^
 ||happyestatehome.net^
@@ -1329,6 +1341,7 @@
 ||insurancehero.net^
 ||insurancesuperiorwi.com^
 ||insurancesystemsweb.com^
+||insurlocal.com^
 ||intecap.edu.gt^
 ||intellectblog.info^
 ||intellectt.com^
@@ -1425,6 +1438,7 @@
 ||kclsed.org^
 ||kcstarlight.com^
 ||kean.edu^
+||keepermp.com^
 ||keepmy.space^
 ||kefwud.com^
 ||kelkorta.com^
@@ -1473,6 +1487,7 @@
 ||lakes-chic.com^
 ||lakmibeautyproducts.com^
 ||lalinearoja.net^
+||lanierdentalcare.com^
 ||lankyfiber.com^
 ||lardbargains.com^
 ||lasermin.com^
@@ -1488,6 +1503,7 @@
 ||leaningright.net^
 ||learnenglishdictionary.com^
 ||learnerscope.com^
+||leaudipp.com^
 ||leeoutdoorpower.com^
 ||legalmediacheck.com^
 ||leisurelytravelvip.com^
@@ -1511,6 +1527,7 @@
 ||lightdevicethreatpose.co.uk^
 ||lightningquickdailydeals.com^
 ||limitededitiongoods.com^
+||limitedtimetoday.com^
 ||lincolns100thbirthday.skin^
 ||linesatmultiplelevels.org^
 ||linewiki.com^
@@ -1602,6 +1619,7 @@
 ||marconi-galletti.it^
 ||maricopawebdesignseo.com^
 ||marios.tds.net^
+||maristasalajuela.org^
 ||market4sports.com^
 ||marketingwebsites.biz^
 ||marketsourceinfo.com^
@@ -1621,6 +1639,7 @@
 ||mcansi.net^
 ||mccd.edu^
 ||mcteam.com^
+||mdsline.com^
 ||mealdeliveryhome.info^
 ||meaningfulsilentwordsappear.com^
 ||medallia.com^
@@ -1650,6 +1669,7 @@
 ||minimalsampleexposure.org^
 ||missingtheentiretoppart.net^
 ||misticcar.com^
+||mizarack.com^
 ||mkefestivals.com^
 ||mkt.marketsandcoffee.com^
 ||moantfor.com^
@@ -1786,6 +1806,7 @@
 ||noreply1-secure.com^
 ||noreply2-secure.com^
 ||norly2023.com^
+||normalontheoutside.com^
 ||northdit.host^
 ||northwestwindshielddoctor.com^
 ||norton.com^
@@ -1798,6 +1819,7 @@
 ||now-sure.com^
 ||nowdayhappy.com^
 ||nptu.edu.tw^
+||nric-ri.org^
 ||ntp-g7g.amazon.com^
 ||nuclear-mill.us^
 ||nuipqhkwg.com^
@@ -1971,6 +1993,7 @@
 ||pittmandavis.com^
 ||pjimail6.com^
 ||pku.edu.cn^
+||plainsborohomes.com^
 ||planetsvariablemagnetic.org^
 ||plantharm.com^
 ||playfab.com^
@@ -1996,6 +2019,7 @@
 ||pomailer2868.com^
 ||pomailer339.com^
 ||pooprotest.com^
+||poorhyt.com^
 ||popnorra.info^
 ||portfolio-arts.com^
 ||portlandsportsplaza.com^
@@ -2148,6 +2172,7 @@
 ||rmasmayanloh.com^
 ||rnchq.com^
 ||roadtome.com^
+||roadttosuccess.com^
 ||roberthalf.com^
 ||roboform.com^
 ||robuxday.com^
@@ -2173,6 +2198,7 @@
 ||rubberartstamps.com^
 ||rubichons.com^
 ||runsignup.com^
+||rushgreco.com^
 ||rushthenew.com^
 ||rvpmpharmacy.com^
 ||rwsinerji.com^
@@ -2185,6 +2211,7 @@
 ||sagaarmhole.com^
 ||saintmichelannecy.fr^
 ||salehys23.co^
+||salesavvypro.com^
 ||salonsalonfostercity.com^
 ||salonservicespro.com^
 ||samelil.com^
@@ -2303,6 +2330,7 @@
 ||sitesafetyaudits.net^
 ||sitesplane.com^
 ||sjno.net^
+||skeyecast.com^
 ||skincare99.org^
 ||skippercareerbest.net^
 ||skolahranicka.cz^
@@ -2575,6 +2603,7 @@
 ||timeframeisarounddo.co.uk^
 ||timelinemarketingexecutive.net^
 ||timeofthecloseapproach.com^
+||timetofethiye.com^
 ||timewindmedia.com^
 ||tint-temple.com^
 ||tipsygummies.com^
@@ -2593,6 +2622,7 @@
 ||top10browsing.com^
 ||top10fashions.com^
 ||topcartonline.com^
+||topsavorysips.com^
 ||topstoriessection.com^
 ||topuptat.com^
 ||touchingtheground.net^
@@ -2732,6 +2762,7 @@
 ||ustsoftwares.org^
 ||utalca.cl^
 ||utec.edu.sv^
+||utem.cl^
 ||utenlife.com^
 ||uthrad.pl^
 ||utm.my^
@@ -2880,6 +2911,7 @@
 ||yandesbafdrgtjyoutlook.com^
 ||ybwzx.com^
 ||yearofeternaljoy.com^
+||yhmetals.com^
 ||yogaium.net^
 ||yolcar.es^
 ||yorijore1.rdersaini.com^
