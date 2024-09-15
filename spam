@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sun September 13 2024 00:07:00 UTC
-# Number of unique domains: 2938
+# Date: Sun September 15 2024 13:53:00 UTC
+# Number of unique domains: 2953
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -194,6 +194,7 @@
 ||asphaltrepair.com^
 ||assayyara.com^
 ||assetsurveysolutions.co.uk^
+||assimap.com^
 ||assistwebappscare.com^
 ||assuranceengagement.com^
 ||assuranceshub.com^
@@ -281,6 +282,7 @@
 ||benmarum.com^
 ||bennet.senate.gov^
 ||bentouladerri.com^
+||bergencatholichs.org^
 ||bestareyours.com^
 ||bestcomcastoffers.com^
 ||besthomebuyereducation.com^
@@ -418,6 +420,7 @@
 ||centinel.cl^
 ||centralsmarket.com^
 ||cerisetechsolutions.com^
+||chadaoban.com^
 ||change.org^
 ||changeeyourlife.com^
 ||chaostips.com^
@@ -905,6 +908,7 @@
 ||fatvsfood.com^
 ||fau.edu^
 ||favourlistoficecubesclosure.com^
+||fbredacao.com^
 ||fc4research.com^
 ||fcu.edu.tw^
 ||featherbedroom.com^
@@ -1312,6 +1316,7 @@
 ||inbox.lt^
 ||inclassmates.info^
 ||indianrails.in^
+||indodep.com^
 ||industriousoverrated.org^
 ||inernecocli.edu.co^
 ||infini.fr^
@@ -1434,6 +1439,7 @@
 ||kajabimail.net^
 ||karachisports.life^
 ||karatesupply.com^
+||katieandspud.com^
 ||katieporter.com^
 ||kclsed.org^
 ||kcstarlight.com^
@@ -1449,6 +1455,7 @@
 ||kesphe.com^
 ||kev2023.co^
 ||kev2023.com^
+||kevinortzman.net^
 ||kfront.net^
 ||khohlpanelpetales.com^
 ||kidoidn.com^
@@ -1623,6 +1630,7 @@
 ||market4sports.com^
 ||marketingwebsites.biz^
 ||marketsourceinfo.com^
+||marlati.com^
 ||marleneolivi.com^
 ||martianroversrecording.com^
 ||maseafter.cyberservices.com^
@@ -1810,6 +1818,7 @@
 ||northdit.host^
 ||northwestwindshielddoctor.com^
 ||norton.com^
+||notarizefl.com^
 ||notathomesecurity.com^
 ||notourwar.com^
 ||notsolive.com^
@@ -1825,6 +1834,7 @@
 ||nuipqhkwg.com^
 ||numaymolina.com^
 ||numerique-educatif.fr^
+||numobul.com^
 ||nutricooker.com^
 ||nwbvcwp.com^
 ||nytimes.com^
@@ -1987,6 +1997,7 @@
 ||pictureunlimited.com^
 ||pikestudent.net^
 ||pimpolhinho.org^
+||pinglede.com^
 ||pioneerpayton.com^
 ||pises.edu.sa^
 ||pitchbo542ok.com^
@@ -2337,6 +2348,7 @@
 ||skratchlabs.com^
 ||skvob.nl^
 ||skydslir.com^
+||skytuck.com^
 ||skyvats.com^
 ||slceps.org.uk^
 ||slewingbackdreadfulclumps.camp^
@@ -2508,6 +2520,7 @@
 ||tareepholy.online^
 ||tasbihwali.com^
 ||tavsiktlig.com^
+||tawarwghayar.com^
 ||taxuzbmivih.com^
 ||teachinginvestors.com^
 ||team.moneybank.cyberservices.com^
@@ -2841,6 +2854,7 @@
 ||wearepricing.com^
 ||web-supplements.com^
 ||web.de^
+||webanzwers.com^
 ||webdisk.tpaction.com^
 ||webdisk.tpusa.com^
 ||webengineonline.com^
@@ -2850,6 +2864,7 @@
 ||webmaphosts.com^
 ||wedos.net^
 ||weebly.com^
+||weekofeternaljoy.com^
 ||weeverify.com^
 ||weightlossessence.com^
 ||welcometootheworld.com^
