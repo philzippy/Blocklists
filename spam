@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sun September 15 2024 13:53:00 UTC
-# Number of unique domains: 2953
+# Date: Sun September 16 2024 00:45:00 UTC
+# Number of unique domains: 3213
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -17,6 +17,7 @@
 ||199382.com^
 ||1fcf.playfabapi.com^
 ||1stnationalbank.com^
+||1utar.my^
 ||21securefaceauthentication.yoga^
 ||2bizfella.co.uk^
 ||2c3m.com^
@@ -36,6 +37,7 @@
 ||abbentek.com^
 ||abdataclassactionmail.com^
 ||abuh-abahmedan01.net^
+||abwservice.com^
 ||accelerateconsiderably.com^
 ||accereac.com^
 ||accessabilityoasis.com^
@@ -72,6 +74,7 @@
 ||aeriagames.com^
 ||aerialcubes.com^
 ||aerocaredirect.com^
+||aevt.pt^
 ||afaqy.com^
 ||afromajority.com^
 ||agencyinbox.com^
@@ -288,6 +291,7 @@
 ||besthomebuyereducation.com^
 ||bestmktstrategist.com^
 ||besttastytreatshub.com^
+||besttraveltrailblazers.com^
 ||beta.tpusa.com^
 ||betoorourke.com^
 ||bettasfishaquarium.com^
@@ -376,6 +380,7 @@
 ||buzzyourlinks.net^
 ||bvxlpcwsm.com^
 ||ca.caretipsforyou.com^
+||cafrist.com^
 ||calancejobs.com^
 ||caleb.mailtoawy.com^
 ||calfornc.com^
@@ -399,6 +404,7 @@
 ||caretipsforyou.com^
 ||cariberoyale.com^
 ||carinsurancezilla.com^
+||carmelrincon.com^
 ||carnately.com^
 ||caronetwork.com^
 ||carrierzone.com^
@@ -408,6 +414,8 @@
 ||castilabs.com^
 ||castirnulop.com^
 ||cbssports.com^
+||ccetkuwait.org^
+||ccsk12.net^
 ||cdn.tpusa.com^
 ||cedar-bringer.com^
 ||cefet-rj.br^
@@ -498,6 +506,7 @@
 ||codeemail.net^
 ||coffeeofgoodness.com^
 ||coinpfft.com^
+||coldplay.com^
 ||colegioneuzadutra.com^
 ||colegiorodrigolarabonilla.edu.co^
 ||colegiovirtualsigloxxi.edu.co^
@@ -743,11 +752,13 @@
 ||ecommweb.biz^
 ||ecommwebs.net^
 ||ecwrd.ae^
+||ed.cr^
 ||edgeservicing.com^
 ||edit.ne.jp^
 ||eds.com^
 ||edu.br^
 ||edu.co^
+||edu.ec^
 ||edu.eg^
 ||edu.gh^
 ||edu.lv^
@@ -785,6 +796,7 @@
 ||em.target.com^
 ||em6006.infinity-skincare.com^
 ||ema.dareambiguous.com^
+||email-advanceautoparts.com^
 ||email-sagehotelscollection.com^
 ||email.ancestry.com^
 ||email.events.tpaction.com^
@@ -813,6 +825,7 @@
 ||emory.edu^
 ||emphalas.com^
 ||enchantorproducts.com^
+||enderuncolleges.com^
 ||endofmarkets.net^
 ||endurance-cave.com^
 ||enduvo.com^
@@ -897,6 +910,7 @@
 ||faresamga.com^
 ||farmhouseinteriordesigns.net^
 ||fascaring.com^
+||fashionforafiniteplanet.com^
 ||fashionfusionhubvip.com^
 ||fashions16.com^
 ||fastcompany.com^
@@ -1123,12 +1137,14 @@
 ||grandsmileup.com^
 ||granite-change.com^
 ||grantamp.us^
+||graovasco.net^
 ||graphicgravy.com^
 ||grcgrupa.com^
 ||greasemonkey.com^
 ||greasemonkeyauto.com^
 ||greatchicelegance.com^
 ||greatdaynew.com^
+||greatdivinedishes.com^
 ||greatelegancehomedecor.com^
 ||greaterlifestylenow.com^
 ||greatwanderwise.com^
@@ -1269,6 +1285,7 @@
 ||howtofindthisdeal.com^
 ||howtosavemoney.net^
 ||hrcygs.com^
+||hroice.com^
 ||htcmania.com^
 ||htcstar.com^
 ||htmlelement.com^
@@ -1380,6 +1397,7 @@
 ||ironingboardsample.quest^
 ||ironmail-usa.com^
 ||isiswa.uitm.edu.my^
+||isocolegioecursos.com^
 ||isparis.edu^
 ||israelboycottvoice.com^
 ||issedunarc.com^
@@ -1389,6 +1407,7 @@
 ||itdealz193.com^
 ||itemold.com^
 ||itrithuc.vn^
+||itsos-mariecurie.it^
 ||ivacationforever.com^
 ||ivalisgroup.com^
 ||ixcomb.com^
@@ -1435,6 +1454,7 @@
 ||justice4all.org^
 ||jwypzjxqt.com^
 ||k12.tx.us^
+||kadrose.com^
 ||kadrove.info^
 ||kajabimail.net^
 ||karachisports.life^
@@ -1478,9 +1498,11 @@
 ||komkesberaksi.com^
 ||kongduts.com^
 ||kopaakelas.xyz^
+||korbansg.com^
 ||kose.withintomorrowgarden.co.uk^
 ||kpasu.mrsm.edu.my^
 ||kptk.or.id^
+||krisysse.com^
 ||krz.de^
 ||ksanews24.com^
 ||kurbaleta.sbs^
@@ -1571,15 +1593,18 @@
 ||lovefitnessweb.com^
 ||loxford.london^
 ||lqphhokgx.com^
+||lsc.hk^
 ||lsmaravillas.com^
 ||lucilts.com^
 ||luckpeaceofmind.com^
 ||luckyracers.com^
+||luvmywalls.com^
 ||m512rk.com^
 ||macdlst.com^
 ||machineinsurance.net^
 ||mackenzista.com.br^
 ||mackintoshisoquantroon.art^
+||mackupsolutionsnew.com^
 ||madeeasybags.com^
 ||mademoiselledanse.com^
 ||madrid.uned.es^
@@ -1607,6 +1632,7 @@
 ||maininternalclub.com^
 ||maisonmmaroc.com^
 ||majestictravelers.com^
+||majestyautoglass.com^
 ||majikr.ml^
 ||majikr1.ga^
 ||makemepossible.info^
@@ -1616,6 +1642,7 @@
 ||maliseh.com^
 ||management-loan.com^
 ||manavrachna.net^
+||manbrust.com^
 ||mancaregalavny.com^
 ||manegerialismnow.com^
 ||manifestwealthtoday.com^
@@ -1680,10 +1707,13 @@
 ||mizarack.com^
 ||mkefestivals.com^
 ||mkt.marketsandcoffee.com^
+||mnbiofuels.com^
 ||moantfor.com^
 ||mobiri.se^
+||mocktailmaven.com^
 ||modernindigo.com^
 ||modernwolfgames.com^
+||moesvg.org^
 ||mojo.com^
 ||mokihana.net^
 ||mokladdat.com^
@@ -1799,6 +1829,7 @@
 ||nextdoor.com^
 ||niagarague.com^
 ||nianticlabs.com^
+||nicehavendecor.com^
 ||nicolesilvacunhaoutlook.com^
 ||nightma.us^
 ||nimble.com^
@@ -1827,6 +1858,7 @@
 ||noveldsign.com^
 ||now-sure.com^
 ||nowdayhappy.com^
+||nowsupportvip.com^
 ||nptu.edu.tw^
 ||nric-ri.org^
 ||ntp-g7g.amazon.com^
@@ -1842,6 +1874,7 @@
 ||o365.unab.edu.co^
 ||o6u.edu.eg^
 ||o9p0ki2n6v.com^
+||oagalleryonline.com^
 ||oaklagostream.com^
 ||oaklandusinjarus.com^
 ||observestructuresearly.org^
@@ -1904,6 +1937,7 @@
 ||opentable.com^
 ||operationsdeclinedtop.coffee^
 ||opinioncentralvip.com^
+||opinioncraftnow.com^
 ||opinionintelligent.com^
 ||opitmizepress.com^
 ||oppehunnio.click^
@@ -1940,6 +1974,7 @@
 ||pagesglobal.com^
 ||paintsha.us^
 ||palak4767singgmail.com^
+||palamall.com^
 ||palmasport.es^
 ||palmws.com^
 ||palteolitheraic.com^
@@ -1967,6 +2002,7 @@
 ||peaceeducationact.com^
 ||peaceeeofmind.com^
 ||peacocktv.com^
+||pearlar.com^
 ||pecuasede.world^
 ||pelosiforcongress.org^
 ||people4mcbath.com^
@@ -1997,6 +2033,7 @@
 ||pictureunlimited.com^
 ||pikestudent.net^
 ||pimpolhinho.org^
+||pinecrestmarinapa.com^
 ||pinglede.com^
 ||pioneerpayton.com^
 ||pises.edu.sa^
@@ -2024,6 +2061,7 @@
 ||pokerlucky7.com^
 ||polar-secure.com^
 ||polesthanistypicalparticles.net^
+||poliba.it^
 ||policylibrary.org^
 ||polisforcolorado.com^
 ||politicalpointz.com^
@@ -2066,6 +2104,7 @@
 ||profithuntershub.com^
 ||profityours.com^
 ||progress.net^
+||prohealthguru.com^
 ||prohealthupdate.com^
 ||prolinegear.com^
 ||promyscore.com^
@@ -2093,6 +2132,7 @@
 ||put.backwoodsbean.com^
 ||pygmou.com^
 ||pyramid-tel.com^
+||pzltn.com^
 ||qemailserver.com^
 ||qhhyfoqfx.com^
 ||qnbewebwh.com^
@@ -2184,6 +2224,7 @@
 ||rnchq.com^
 ||roadtome.com^
 ||roadttosuccess.com^
+||roaneschools.com^
 ||roberthalf.com^
 ||roboform.com^
 ||robuxday.com^
@@ -2196,6 +2237,7 @@
 ||rollingstone.com^
 ||romwe.com^
 ||rongaiathletics.com^
+||ronresponsepac.com^
 ||roofmasterspro.com^
 ||roolerpink.org^
 ||ropeacces.com^
@@ -2220,11 +2262,13 @@
 ||safeseniorbathtubs.com^
 ||safetyamazon.com^
 ||sagaarmhole.com^
+||saintmarksschool.in^
 ||saintmichelannecy.fr^
 ||salehys23.co^
 ||salesavvypro.com^
 ||salonsalonfostercity.com^
 ||salonservicespro.com^
+||salvadi.com^
 ||samelil.com^
 ||samplesofalargelythighs.town^
 ||samsclubnews.com^
@@ -2364,9 +2408,11 @@
 ||smartmindrichwallet.com^
 ||smartpathdevelop.com^
 ||smartphoneperformancesettlement.com^
+||smarttelecommutetips.com^
 ||smbcommunications.com^
 ||smtp-auth.no-ip.com^
 ||smtpimails.com^
+||snoresleeve.com^
 ||sobmonitor.org^
 ||socialdeal.nl^
 ||softaract.com^
@@ -2382,6 +2428,7 @@
 ||spanishors.com^
 ||spanninggreatdistances.com^
 ||sparkpostmail.com^
+||sparksreport.com^
 ||sparkznaturanresource.com^
 ||spdv.ro^
 ||specialdelitedfood.com^
@@ -2444,6 +2491,7 @@
 ||streatmarkets.com^
 ||streetfoodstruck.com^
 ||stretchlength.xyz^
+||stretchtherapistacademy.com^
 ||strike-boards.us^
 ||strike-doctor.com^
 ||strikerssecond.net^
@@ -2465,6 +2513,7 @@
 ||sty.onlinestudytoday.com^
 ||stylehobby.org^
 ||stylehousedecor.com^
+||styleinthesix.com^
 ||styleisthenewblack.com^
 ||subbonus.in.net^
 ||subtlenotion.com^
@@ -2505,6 +2554,7 @@
 ||syllogistcommunication.biz^
 ||sylmark.com^
 ||symread.com^
+||syre_zaim@customermail.microsoft.com^
 ||t-mobile.com^
 ||t-online.de^
 ||t2accountancy.co.uk^
@@ -2579,6 +2629,7 @@
 ||themonthofjoy.com^
 ||theorchard.com^
 ||theoryservice.com^
+||theoutrightbar.com^
 ||theproscloset.com^
 ||theravereviews.com^
 ||therealbargain.com^
@@ -2635,6 +2686,7 @@
 ||top10browsing.com^
 ||top10fashions.com^
 ||topcartonline.com^
+||topdigitaldevices.com^
 ||topsavorysips.com^
 ||topstoriessection.com^
 ||topuptat.com^
@@ -2678,6 +2730,7 @@
 ||triennes.com^
 ||triggeredspeculation.org^
 ||triveloseries.com^
+||trixdr.com^
 ||trk.tpaction.com^
 ||trk.tpusa.com^
 ||troubleinfo.com^
@@ -2694,6 +2747,8 @@
 ||tworld.com^
 ||twtge.com^
 ||tytydmoshfit.com^
+||uac.pt^
+||uaic.ro^
 ||uartes.edu.ec^
 ||uba.ar^
 ||ubcqimrfvx.com^
@@ -2766,7 +2821,9 @@
 ||usd107.org^
 ||usecology.com^
 ||usefulasaversatile.cloud^
+||useroffers.com^
 ||usgiftcard.co.in^
+||usmp.pe^
 ||usnewsbreak.com^
 ||usoren.com^
 ||usp.br^
@@ -2815,6 +2872,8 @@
 ||violaflair.com^
 ||vipartprints.com^
 ||vipeducation.edu.my^
+||vipscriptshop.com^
+||virginiogomez.cl^
 ||virginpulse.com^
 ||virtualassistantsservice.com^
 ||vision.edu.mk^
@@ -2884,6 +2943,7 @@
 ||whitevit.com^
 ||whm.tpaction.com^
 ||whm.tpusa.com^
+||wico.be^
 ||wifa.st^
 ||wifnavy.com^
 ||wildalaskancompany^
@@ -2952,7 +3012,9 @@
 ||zohoprojects.eu^
 ||zoneine.com^
 ||zpxhddyvo.com^
+||zs-3.pl^
 ||zs4leszno.pl^
+||zsken.pl^
 ||zsp2-krotoszyn.pl^
 ||zuhgo.com^
 ||zyanime.com^
