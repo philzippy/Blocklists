@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sun September 16 2024 00:45:00 UTC
-# Number of unique domains: 3213
+# Date: Sun September 21 2024 00:17:00 UTC
+# Number of unique domains: 3038
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -75,6 +75,7 @@
 ||aerialcubes.com^
 ||aerocaredirect.com^
 ||aevt.pt^
+||afandimed.com^
 ||afaqy.com^
 ||afromajority.com^
 ||agencyinbox.com^
@@ -260,6 +261,7 @@
 ||bbc.co.uk^
 ||bea-services.ch^
 ||beaconofhopeumc.org^
+||beaskeptic.com^
 ||beatreflux.com^
 ||beautiproductweb.info^
 ||beautyshinenglow.com^
@@ -417,6 +419,7 @@
 ||ccetkuwait.org^
 ||ccsk12.net^
 ||cdn.tpusa.com^
+||cebasusa.com^
 ||cedar-bringer.com^
 ||cefet-rj.br^
 ||celeritystaff.pro^
@@ -441,10 +444,12 @@
 ||chartswar.host^
 ||chases.app^
 ||chat.roblox.com^
+||chatterfriendsvip.com^
 ||cheapnewinsurance.com^
 ||cheedstimb.com^
 ||chemnitz.com^
 ||chewlamp.xyz^
+||chicviptextiles.com^
 ||chill-set-go.com^
 ||chivalroussqueeze.org^
 ||choicefactorlifestyle.net^
@@ -729,6 +734,7 @@
 ||ds.ahmineb.site^
 ||dt-network.com^
 ||dtlr.com^
+||duelpianos.com^
 ||duodiesel.com^
 ||dushangible.com^
 ||dutyoftheseobservers.co.uk^
@@ -966,6 +972,7 @@
 ||fiveraminvest.ro^
 ||flashmagazine.net^
 ||fletcherandphillips.com^
+||flexypack.com^
 ||flipboard.com^
 ||fliscorvo.sbs^
 ||flockonio.press^
@@ -1077,6 +1084,7 @@
 ||gettotech.com^
 ||gftwihd.com^
 ||ggsuryarushingxs.com^
+||giasim.com^
 ||giftposthost.com^
 ||giganticovertlyalluring.org^
 ||gilajugaluya.com^
@@ -1318,6 +1326,7 @@
 ||if.internetoftours.com^
 ||iflipsites.com^
 ||ifoodadventure.com^
+||igi.or.id^
 ||igrsukidp.com^
 ||ihsdubai.org^
 ||iic.com^
@@ -1514,6 +1523,7 @@
 ||lafussal.co^
 ||laishookah.com^
 ||lakes-chic.com^
+||lakeseagles.com^
 ||lakmibeautyproducts.com^
 ||lalinearoja.net^
 ||lanierdentalcare.com^
@@ -1830,6 +1840,7 @@
 ||niagarague.com^
 ||nianticlabs.com^
 ||nicehavendecor.com^
+||nichekw.com^
 ||nicolesilvacunhaoutlook.com^
 ||nightma.us^
 ||nimble.com^
@@ -2012,6 +2023,7 @@
 ||perfectteachertips.com^
 ||performancesciences.net^
 ||peristeronicvisuva.com^
+||pesasamerica.com^
 ||petcococop.com^
 ||petrolstationnearme.shop^
 ||petsmart.com^
@@ -2088,6 +2100,7 @@
 ||pratt.edu^
 ||predictedamoderate.co.uk^
 ||presentationsherpablog.com^
+||presidentlodge.com^
 ||pressaturn.com^
 ||prestige-machinery.com^
 ||presto-moon.com^
@@ -2113,6 +2126,7 @@
 ||proofofconceptouter.com^
 ||propionate.biz^
 ||prosperousdeal.com^
+||proteclog.com^
 ||protectingcitizensprofessionals.life^
 ||protectyourrights.tpusa.com^
 ||protonmail.com^
@@ -2333,6 +2347,7 @@
 ||separatesweater.com^
 ||separatethecontribution.net^
 ||sequestrationbenefits.net^
+||sequoits.com^
 ||serendipityfood.com^
 ||servc-xflnit.com^
 ||serve-themes.com^
@@ -2378,6 +2393,7 @@
 ||simplybusinct23ess.co.uk^
 ||simplybusinhalxess.co.uk^
 ||simplybusinq9bwess.co.uk^
+||simplyloom.com^
 ||singularity-good.com^
 ||sinisterstrangeeldritch.news^
 ||sinsshop.info^
@@ -2438,6 +2454,7 @@
 ||speedofgiving.com^
 ||speedperks.com^
 ||spfk12.org^
+||spkikol.pl^
 ||splendourdance.com^
 ||splitliver.host^
 ||sportandhealthclub.org^
@@ -2690,6 +2707,7 @@
 ||topsavorysips.com^
 ||topstoriessection.com^
 ||topuptat.com^
+||totaleclipsecamp.com^
 ||touchingtheground.net^
 ||toughtimefellsilent.org^
 ||toungepaste.org^
@@ -2763,6 +2781,7 @@
 ||uic.edu^
 ||uicpost.com^
 ||uiowa.edu^
+||ulht.pt^
 ||ultimatetrendytreasures.com^
 ||umich.edu^
 ||umpurd.com^
@@ -2775,6 +2794,7 @@
 ||uni-oldenburg.de^
 ||uniboyaca.edu.co^
 ||unicoreinsighth.com^
+||unifesp.br^
 ||unifiedlayer.com^
 ||unifoa.edu.br^
 ||unijos.edu.ng^
@@ -2803,6 +2823,7 @@
 ||unverscity.ml^
 ||unverscity.tk^
 ||uopeople.edu^
+||uoradea.ro^
 ||upandgoingnow.com^
 ||update.biv.sony.tv^
 ||upedmoust.com^
@@ -2815,6 +2836,7 @@
 ||urbanfarmclub.com^
 ||uri.edu^
 ||us.vieraconnect.tv^
+||usach.cl^
 ||usal.es^
 ||usamedal.com^
 ||usanewdeals.com^
@@ -2891,6 +2913,7 @@
 ||vrflier.com^
 ||vusalaalizade.com^
 ||wageworks.com^
+||waince.com^
 ||walgre320ens.com^
 ||walgre906ens.com^
 ||walkamileclub.net^
