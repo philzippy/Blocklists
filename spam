@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sun September 21 2024 00:17:00 UTC
-# Number of unique domains: 3038
+# Date: Sun September 24 2024 13:43:00 UTC
+# Number of unique domains: 3062
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -52,6 +52,7 @@
 ||acikimuthe.com^
 ||ackahuma.com^
 ||acmailers.com^
+||acsdny.org^
 ||act.democrats.org^
 ||activehealthyfun.org^
 ||adamasgems.com^
@@ -114,6 +115,7 @@
 ||allhealthiernews.com^
 ||allianceforseniorministry.com^
 ||allsafetyinsurance.info^
+||almanmaldives.com^
 ||almona.online^
 ||almorasiloun.com^
 ||alphaindus.com^
@@ -264,6 +266,7 @@
 ||beaskeptic.com^
 ||beatreflux.com^
 ||beautiproductweb.info^
+||beautyblisstore.com^
 ||beautyshinenglow.com^
 ||becamelstic.com^
 ||becomingthefuture.com^
@@ -313,6 +316,7 @@
 ||birthdaybullies.com^
 ||bitly.com^
 ||bjrszc.com^
+||blaspar.com^
 ||blastcraft.co^
 ||blcomputersys.com^
 ||bloc019edit.com^
@@ -419,6 +423,7 @@
 ||ccetkuwait.org^
 ||ccsk12.net^
 ||cdn.tpusa.com^
+||cdsgyide.com^
 ||cebasusa.com^
 ||cedar-bringer.com^
 ||cefet-rj.br^
@@ -633,6 +638,7 @@
 ||datalinetec.com^
 ||datapointsvs.com^
 ||datingfactory410.com^
+||daubygg.com^
 ||davidepao.com^
 ||davingar.com^
 ||dawnsobolewski.com^
@@ -643,6 +649,7 @@
 ||dbhaacht.be^
 ||deadline.com^
 ||dealcelerate.com^
+||dealdynamopro.com^
 ||dealernotifications.com^
 ||dealwiki.net^
 ||debtfreeslonn.com^
@@ -734,6 +741,7 @@
 ||ds.ahmineb.site^
 ||dt-network.com^
 ||dtlr.com^
+||duelibb.com^
 ||duelpianos.com^
 ||duodiesel.com^
 ||dushangible.com^
@@ -849,6 +857,7 @@
 ||envisiongreenbeautyreport.com^
 ||envmay.com^
 ||ephemeralcounters.api.roblox.com^
+||epinfante.com^
 ||epiqpay.com^
 ||eptn.pt^
 ||equalamus.ru.com^
@@ -873,6 +882,7 @@
 ||ethicslifestyle.store^
 ||etpr.pt^
 ||etu.cyu.fr^
+||euiqoption.com^
 ||euromaidanpress.com^
 ||eurosportsscouting.net^
 ||evenfill.com^
@@ -1003,6 +1013,7 @@
 ||fossickfrisson.org^
 ||foto-carousel.com^
 ||fourcolourdesign.com^
+||fourhillevents.com^
 ||foxdictionarynews.life^
 ||foxnews^
 ||framerjacks.com^
@@ -1255,6 +1266,7 @@
 ||hok1g-wedos.net^
 ||holiday-shop.com^
 ||holidayheartattack.com^
+||holidaysba.org^
 ||holidaysinwine.com^
 ||home-remodelling.info^
 ||homebanking-app.com^
@@ -1318,6 +1330,7 @@
 ||ichnaea.netflix.com^
 ||ico.com^
 ||ictcult.com^
+||ictpot.com^
 ||ideaandreality.net^
 ||ideas2tech.com^
 ||idosi.org^
@@ -1428,6 +1441,7 @@
 ||jausong.com^
 ||jayatama.biz^
 ||jazzdnails.com^
+||jbgvilnius.lt^
 ||jembik.net^
 ||jereko.icu^
 ||jewelhomecarellc.com^
@@ -1717,6 +1731,7 @@
 ||mizarack.com^
 ||mkefestivals.com^
 ||mkt.marketsandcoffee.com^
+||mmicampaigns.com^
 ||mnbiofuels.com^
 ||moantfor.com^
 ||mobiri.se^
@@ -1759,6 +1774,7 @@
 ||mtjyouelk.com^
 ||mtrosecogic.org^
 ||muddymuse.com^
+||mudjackingconcretelevelingkansascity.com^
 ||mulandscaping.com^
 ||mulansaga.com^
 ||mulecation.com^
@@ -1804,6 +1820,7 @@
 ||nationalbanksuppliers.com^
 ||natureoxygen.us^
 ||navigatorsnetwork.com^
+||nazihtc.com^
 ||nbcsports.com^
 ||ncjh-qyjwoepkdntszwkgyne.com^
 ||ndiocircle.com^
@@ -1837,6 +1854,7 @@
 ||newyearresolution.site^
 ||next1occurs.cloud^
 ||nextdoor.com^
+||nexvipsolutions.com^
 ||niagarague.com^
 ||nianticlabs.com^
 ||nicehavendecor.com^
@@ -1914,6 +1932,7 @@
 ||olivewoodprojects.com^
 ||olivia.troubleshootco.com^
 ||olopsc.edu.ph^
+||olten.ch^
 ||omandompackers.com^
 ||ombaewe8.com^
 ||onceuponthatcake.com^
@@ -2146,6 +2165,7 @@
 ||put.backwoodsbean.com^
 ||pygmou.com^
 ||pyramid-tel.com^
+||pyrowerx.com^
 ||pzltn.com^
 ||qemailserver.com^
 ||qhhyfoqfx.com^
@@ -2581,6 +2601,7 @@
 ||tagmany.com^
 ||takeflightll.com^
 ||talentburst.com^
+||talgeig.com^
 ||tamodo.com^
 ||tanpabapak.com^
 ||tapebringrumblegarble.co.uk^
@@ -2704,6 +2725,7 @@
 ||top10fashions.com^
 ||topcartonline.com^
 ||topdigitaldevices.com^
+||tophomefurnishings.com^
 ||topsavorysips.com^
 ||topstoriessection.com^
 ||topuptat.com^
@@ -2767,6 +2789,7 @@
 ||tytydmoshfit.com^
 ||uac.pt^
 ||uaic.ro^
+||uamericas.cl^
 ||uartes.edu.ec^
 ||uba.ar^
 ||ubcqimrfvx.com^
@@ -2894,6 +2917,7 @@
 ||violaflair.com^
 ||vipartprints.com^
 ||vipeducation.edu.my^
+||vipradiance.com^
 ||vipscriptshop.com^
 ||virginiogomez.cl^
 ||virginpulse.com^
