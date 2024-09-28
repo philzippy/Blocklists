@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sun September 24 2024 13:43:00 UTC
-# Number of unique domains: 3062
+# Date: Sun September 28 2024 15:21:00 UTC
+# Number of unique domains: 3106
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -55,6 +55,7 @@
 ||acsdny.org^
 ||act.democrats.org^
 ||activehealthyfun.org^
+||actsecu.com^
 ||adamasgems.com^
 ||adamforcolorado.com^
 ||adamschiff.com^
@@ -126,14 +127,18 @@
 ||altaylarotomotiv.com^
 ||altech-usa.com^
 ||alteche.com^
+||alumne.cat^
 ||alumno.udg.mx^
 ||alumnoifp.es^
+||aluno.aescolasmmcartaxo.pt^
 ||aluno.sesiescola.org.br^
 ||aluno.unicesumar.edu.br^
 ||alunocarioca.rio^
 ||alunos.epbjc.pt^
 ||alunos.fibbauru.br^
 ||alunosatc.edu.br^
+||alunouninter.com^
+||amazingthinngs.com^
 ||americabankcorporation.com^
 ||americana-trends.com^
 ||americanomemek.com^
@@ -183,6 +188,7 @@
 ||arizona.edu^
 ||arizonaopticalsystems.com^
 ||arktisklada.com^
+||aroscine.com^
 ||arriannasver.net^
 ||artisanmarketvip.com^
 ||artisansofiq.com^
@@ -211,6 +217,7 @@
 ||atheneumsinttruiden.be^
 ||athomeupdates.org^
 ||atlidw.com^
+||atparet.com^
 ||att.net^
 ||attractfashion.com^
 ||attractiontickets418.com^
@@ -333,6 +340,7 @@
 ||boashoponlinedepartment.com^
 ||bobbyweinberg.com^
 ||bodygoalstea.com^
+||boeroritver.com^
 ||bojksa.com^
 ||bomxxxenes.com^
 ||bonily.life^
@@ -437,7 +445,9 @@
 ||centralsmarket.com^
 ||cerisetechsolutions.com^
 ||chadaoban.com^
+||change.boats^
 ||change.org^
+||changeeday.com^
 ||changeeyourlife.com^
 ||chaostips.com^
 ||chapters.tpusa.com^
@@ -451,6 +461,7 @@
 ||chat.roblox.com^
 ||chatterfriendsvip.com^
 ||cheapnewinsurance.com^
+||checkingscores.com^
 ||cheedstimb.com^
 ||chemnitz.com^
 ||chewlamp.xyz^
@@ -475,6 +486,7 @@
 ||classmates.com^
 ||cleaningkeys.com^
 ||cleanrooftopweb.com^
+||clessiti.com^
 ||click-news.net^
 ||clickapip.com^
 ||clickbank^
@@ -532,8 +544,10 @@
 ||com.br^
 ||com.eg^
 ||com.np^
+||comcast.net^
 ||comcast.org^
 ||comhs.org^
+||commemoorationday.beauty^
 ||commercialprod.com^
 ||commercialpropertycash.com^
 ||committeetoprotect.org^
@@ -578,6 +592,7 @@
 ||cooperadores.org^
 ||coretxnetwork.com^
 ||coronalmassejections.net^
+||correoaiep.cl^
 ||cosmodiscounts.com^
 ||costarmail.com^
 ||costcolocation.com^
@@ -647,6 +662,7 @@
 ||dayofeternaljoy.com^
 ||daytimec0ntr0ldevice.info^
 ||dbhaacht.be^
+||deacoli.com^
 ||deadline.com^
 ||dealcelerate.com^
 ||dealdynamopro.com^
@@ -709,6 +725,7 @@
 ||discounttraveldirect.com^
 ||discovermychild.com^
 ||dismdus.com^
+||disneyconsumerproductsinteractive.com^
 ||dispatchthenew.com^
 ||distilwaters.com^
 ||ditariackedvapored.lol^
@@ -795,6 +812,7 @@
 ||efficientsolutionsinc.com^
 ||effluxcarvejet^
 ||effortlessprice.com^
+||eficasablanca.org^
 ||eigbox.net^
 ||elasticmails.com^
 ||electricvehiclesnow.com^
@@ -848,6 +866,7 @@
 ||energycloudnetwork.com^
 ||energyisatypeofforceboson.camp^
 ||eng-kol-bredd.org^
+||engenerates.cfd^
 ||enhancedrefinance.com^
 ||eniac.edu.br^
 ||ens.univ-artois.fr^
@@ -946,6 +965,7 @@
 ||featureslearnslightly.news^
 ||fecostarica.com^
 ||feeds.tpusa.com^
+||fefcoll.org^
 ||fellowshipepc.org^
 ||feriassie.com^
 ||ferrysp.us^
@@ -1029,6 +1049,7 @@
 ||frequentlyusescreen.news^
 ||freshcatchfishmarketgrill.com^
 ||fresheyesbook.net^
+||freshradiancebeauty.com^
 ||frezzor.com^
 ||frgrt.com^
 ||friendlinkupnow.com^
@@ -1335,6 +1356,7 @@
 ||ideas2tech.com^
 ||idosi.org^
 ||iepsanandres.edu.pe^
+||iescotesbaixes.org^
 ||iesllompart.cat^
 ||if.internetoftours.com^
 ||iflipsites.com^
@@ -1418,6 +1440,7 @@
 ||ir.internetofresources.com^
 ||ironingboardsample.quest^
 ||ironmail-usa.com^
+||isisromero.it^
 ||isiswa.uitm.edu.my^
 ||isocolegioecursos.com^
 ||isparis.edu^
@@ -1484,6 +1507,7 @@
 ||karatesupply.com^
 ||katieandspud.com^
 ||katieporter.com^
+||katowice.pl^
 ||kclsed.org^
 ||kcstarlight.com^
 ||kean.edu^
@@ -1511,6 +1535,7 @@
 ||kiwifarms.net^
 ||kklawang.mrsm.edu.my^
 ||klm-mail.com^
+||kluniversity.in^
 ||kmutt.ac.th^
 ||knubmek.com^
 ||knutsfordnews.com^
@@ -1858,6 +1883,7 @@
 ||niagarague.com^
 ||nianticlabs.com^
 ||nicehavendecor.com^
+||niceopinionsphere.com^
 ||nichekw.com^
 ||nicolesilvacunhaoutlook.com^
 ||nightma.us^
@@ -1887,6 +1913,7 @@
 ||noveldsign.com^
 ||now-sure.com^
 ||nowdayhappy.com^
+||nowonthisday.com^
 ||nowsupportvip.com^
 ||nptu.edu.tw^
 ||nric-ri.org^
@@ -1896,6 +1923,7 @@
 ||numaymolina.com^
 ||numerique-educatif.fr^
 ||numobul.com^
+||nurturedradiance.com^
 ||nutricooker.com^
 ||nwbvcwp.com^
 ||nytimes.com^
@@ -1962,6 +1990,7 @@
 ||onmicrosoft.com^
 ||onradionetwork.org^
 ||ontakeadvantage.com^
+||ontrac.com^
 ||oocmc.com^
 ||oodrive.com^
 ||opentable.com^
@@ -2173,6 +2202,8 @@
 ||qq.com^
 ||qsryrikxchjodyk.com^
 ||qthzj.promyscore.com^
+||qualitytoday.autos^
+||queiroz.pt^
 ||quenchcomforterallot.co.uk^
 ||queryboss.agency^
 ||questea.info^
@@ -2256,6 +2287,7 @@
 ||rkyamanmusical.com^
 ||rmasmayanloh.com^
 ||rnchq.com^
+||roadblogger.com^
 ||roadtome.com^
 ||roadttosuccess.com^
 ||roaneschools.com^
@@ -2285,6 +2317,7 @@
 ||rubberartstamps.com^
 ||rubichons.com^
 ||runsignup.com^
+||ruppin365.net^
 ||rushgreco.com^
 ||rushthenew.com^
 ||rvpmpharmacy.com^
@@ -2384,6 +2417,7 @@
 ||shamposunsilkrambutpanjanghub.com^
 ||shehempskincare.com^
 ||sheritackleintownprotecting.coffee^
+||shipseal.com^
 ||shipstation.com^
 ||sho.com^
 ||shoe.my-wardobe.com^
@@ -2474,6 +2508,7 @@
 ||speedofgiving.com^
 ||speedperks.com^
 ||spfk12.org^
+||spiritvid.com^
 ||spkikol.pl^
 ||splendourdance.com^
 ||splitliver.host^
@@ -2599,6 +2634,7 @@
 ||tacticalsurvivor.net^
 ||tadnisantasi.com^
 ||tagmany.com^
+||take.yachts^
 ||takeflightll.com^
 ||talentburst.com^
 ||talgeig.com^
@@ -2654,6 +2690,7 @@
 ||thedigitalmedical.com^
 ||thediscoverer.com^
 ||theemarketingspecialist.com^
+||thefourness.com^
 ||thefrugalshopper.net^
 ||thegodlymother.com^
 ||thegrayhat.com^
@@ -2903,12 +2940,14 @@
 ||vehiestore.com^
 ||velziogimnazija.lt^
 ||verificationme.com^
+||verison.net^
 ||verizonmedia.com^
 ||vers.co.in^
 ||verti-game.com^
 ||vetsource.com^
 ||vhcsk12.com^
 ||vianet.com.np^
+||victorydayy.com^
 ||vidyasart.com^
 ||vief.edu.vn^
 ||vieraconnect.tv^
@@ -2925,6 +2964,7 @@
 ||vision.edu.mk^
 ||visionslip.com^
 ||visitlifestylepro.com^
+||visualpes.com^
 ||vivcity.com^
 ||vmezsu.com^
 ||voanews.com^
@@ -2948,6 +2988,7 @@
 ||watchworldmagzine.org^
 ||waterformingsurface.org^
 ||waterfrontwest.net^
+||wathus.com^
 ||wavedir.com^
 ||waw.pl^
 ||waystofindconfidence.rest^
@@ -3004,12 +3045,14 @@
 ||wisek12.org^
 ||withhandle.com^
 ||wixsite.com^
+||wombwisdombirth.com^
 ||wonderlanddesert.com^
 ||wondersofturmeric.com^
 ||wonlemon.com^
 ||woolmist.com^
 ||worcestershireanemone.click^
 ||wordpress.com^
+||wordting.com^
 ||workoutregularlyasfair.org.uk^
 ||worktogethertocreate.org^
 ||worldhappymen.com^
@@ -3031,6 +3074,7 @@
 ||xnxx-jepang.com^
 ||yahoo.co.jp^
 ||yandesbafdrgtjyoutlook.com^
+||yarjeen.com^
 ||ybwzx.com^
 ||yearofeternaljoy.com^
 ||yhmetals.com^
