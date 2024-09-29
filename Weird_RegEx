@@ -3,10 +3,9 @@
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
 # Date: September 29 2024 19:24:00 UTC
-# Number of unique domains: 4035
+# Number of unique domains: 4033
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/refs/heads/master/Weird_RegEx
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/Weird_RegEx
-||.co.uk^
 ||100trumpparc.com^
 ||100trumpparceast.com^
 ||106trumpparc.com^
