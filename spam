@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sun September 29 2024 18:51:00 UTC
-# Number of unique domains: 3123
+# Date: Thursday October 10 2024 13:25:00 UTC
+# Number of unique domains: 3252
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -35,10 +35,12 @@
 ||aagorph.com^
 ||aaronbennettonline.com^
 ||abbentek.com^
+||abblac.com^
 ||abdataclassactionmail.com^
 ||abuh-abahmedan01.net^
 ||abwservice.com^
 ||accelerateconsiderably.com^
+||acceptnow.life^
 ||accereac.com^
 ||accessabilityoasis.com^
 ||accesstothesubsurface.net^
@@ -71,6 +73,8 @@
 ||adtilt.com^
 ||adverthosts.com^
 ||ae-ginestalmachado.pt^
+||aecoruche.pt^
+||aeermesinde.net^
 ||aeescultorfs.pt^
 ||aelc-lamego.pt^
 ||aemm.pt^
@@ -87,6 +91,7 @@
 ||agencyinbox.com^
 ||agentinvesting.com^
 ||agngulf.com^
+||agrupamentolimafreitas.org^
 ||agun9moodh.com^
 ||agusiq-torrents.pl^
 ||ahgcy.com^
@@ -271,6 +276,7 @@
 ||barry.wyatt.cyberservices.com^
 ||basbal.com^
 ||basis.cleaning^
+||basisinternational-ph.com^
 ||bastajesdensificangloriaseis-gue.homes^
 ||bates.edu^
 ||battism.com^
@@ -405,6 +411,7 @@
 ||buzfeed.com^
 ||buzzurlinks.net^
 ||buzzyourlinks.net^
+||bvmglobal.org^
 ||bvxlpcwsm.com^
 ||ca.caretipsforyou.com^
 ||cafrist.com^
@@ -434,6 +441,7 @@
 ||carinsurancezilla.com^
 ||carmelrincon.com^
 ||carnately.com^
+||carnetvip.com^
 ||caronetwork.com^
 ||carrierzone.com^
 ||cartiercul.com^
@@ -658,6 +666,7 @@
 ||cybercoders.com^
 ||cyberservices.com^
 ||cybertechelite.com^
+||cytelle.com^
 ||czoeffects.com^
 ||d1issuingbanks.com^
 ||d5live.net^
@@ -808,6 +817,7 @@
 ||easyvacationsmade.com^
 ||ebth.com^
 ||ecgarchitects.com^
+||ecogoodsstore.com^
 ||ecom1.logitech.com^
 ||ecommweb.biz^
 ||ecommwebs.net^
@@ -1011,6 +1021,7 @@
 ||fillfam.com^
 ||fim.edu.al^
 ||fin.emathematicslearn.com^
+||financeflowinsider.com^
 ||financeforall.club^
 ||financeperspectivetoday.com^
 ||financesspace.com^
@@ -1092,6 +1103,7 @@
 ||frezzor.com^
 ||frgrt.com^
 ||friendlinkupnow.com^
+||frijoleo.com^
 ||fringferno.com^
 ||fs-toner.com^
 ||ftc.edu^
@@ -1135,6 +1147,7 @@
 ||geeknorty^
 ||geico^
 ||gemini-nest.com^
+||gemselearning.com^
 ||gemtang.com^
 ||generalstuffshop.com^
 ||generalzenith.agency^
@@ -1258,6 +1271,7 @@
 ||hair-ie.com^
 ||halcapus.com^
 ||halfmonthhiatusrevision.com^
+||halwae.com^
 ||hancockcountyfoodpantry.com^
 ||handelspoolservices.com^
 ||handicomp.com^
@@ -1307,6 +1321,7 @@
 ||helowebsite.com^
 ||helpforfinance.xyz^
 ||helpinghandglobal.com^
+||helsidi.com^
 ||henduenp.com^
 ||heraldalba.com^
 ||heretopiecesao.lol^
@@ -1486,6 +1501,7 @@
 ||ir.internetofresources.com^
 ||ironingboardsample.quest^
 ||ironmail-usa.com^
+||isbezosinspace.com^
 ||isisromero.it^
 ||isiswa.uitm.edu.my^
 ||isocolegioecursos.com^
@@ -1506,6 +1522,7 @@
 ||jas1.ds.jas.com^
 ||jasagbclanpebeh.com^
 ||jasoncrowforcongress.com^
+||jastrzebie.pl^
 ||jatengpintar.id^
 ||jausong.com^
 ||jayatama.biz^
@@ -1775,6 +1792,7 @@
 ||masscommunities.biz^
 ||masterclass.com^
 ||mastermind.com^
+||masterpiecethemonth.com^
 ||matchbles.online^
 ||max.com^
 ||maxescolar.com^
@@ -1802,6 +1820,7 @@
 ||mertemlaksiirt.com^
 ||message.card.visa.com^
 ||messages.va.gov^
+||mgopava.cz^
 ||mgs.edu^
 ||michaelbennet.com^
 ||michellemolinabeauty.com^
@@ -2076,11 +2095,13 @@
 ||opitmizepress.com^
 ||oppehunnio.click^
 ||oppepoeli.click^
+||opportunityassurancee.com^
 ||optionsforyourdevice.com^
 ||orange.com^
 ||orange.cz^
 ||orange.sn^
 ||orangetor.com^
+||orderclucku.com^
 ||org.br^
 ||orientateyourself.com^
 ||originalgraphiteplace.co.uk^
@@ -2238,6 +2259,7 @@
 ||primejourneyjoy.com^
 ||printermigrationsenior.online^
 ||prioritystockshop.com^
+||privacypolicysample.com^
 ||privatemoe.ae^
 ||prizesna.info^
 ||procomi.com^
@@ -2316,6 +2338,7 @@
 ||readyset.dance^
 ||readytoharvestoreat.com^
 ||realgamesweb.com^
+||realgivinge.com^
 ||realizecbqb.info^
 ||reallygoodboxedwine.com^
 ||realteleproces.com^
@@ -2472,6 +2495,7 @@
 ||seemingle.com^
 ||segregated-possessed.com^
 ||seleonol.com^
+||selfreliance.beauty^
 ||selfreliiance.com^
 ||sellonlinemarketplace.com^
 ||senate.gov^
@@ -2570,6 +2594,7 @@
 ||smartphoneperformancesettlement.com^
 ||smarttelecommutetips.com^
 ||smbcommunications.com^
+||smsi.be^
 ||smtp-auth.no-ip.com^
 ||smtpimails.com^
 ||snoresleeve.com^
@@ -2862,6 +2887,7 @@
 ||top10fashions.com^
 ||topcartonline.com^
 ||topdigitaldevices.com^
+||topdiscount.icu^
 ||tophomefurnishings.com^
 ||topsavorysips.com^
 ||topsocialbonding.com^
@@ -3068,6 +3094,7 @@
 ||vipeducation.edu.my^
 ||vipradiance.com^
 ||vipscriptshop.com^
+||virgilio.it^
 ||virginiogomez.cl^
 ||virginpulse.com^
 ||virtualassistantsservice.com^
@@ -3126,6 +3153,7 @@
 ||weekofeternaljoy.com^
 ||weeverify.com^
 ||weightlossessence.com^
+||welcom.bond^
 ||welcometootheworld.com^
 ||welderslog.com^
 ||wellnesshealthcareinc.com^
@@ -3148,6 +3176,7 @@
 ||wifnavy.com^
 ||wildalaskancompany^
 ||wildalaskancompany.com^
+||wildtrackstop.com^
 ||wincache.shop^
 ||windomnet.com^
 ||windowgaudy.net^
@@ -3155,6 +3184,7 @@
 ||winnersinvesting.com^
 ||winterparkresort.com^
 ||wisek12.org^
+||wisewomenlead.com^
 ||withhandle.com^
 ||wixsite.com^
 ||wombwisdombirth.com^
@@ -3218,6 +3248,7 @@
 ||zpxhddyvo.com^
 ||zs-3.pl^
 ||zs4leszno.pl^
+||zsbenese.cz^
 ||zsjuhvv.sk^
 ||zsken.pl^
 ||zslucany.cz^
