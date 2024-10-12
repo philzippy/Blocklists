@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday October 10 2024 13:25:00 UTC
-# Number of unique domains: 3252
+# Date: Thursday October 12 2024 16:52:00 UTC
+# Number of unique domains: 3277
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -73,6 +73,7 @@
 ||adtilt.com^
 ||adverthosts.com^
 ||ae-ginestalmachado.pt^
+||aecoimbracentro.pt^
 ||aecoruche.pt^
 ||aeermesinde.net^
 ||aeescultorfs.pt^
@@ -225,6 +226,7 @@
 ||assuranceengagement.com^
 ||assuranceshub.com^
 ||astate.edu^
+||aston-ecole.com^
 ||astrology.com^
 ||asu.edu^
 ||asurion.com^
@@ -245,6 +247,7 @@
 ||autodiscover.tpusa.com^
 ||avast.com^
 ||avecover.com^
+||avfoiltv.com^
 ||awdmon.com^
 ||awojqzniq.com^
 ||awstrack.me^
@@ -480,6 +483,7 @@
 ||charitablecareers.com^
 ||charitysystemrecord.rest^
 ||chartbyte.world^
+||charterschools.ae^
 ||chartswar.host^
 ||chases.app^
 ||chat.roblox.com^
@@ -543,6 +547,7 @@
 ||cma-china.itunes-apple.com.akadns.net^
 ||cmkkagafhr.com^
 ||cnbc.com^
+||cnego.me^
 ||cnpschools.org^
 ||cnteafair.net^
 ||coachsuccess.org^
@@ -824,6 +829,7 @@
 ||ecwrd.ae^
 ||ed.cr^
 ||edgeservicing.com^
+||edirnemakine.com^
 ||edit.ne.jp^
 ||eds.com^
 ||edu.br^
@@ -921,6 +927,7 @@
 ||ephemeralcounters.api.roblox.com^
 ||epinfante.com^
 ||epiqpay.com^
+||epsm.pt^
 ||eptn.pt^
 ||equalamus.ru.com^
 ||equalscentripetalmove.com^
@@ -946,6 +953,7 @@
 ||etu.cyu.fr^
 ||euiqoption.com^
 ||euromaidanpress.com^
+||europeanschool.ge^
 ||eurosportsscouting.net^
 ||evenfill.com^
 ||evenpolitics.com^
@@ -954,6 +962,7 @@
 ||events2022.tpusa.com^
 ||everydaychanneling.net^
 ||everydayshoppingnow.com^
+||evrenptsd.com^
 ||ewab-ontraport.net^
 ||excelgens.com^
 ||excellenceleisureescapes.com^
@@ -1107,6 +1116,7 @@
 ||fringferno.com^
 ||fs-toner.com^
 ||ftc.edu^
+||ftnes.autos^
 ||ftp.tpaction.com^
 ||ftp.tpusa.com^
 ||fuelrel.com^
@@ -1170,6 +1180,7 @@
 ||ggsuryarushingxs.com^
 ||giasim.com^
 ||giftposthost.com^
+||gigamel.com^
 ||giganticovertlyalluring.org^
 ||gilajugaluya.com^
 ||gioguall.life^
@@ -1253,6 +1264,7 @@
 ||gshibayama.com^
 ||gslb6.fbs.trendmicro.com.akadns.net^
 ||gualtric-survey.com^
+||guamani.com^
 ||guardsma.press^
 ||guidancekids.com^
 ||guidelinesonoutsourcing.town^
@@ -1528,6 +1540,7 @@
 ||jayatama.biz^
 ||jazzdnails.com^
 ||jbgvilnius.lt^
+||jeffryy.com^
 ||jembik.net^
 ||jereko.icu^
 ||jewelhomecarellc.com^
@@ -1617,6 +1630,7 @@
 ||kpasu.mrsm.edu.my^
 ||kptk.or.id^
 ||krisysse.com^
+||krmangalam.com^
 ||krz.de^
 ||ksanews24.com^
 ||kurbaleta.sbs^
@@ -2019,7 +2033,6 @@
 ||nurturedradiance.com^
 ||nutricooker.com^
 ||nwbvcwp.com^
-||nytimes.com^
 ||nz-skincare.com^
 ||o365.unab.edu.co^
 ||o6u.edu.eg^
@@ -2103,6 +2116,7 @@
 ||orangetor.com^
 ||orderclucku.com^
 ||org.br^
+||org.pe^
 ||orientateyourself.com^
 ||originalgraphiteplace.co.uk^
 ||osfuelsend.com^
@@ -2159,6 +2173,7 @@
 ||peacecomp.com^
 ||peaceeducationact.com^
 ||peaceeeofmind.com^
+||peaceooday.com^
 ||peacocktv.com^
 ||pearlar.com^
 ||pecuasede.world^
@@ -2244,6 +2259,7 @@
 ||ppepc.com^
 ||ppgi.cl^
 ||ppke.hu^
+||pragateefoundation.org^
 ||pramesthiboutique.com^
 ||pratt.edu^
 ||predictedamoderate.co.uk^
@@ -2299,6 +2315,7 @@
 ||pyramid-tel.com^
 ||pyrowerx.com^
 ||pzltn.com^
+||qc.ca^
 ||qemailserver.com^
 ||qhhyfoqfx.com^
 ||qnbewebwh.com^
@@ -2329,6 +2346,7 @@
 ||rangeofsourcestobring.net^
 ||rapidlychangingconditions.org^
 ||ratacnestisscratch.com^
+||rauldoria.pt^
 ||ravelocity1123.com^
 ||raymondbaseballsoftball.com^
 ||rcn.com^
@@ -2437,6 +2455,7 @@
 ||safeseniorbathtubs.com^
 ||safetyamazon.com^
 ||sagaarmhole.com^
+||sageocel.com^
 ||saintmarksschool.in^
 ||saintmichelannecy.fr^
 ||salehys23.co^
@@ -2571,6 +2590,7 @@
 ||skeyecast.com^
 ||skincare99.org^
 ||skippercareerbest.net^
+||skolahostivar.cz^
 ||skolahranicka.cz^
 ||skratchlabs.com^
 ||skvob.nl^
@@ -2748,6 +2768,7 @@
 ||sylmark.com^
 ||symread.com^
 ||syre_zaim@customermail.microsoft.com^
+||szkolyzdzkielce.pl^
 ||t-mobile.com^
 ||t-online.de^
 ||t2accountancy.co.uk^
@@ -2801,6 +2822,7 @@
 ||thankhug.com^
 ||thanksd.com^
 ||thebabooshka.com^
+||thebestchange.cloud^
 ||thebestchangge.com^
 ||thebestnlsites.com^
 ||thebrightdecor.org.in^
@@ -3024,6 +3046,7 @@
 ||uqam.ca^
 ||uqroo.mx^
 ||urbanbargains.com^
+||urbanexplorervip.com^
 ||urbanfarmclub.com^
 ||uri.edu^
 ||us.vieraconnect.tv^
@@ -3247,7 +3270,9 @@
 ||zoneine.com^
 ||zpxhddyvo.com^
 ||zs-3.pl^
+||zs-p1.pl^
 ||zs4leszno.pl^
+||zsbce.cz^
 ||zsbenese.cz^
 ||zsjuhvv.sk^
 ||zsken.pl^
