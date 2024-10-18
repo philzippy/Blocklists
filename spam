@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday October 13 2024 15:22:00 UTC
-# Number of unique domains: 3290
+# Date: Thursday October 18 2024 02:40:00 UTC
+# Number of unique domains: 3340
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -24,6 +24,7 @@
 ||2notice.com^
 ||34sp.com^
 ||3webmarketing.com^
+||401kmarketstory.com^
 ||49240thestar.ca^
 ||562compartmentalization.sbs^
 ||56qku1q3hmdi.com^
@@ -79,6 +80,7 @@
 ||aeermesinde.net^
 ||aeescultorfs.pt^
 ||aelc-lamego.pt^
+||aemariofonseca.pt^
 ||aemm.pt^
 ||aeolidia.com^
 ||aerates.pt^
@@ -159,6 +161,7 @@
 ||amerinstobrajes.edu.bo^
 ||amfam.com^
 ||amic.co^
+||amitydubai.ae^
 ||ammodaily.net^
 ||ammunitionkart.com^
 ||amprodbeats.net^
@@ -177,6 +180,7 @@
 ||antolagroup.com^
 ||anuc.edu.gh^
 ||aol.com^
+||aortacy.com^
 ||apac.org.br^
 ||api.intelsa.intel.com^
 ||apipdeal.com^
@@ -233,6 +237,7 @@
 ||asurion.com^
 ||atheneumsinttruiden.be^
 ||athomeupdates.org^
+||atlasithalat.com^
 ||atlidw.com^
 ||atparet.com^
 ||att.net^
@@ -294,6 +299,7 @@
 ||beaskeptic.com^
 ||beatreflux.com^
 ||beautiproductweb.info^
+||beautyandthealth.com^
 ||beautyblisstore.com^
 ||beautyshinenglow.com^
 ||becamelstic.com^
@@ -301,6 +307,7 @@
 ||bedbathandbeyond.com^
 ||bedmal.co^
 ||bedmal.co.uk^
+||beegullapp.com^
 ||beehiiv.com^
 ||beghap.com^
 ||begunnoteworthysololark.co.uk^
@@ -364,6 +371,7 @@
 ||boatzzaf.com^
 ||bobbyweinberg.com^
 ||bodygoalstea.com^
+||bodystrengtth.com^
 ||boeroritver.com^
 ||bojksa.com^
 ||bomxxxenes.com^
@@ -383,6 +391,7 @@
 ||bramfitt.co.nz^
 ||bramora.com.mt^
 ||bramptontaxi.ca^
+||brazingur.com^
 ||breakfamet.com^
 ||breakingtechcircles.com^
 ||breakthroughalerts.com^
@@ -436,6 +445,7 @@
 ||canvashopedrain.blog^
 ||capitalgoodsmaker.co.uk^
 ||capolicc.com^
+||capordu.com^
 ||capusmiled.com^
 ||capustip.info^
 ||caraveoforcongress.com^
@@ -508,6 +518,7 @@
 ||cincinaura.com^
 ||circasteel.com^
 ||circuitrad.info^
+||cit.edu^
 ||cityteleconference.com^
 ||ciwideyhotel.com^
 ||cjminori.com^
@@ -866,6 +877,7 @@
 ||elasticmails.com^
 ||electricalserviceskaneohe.com^
 ||electricvehiclesnow.com^
+||elegantglow.icu^
 ||elephantjournal.com^
 ||elevated-pen.com^
 ||elevatedvapourreadings.org^
@@ -1075,6 +1087,7 @@
 ||fluent6farm.website^
 ||flutips.com^
 ||flyingsquid.net^
+||fm-edu.org^
 ||fobunirt.com^
 ||focuslearn.org^
 ||fojedo.xyz^
@@ -1140,6 +1153,7 @@
 ||gaddabouts.com^
 ||gadget-arena.net^
 ||gaidkepacakvtu284.com^
+||galgotiacollege.edu^
 ||galuen.com^
 ||gamblegalaxyvip.com^
 ||gamehivestudios.com^
@@ -1264,6 +1278,7 @@
 ||greenlivingkit.com^
 ||greentreereversemortgage.com^
 ||grelacle.com^
+||grg17geblergasse.at^
 ||griswoldforcolorado.org^
 ||grupocedva.com^
 ||gsaurziceni.ro^
@@ -1330,6 +1345,7 @@
 ||healthtipsdeal.com^
 ||healthyfoodsforhealing.com^
 ||healthygringa.com^
+||healthylivinng.com^
 ||hearthistoday.com^
 ||heartlink-management.com^
 ||heavenonearthapparel.com^
@@ -1340,6 +1356,7 @@
 ||helpforfinance.xyz^
 ||helpinghandglobal.com^
 ||helsidi.com^
+||helsine.com^
 ||henduenp.com^
 ||heraldalba.com^
 ||heretopiecesao.lol^
@@ -1397,6 +1414,7 @@
 ||house.gov^
 ||housecallpr.com^
 ||housecommunications.gov^
+||housefittings.cloud^
 ||houseprojectplus.com^
 ||houserenewell.com^
 ||howtofindthisdeal.com^
@@ -1446,6 +1464,7 @@
 ||ilikevolleyball.com^
 ||illtreatfetch.com^
 ||imaginary-bee.com^
+||immobiliarealbertini.it^
 ||impactinitialoutbreak.net^
 ||importmaestro.com^
 ||importtemporarychance.org^
@@ -1573,6 +1592,7 @@
 ||jpelectric.com.com^
 ||jpouse.cloud^
 ||juan.ecommwebs.net^
+||jujitby.com^
 ||julyjar.info^
 ||jump-brew.com^
 ||jumqtyiia.com^
@@ -1608,6 +1628,7 @@
 ||kev2023.com^
 ||kevinortzman.net^
 ||kfront.net^
+||kfsov.com^
 ||khohlpanelpetales.com^
 ||kidoidn.com^
 ||kidsgrovecarpets.com^
@@ -1681,6 +1702,7 @@
 ||lguplus.co.kr^
 ||liacooks.net^
 ||liamnew.com^
+||libero.it^
 ||libertysepticsolutions.com^
 ||libreriadelsanto.it^
 ||licenceopposite.xyz^
@@ -1737,9 +1759,11 @@
 ||lrfb.ro^
 ||lsc.hk^
 ||lsmaravillas.com^
+||lublin.eu^
 ||lucilts.com^
 ||luckpeaceofmind.com^
 ||luckyracers.com^
+||luminousbeautybox.com^
 ||luuckyou.com^
 ||luvmywalls.com^
 ||m512rk.com^
@@ -1792,6 +1816,7 @@
 ||manifestwealthtoday.com^
 ||manipulatedversionside.tel^
 ||mannarri.com^
+||manorceacademy.org^
 ||manthanschool.org^
 ||manyvids.com^
 ||maplestreetinc.com^
@@ -1921,6 +1946,7 @@
 ||musicspb.com^
 ||musictheorycourses.com^
 ||mutualfunband.com^
+||mvip365.com^
 ||mwytl.junkmailfilter.com^
 ||my-cleancarpets.com^
 ||my-sports-centre.com^
@@ -2019,6 +2045,7 @@
 ||northdit.host^
 ||northwestwindshielddoctor.com^
 ||norton.com^
+||norwalklearns.org^
 ||notarizefl.com^
 ||notathomesecurity.com^
 ||notourwar.com^
@@ -2041,6 +2068,7 @@
 ||nurturedradiance.com^
 ||nutricooker.com^
 ||nwbvcwp.com^
+||nycstpatricksparade.org^
 ||nz-skincare.com^
 ||o365.unab.edu.co^
 ||o6u.edu.eg^
@@ -2191,6 +2219,7 @@
 ||pepeesuk.com^
 ||perfecthealthdiets.com^
 ||perfecthousenice.com^
+||perfectnutrittion.com^
 ||perfectteachertips.com^
 ||performancesciences.net^
 ||peristeronicvisuva.com^
@@ -2253,6 +2282,7 @@
 ||pooprotest.com^
 ||poorhyt.com^
 ||popnorra.info^
+||popularliving.com^
 ||portfolio-arts.com^
 ||portlandsportsplaza.com^
 ||possibleexception.net^
@@ -2261,6 +2291,7 @@
 ||poster.hosesucceed.org^
 ||potential-sharp.com^
 ||potentialtorevolutionize.camp^
+||potsdam.de^
 ||power.cyberservices.com^
 ||powerfulhumanresources.life^
 ||powerinboxedge.com^
@@ -2272,6 +2303,7 @@
 ||pramesthiboutique.com^
 ||pratt.edu^
 ||predictedamoderate.co.uk^
+||prerov.cz^
 ||presentationsherpablog.com^
 ||presidentlodge.com^
 ||pressaturn.com^
@@ -2282,6 +2314,7 @@
 ||prickproof.com^
 ||primalhelp.tk^
 ||primejourneyjoy.com^
+||printdir.com^
 ||printermigrationsenior.online^
 ||prioritystockshop.com^
 ||privacypolicysample.com^
@@ -2301,6 +2334,7 @@
 ||proofofacircumtriple.org^
 ||proofofconceptouter.com^
 ||propionate.biz^
+||proskylinebuilders.com^
 ||prosperousdeal.com^
 ||proteclog.com^
 ||protectingcitizensprofessionals.life^
@@ -2349,12 +2383,14 @@
 ||rafdxnsds.com^
 ||raftarfeed.com^
 ||raj.cyberservices.com^
+||rajagiri.edu^
 ||ramadahhanberkaahcok.com^
 ||ranchpie.host^
 ||randstadusa.com^
 ||rangeofsourcestobring.net^
 ||rapidlychangingconditions.org^
 ||ratacnestisscratch.com^
+||rathinam.in^
 ||rauldoria.pt^
 ||ravelocity1123.com^
 ||raymondbaseballsoftball.com^
@@ -2391,12 +2427,14 @@
 ||reowex.com^
 ||reportednewsagency.com^
 ||republique.com^
+||res.in^
 ||resandwoodflooring.com^
 ||reset.tpusa.com^
 ||resolutionmultispectral.org^
 ||responsibleinvestplan.com^
 ||resslahanjengmemek.com^
 ||resttedd.com^
+||resttime.icu^
 ||resy.com^
 ||reupolde.com^
 ||reviewzportal.com^
@@ -2641,6 +2679,7 @@
 ||soundingdistortion.com^
 ||sounq.com^
 ||soutipasgroupe.com^
+||sp34gdynia.pl^
 ||spanishors.com^
 ||spanninggreatdistances.com^
 ||sparkpostmail.com^
@@ -2651,6 +2690,7 @@
 ||specialmomentforme.co.uk^
 ||speed.digitalmarketinglobe.com^
 ||speeddirectlytoward.co.uk^
+||speedof.icu^
 ||speedofgiving.com^
 ||speedperks.com^
 ||spfk12.org^
@@ -2740,6 +2780,7 @@
 ||styleisthenewblack.com^
 ||subbonus.in.net^
 ||subtlenotion.com^
+||success.skin^
 ||successandintelligence.com^
 ||successfulcrisis.fun^
 ||suesd.org^
@@ -2787,6 +2828,7 @@
 ||tadnisantasi.com^
 ||tagmany.com^
 ||take.yachts^
+||takeadvantaggenow.com^
 ||takeenow.com^
 ||takeflightll.com^
 ||talentburst.com^
@@ -2920,6 +2962,7 @@
 ||topcartonline.com^
 ||topdigitaldevices.com^
 ||topdiscount.icu^
+||topdiscount.pics^
 ||tophomefurnishings.com^
 ||topsavorysips.com^
 ||topsocialbonding.com^
@@ -2996,9 +3039,11 @@
 ||ubidibs.com^
 ||uce.edu.ec^
 ||ucr.edu^
+||uema.br^
 ||uemg.br^
 ||uerwtlopauwjs.com^
 ||ufmg.br^
+||ufpr.br^
 ||ufromail.cl^
 ||ufsc.br^
 ||uic.edu^
@@ -3112,6 +3157,7 @@
 ||verificationme.com^
 ||verison.net^
 ||verizonmedia.com^
+||verry.skin^
 ||vers.co.in^
 ||verti-game.com^
 ||vetsource.com^
@@ -3130,6 +3176,7 @@
 ||vipeducation.edu.my^
 ||vipradiance.com^
 ||vipscriptshop.com^
+||viptharmony.com^
 ||virgilio.it^
 ||virginiogomez.cl^
 ||virginpulse.com^
@@ -3152,6 +3199,7 @@
 ||vusalaalizade.com^
 ||vwb.me^
 ||wageworks.com^
+||wahatmoraby.com^
 ||waince.com^
 ||walgre320ens.com^
 ||walgre906ens.com^
@@ -3182,6 +3230,7 @@
 ||webengineonline.com^
 ||webguyzcloud.com^
 ||webhostingtalk.com^
+||webinapplication.com^
 ||webmail.tpusa.com^
 ||webmaphosts.com^
 ||wedos.net^
@@ -3251,6 +3300,7 @@
 ||xlu.me^
 ||xmission.com^
 ||xnxx-jepang.com^
+||yadkinstudent.com^
 ||yahoo.co.jp^
 ||yandesbafdrgtjyoutlook.com^
 ||yarjeen.com^
