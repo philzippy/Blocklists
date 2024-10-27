@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday October 25 2024 02:29:00 UTC
-# Number of unique domains: 3401
+# Date: Thursday October 27 2024 23:27:00 UTC
+# Number of unique domains: 3422
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -95,6 +95,7 @@
 ||afandimed.com^
 ||afaqy.com^
 ||afromajority.com^
+||agagcp.com^
 ||agencyinbox.com^
 ||agentinvesting.com^
 ||agngulf.com^
@@ -450,6 +451,7 @@
 ||caliberhub.net^
 ||callofdutyonline.com^
 ||calvarymanteca.org^
+||camisseta.com^
 ||campaign-view.com^
 ||campith.com^
 ||canaccr.com^
@@ -520,6 +522,7 @@
 ||cheedstimb.com^
 ||chemnitz.com^
 ||chewlamp.xyz^
+||chicattitude.icu^
 ||chickmonk.com^
 ||chicviptextiles.com^
 ||chill-set-go.com^
@@ -1301,6 +1304,7 @@
 ||greatwanderwise.com^
 ||greatwebhostingtips.com^
 ||greenairlesspoll.com^
+||greenearthgreenbacks.com^
 ||greenhousepromedsoftware.com^
 ||greenlivingkit.com^
 ||greentreereversemortgage.com^
@@ -1322,8 +1326,10 @@
 ||guruinovatif.com^
 ||gutterguardiangreens.com^
 ||gvfintaci.com^
+||gwets.com^
 ||gylentag.com^
 ||gyouhjodpl.com^
+||gzhllcc.com^
 ||h-eng.helwan.edu.eg^
 ||h1.hilton.com^
 ||h4gs2kcp.consumercultures.com^
@@ -1371,6 +1377,7 @@
 ||healthinsurancessite.com^
 ||healthleadz.com^
 ||healthline.com^
+||healthpolicyy.com^
 ||healthspheren.com^
 ||healthtipsdeal.com^
 ||healthyfoodsforhealing.com^
@@ -1586,9 +1593,11 @@
 ||itemold.com^
 ||itrithuc.vn^
 ||itsos-mariecurie.it^
+||itstep.ge^
 ||ivacationforever.com^
 ||ivalisgroup.com^
 ||ixcomb.com^
+||jablonica.net^
 ||jakkloref.com^
 ||jas1.ds.jas.com^
 ||jasagbclanpebeh.com^
@@ -1940,6 +1949,7 @@
 ||mokladdat.com^
 ||monbeegreen.com^
 ||mondaysswimwear.com^
+||monexxi.com^
 ||moneysecretscenter.com^
 ||monitorbitcoinoffice.com^
 ||monksys.com^
@@ -2022,6 +2032,7 @@
 ||nathanandteripics.com^
 ||nationalbankofamerica.com^
 ||nationalbanksuppliers.com^
+||naturefitjourney.com^
 ||natureoxygen.us^
 ||natureprovip.com^
 ||navigatorsnetwork.com^
@@ -2107,6 +2118,7 @@
 ||numobul.com^
 ||nurturedradiance.com^
 ||nutricooker.com^
+||nutriwise.boats^
 ||nwbvcwp.com^
 ||nycstpatricksparade.org^
 ||nz-skincare.com^
@@ -2237,6 +2249,7 @@
 ||particularlybrightobject.org^
 ||pastorjustinjones.wordpress.com^
 ||patchofskycrucial.co.uk^
+||patiencare.com^
 ||patriottreasures.com^
 ||paulolramos.com^
 ||paydayloans50.com^
@@ -2356,6 +2369,7 @@
 ||primejourneyjoy.com^
 ||printdir.com^
 ||printermigrationsenior.online^
+||prioritiesarrangement.com^
 ||prioritystockshop.com^
 ||privacypolicysample.com^
 ||privatemoe.ae^
@@ -2624,6 +2638,7 @@
 ||separatethecontribution.net^
 ||sequestrationbenefits.net^
 ||sequoits.com^
+||seratextile.com^
 ||serendipityfood.com^
 ||servc-xflnit.com^
 ||serve-themes.com^
@@ -2717,8 +2732,10 @@
 ||sodbuyi.com^
 ||softaract.com^
 ||solarspacecarrentals.com^
+||somaiya.edu^
 ||songkick.com^
 ||sonobello^
+||sopron.hu^
 ||soshi.jp^
 ||sosqd-eigbox.net^
 ||soulmate-kiss.world^
@@ -2886,6 +2903,7 @@
 ||tanpabapak.com^
 ||tapebringrumblegarble.co.uk^
 ||tareepholy.online^
+||targetvoyage.com^
 ||tasbihwali.com^
 ||tavsiktlig.com^
 ||tawarwghayar.com^
@@ -3002,6 +3020,7 @@
 ||tiscali.itv^
 ||tmomail.net^
 ||tmt.edu.vn^
+||tnesscoach.com^
 ||toast-restaurants.com^
 ||tobt7.com^
 ||tocketix.com^
@@ -3106,6 +3125,7 @@
 ||uicpost.com^
 ||uiowa.edu^
 ||ulht.pt^
+||ultimateheatvip.com^
 ||ultimatetrendytreasures.com^
 ||umich.edu^
 ||umpurd.com^
@@ -3382,6 +3402,7 @@
 ||yourwalletinside.com^
 ||youthfulappearancedrive.com^
 ||ywortri.com^
+||zaann.com^
 ||zaglmart.com^
 ||zazcir.com^
 ||zegedinedinarian.space^
