@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday October 31 2024 13:34:00 UTC
-# Number of unique domains: 3457
+# Date: Thursday November 02 2024 12:24:00 UTC
+# Number of unique domains: 3467
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.co.uk^
@@ -283,6 +283,7 @@
 ||backwoodsbean.com^
 ||baconsta.com^
 ||baketm.com^
+||bakrieconstruction.com^
 ||balancewithgrace.com^
 ||balinstewartfoundation.me^
 ||bamborg.com^
@@ -418,6 +419,7 @@
 ||brinstonhealth.com^
 ||brittanypettersen.com^
 ||broad.freshcatchfishmarketgrill.com^
+||broeders.be^
 ||brooklinema.gov^
 ||browneaglearts.com^
 ||browsekeytopics.com^
@@ -694,6 +696,7 @@
 ||csacolombo.edu.lk^
 ||csinformtakeallsemogajaya.com^
 ||csmiguel.pt^
+||cuanschutz.edu^
 ||cubecraft.net^
 ||culatu.com^
 ||curiousdisease.com^
@@ -950,6 +953,7 @@
 ||emergingmarketsreview.com^
 ||emgcolorado.com^
 ||emich.edu^
+||emlakatolyesi.com^
 ||emory.edu^
 ||emphalas.com^
 ||enchantorproducts.com^
@@ -1002,6 +1006,7 @@
 ||etpr.pt^
 ||etu.cyu.fr^
 ||euiqoption.com^
+||eurelet.com^
 ||euromaidanpress.com^
 ||europeanschool.ge^
 ||eurosportsscouting.net^
@@ -2208,6 +2213,7 @@
 ||onlinevenmomembers.com^
 ||onmicrosoft.com^
 ||onradionetwork.org^
+||ontakeadvantage.autos^
 ||ontakeadvantage.com^
 ||ontrac.com^
 ||oocmc.com^
@@ -2537,6 +2543,7 @@
 ||riquenat.com^
 ||risclaren.sbs^
 ||rivercasa.com^
+||rizingzun.com^
 ||rkyamanmusical.com^
 ||rmasmayanloh.com^
 ||rnchq.com^
@@ -2651,6 +2658,7 @@
 ||selfreliance.beauty^
 ||selfreliiance.com^
 ||sellonlinemarketplace.com^
+||semojb.com^
 ||senate.gov^
 ||senatemajority.com^
 ||send-profit.com^
@@ -2699,6 +2707,7 @@
 ||shopmykart.store^
 ||shopnicoleandrews.com^
 ||shoponline.uk.net^
+||shoptopdirectory.com^
 ||shoulderflavor.xyz^
 ||shpalle.com^
 ||shradro.com^
@@ -3158,6 +3167,7 @@
 ||uicpost.com^
 ||uiowa.edu^
 ||ulht.pt^
+||ulisboa.pt^
 ||ultimateheatvip.com^
 ||ultimatetrendytreasures.com^
 ||umich.edu^
