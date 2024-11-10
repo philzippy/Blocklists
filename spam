@@ -5,11 +5,6 @@
 # Number of unique domains: 3467
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
-||.co.uk^
-||.ed.cr^
-||.makeup^
-||.shop^
-||.store^
 ||10xbusinesstraining.com^
 ||11alive.com^
 ||1800contacts.com^
@@ -23,6 +18,7 @@
 ||2c3m.com^
 ||2notice.com^
 ||34sp.com^
+||365mspro.com^
 ||3webmarketing.com^
 ||401kmarketstory.com^
 ||49240thestar.ca^
@@ -86,6 +82,7 @@
 ||aemariofonseca.pt^
 ||aemm.pt^
 ||aeolidia.com^
+||aepa.pt^
 ||aerates.pt^
 ||aerautumn.com^
 ||aeriagames.com^
@@ -94,6 +91,7 @@
 ||aevt.pt^
 ||afandimed.com^
 ||afaqy.com^
+||affordextend.com^
 ||afromajority.com^
 ||agagcp.com^
 ||agencyinbox.com^
@@ -181,6 +179,7 @@
 ||anfelwrtiierd.org^
 ||angelcrossarticles.com^
 ||anilbragues.it^
+||animaljourneyes.com^
 ||animaltalent.com^
 ||animegame.me^
 ||anna-university.org^
@@ -260,6 +259,7 @@
 ||autoconfig.tpusa.com^
 ||autodealerblog.com^
 ||autodiscover.tpusa.com^
+||autonen.com^
 ||avast.com^
 ||avecover.com^
 ||avfoiltv.com^
@@ -291,6 +291,7 @@
 ||bankoocy.com^
 ||bankrollreview.com^
 ||bareiroabogados.com^
+||barkchca.com^
 ||barnesandnoble.com^
 ||barracuda.com^
 ||barry.wyatt.cyberservices.com^
@@ -324,6 +325,7 @@
 ||begunnoteworthysololark.co.uk^
 ||being11clocked.sbs^
 ||bellasolsalsa.com^
+||bellavioralhealth.com^
 ||bellessential.com^
 ||bellevue.edu^
 ||bellsisd.net^
@@ -388,6 +390,7 @@
 ||bobbyweinberg.com^
 ||bodygoalstea.com^
 ||bodystrengtth.com^
+||bodywwell.com^
 ||boeroritver.com^
 ||bojksa.com^
 ||bomerangrecycle.com^
@@ -456,7 +459,9 @@
 ||calgiveaway.com^
 ||caliberhub.net^
 ||callofdutyonline.com^
+||calmcollective.icu^
 ||calvarymanteca.org^
+||cambridgecityschools.org^
 ||camisseta.com^
 ||campaign-view.com^
 ||campith.com^
@@ -567,6 +572,7 @@
 ||clickfunnels.com^
 ||clicksite.ir^
 ||climatekids.net^
+||climbbe.com^
 ||clippedinevents.com^
 ||clix2023.me^
 ||clix2024.com^
@@ -610,11 +616,13 @@
 ||collectingareatocatch.net^
 ||collection-cam.us^
 ||collegebuys.co.uk^
+||collierscholls.com^
 ||colmexen.com^
 ||colombianco.com^
 ||colorscommentator.com^
 ||columbia.edu^
 ||com.br^
+||com.cu.edu^
 ||com.eg^
 ||com.np^
 ||comcast.org^
@@ -720,6 +728,7 @@
 ||dabilyus.com^
 ||dailynews-world.com^
 ||damanquec.com^
+||dancetheerapy.com^
 ||dandhism.com^
 ||dandypcaccessories.com^
 ||dareambiguous.com^
@@ -913,6 +922,7 @@
 ||elasticmails.com^
 ||electricalserviceskaneohe.com^
 ||electricvehiclesnow.com^
+||elegantessencecare.com^
 ||elegantglow.icu^
 ||elephantjournal.com^
 ||elevated-pen.com^
@@ -921,6 +931,7 @@
 ||elitedeliciouseats.com^
 ||eliteniceadvisors.com^
 ||eliteoffers.skin^
+||elitestyleandshine.com^
 ||em.honda.com^
 ||em.nbcsports.com^
 ||em.shutterfly.com^
@@ -1050,6 +1061,7 @@
 ||fairsquarepricing.com^
 ||faithinooneself.com^
 ||fallsinthew0rld.makeup^
+||familyhealthe.com^
 ||fancytai1spetspa.biz^
 ||fapfaplq-03.com^
 ||farawaystarsystem.net^
@@ -1111,6 +1123,7 @@
 ||firstonlinebuy.com^
 ||fitbit.com^
 ||fithealthynewyou.com^
+||fitlifelife.com^
 ||fitnessdealsforall.com^
 ||fitnessjourneytop.com^
 ||fitnessplus101.com^
@@ -1175,6 +1188,7 @@
 ||frezzor.com^
 ||frgrt.com^
 ||friendlinkupnow.com^
+||friendshipblossom.com^
 ||frijoleo.com^
 ||fringferno.com^
 ||fs-toner.com^
@@ -1309,6 +1323,7 @@
 ||grablevels.com^
 ||graciefashion.com^
 ||gradbena.si^
+||gradeitonline.com^
 ||grandeplus.biz^
 ||grandsmileup.com^
 ||granite-change.com^
@@ -1544,6 +1559,7 @@
 ||inernecocli.edu.co^
 ||infini.fr^
 ||infinity-skincare.com^
+||infinitylogistic.com^
 ||influxreview.com^
 ||info-flyingblue.com^
 ||info6.citi.com^
@@ -1578,6 +1594,8 @@
 ||intermones.com^
 ||internationaldevelopers.org^
 ||internationalhomerelief.com^
+||internethospiital.com^
+||internethospitalook.com^
 ||internetofbank.com^
 ||internetoffitness.com^
 ||internetofresources.com^
@@ -1623,6 +1641,7 @@
 ||ivalisgroup.com^
 ||ixcomb.com^
 ||jablonica.net^
+||jacksodoy.com^
 ||jakkloref.com^
 ||jas1.ds.jas.com^
 ||jasagbclanpebeh.com^
@@ -1937,6 +1956,7 @@
 ||meetworkflow.com^
 ||megaseats.com^
 ||memeswell.com^
+||menhealthh.com^
 ||mertemlaksiirt.com^
 ||message.card.visa.com^
 ||messages.va.gov^
@@ -1976,6 +1996,8 @@
 ||mokihana.net^
 ||mokladdat.com^
 ||moltenegg.com^
+||momandbabyhealth.com^
+||momandbabyheealth.com^
 ||monbeegreen.com^
 ||mondaysswimwear.com^
 ||monexxi.com^
@@ -2058,12 +2080,14 @@
 ||naestved-cds.dk^
 ||nagadexpress.com^
 ||nameservices.net^
+||narzisa.com^
 ||nathanandteripics.com^
 ||nationalbankofamerica.com^
 ||nationalbanksuppliers.com^
 ||naturefitjourney.com^
 ||natureoxygen.us^
 ||natureprovip.com^
+||naturesportsalliance.com^
 ||navigatorsnetwork.com^
 ||nazihtc.com^
 ||nbcsports.com^
@@ -2141,12 +2165,14 @@
 ||nric-ri.org^
 ||ntp-g7g.amazon.com^
 ||nuclear-mill.us^
+||nuggent.com^
 ||nuipqhkwg.com^
 ||numaymolina.com^
 ||numerique-educatif.fr^
 ||numobul.com^
 ||nurturedradiance.com^
 ||nutricooker.com^
+||nutriknockings.net^
 ||nutriwise.boats^
 ||nwbvcwp.com^
 ||nycstpatricksparade.org^
@@ -2200,6 +2226,7 @@
 ||onlinebookride.com^
 ||onlinecare01.com^
 ||onlineclientsrewards.com^
+||onlineclinic.homes^
 ||onlinedatasentryjob.com^
 ||onlineflyersales.com^
 ||onlinemarket.com^
@@ -2280,6 +2307,7 @@
 ||pastorjustinjones.wordpress.com^
 ||patchofskycrucial.co.uk^
 ||patiencare.com^
+||pationaltherappy.com^
 ||patriottreasures.com^
 ||paulolramos.com^
 ||paydayloans50.com^
@@ -2307,6 +2335,7 @@
 ||perfectteachertips.com^
 ||performancesciences.net^
 ||peristeronicvisuva.com^
+||personalfinance.boats^
 ||pesasamerica.com^
 ||petcococop.com^
 ||petrolstationnearme.shop^
@@ -2347,6 +2376,7 @@
 ||plazaprecise.agency^
 ||pleasedomain.com^
 ||plescopan.sbs^
+||plonegov.com^
 ||plumbjet.com^
 ||poeticpower.com^
 ||pointignite.com^
@@ -2387,6 +2417,7 @@
 ||pragateefoundation.org^
 ||pramesthiboutique.com^
 ||pratt.edu^
+||precisionheattech.com^
 ||predictedamoderate.co.uk^
 ||prerov.cz^
 ||presentationsherpablog.com^
@@ -2411,6 +2442,7 @@
 ||profite.autos^
 ||profithuntershub.com^
 ||profityours.com^
+||profizza.com^
 ||progress.net^
 ||prohealthguru.com^
 ||prohealthupdate.com^
@@ -2480,6 +2512,7 @@
 ||ratacnestisscratch.com^
 ||rathinam.in^
 ||rauldoria.pt^
+||raullazar.com^
 ||ravelocity1123.com^
 ||raymondbaseballsoftball.com^
 ||rcn.com^
@@ -2524,6 +2557,7 @@
 ||resttedd.com^
 ||resttime.icu^
 ||resy.com^
+||retailvipfinder.com^
 ||reupolde.com^
 ||reviewzportal.com^
 ||revolutionpro.org^
@@ -2574,6 +2608,7 @@
 ||rpsk12.org^
 ||rs-stripe.signupgenius.com^
 ||rsyioyxiw.com^
+||rtedadventures.com^
 ||rtee.auraria.org^
 ||rthdecor.com^
 ||rtings.com^
@@ -2874,6 +2909,7 @@
 ||studenti.unisalento.it^
 ||students.asu.edu.jo^
 ||studentsfortrump.tpaction.com^
+||studiolegalefemminella.it^
 ||studyess.buzz^
 ||studyplanetsbeyond.com^
 ||stuffandstyles.com^
@@ -2888,6 +2924,7 @@
 ||success.skin^
 ||successandintelligence.com^
 ||successfulcrisis.fun^
+||successnoow.com^
 ||suesd.org^
 ||sufferintensestrong.co.uk^
 ||suggestionpresent.com^
@@ -2906,6 +2943,7 @@
 ||support.tpusa.com^
 ||supporttmfu.com^
 ||supraland.world^
+||sureconsultores.com^
 ||surprisingfactorbigbash.net^
 ||surveymonkeyuser.com^
 ||surveynetwork.com^
@@ -3040,6 +3078,7 @@
 ||throwlumber.net^
 ||thryv.com^
 ||thumbhumortree.org^
+||thuuxnder.com^
 ||tiago-tours.com^
 ||tiempopararecordar.com^
 ||tiezesty.net^
@@ -3088,11 +3127,13 @@
 ||toungepaste.org^
 ||tourisanerpola.com^
 ||toweringdime.net^
+||towesfor.com^
 ||tpaa.org^
 ||tpaction.com^
 ||tpusa.com^
 ||tracesofwaterfound.com^
 ||traction-cafe.com^
+||tradingtechtrends.com^
 ||tradingthoughtstoday.com^
 ||tradlin.com^
 ||trainingatwebmingo.com^
@@ -3169,6 +3210,7 @@
 ||ulht.pt^
 ||ulisboa.pt^
 ||ultimateheatvip.com^
+||ultimatesavorthetaste.com^
 ||ultimatetrendytreasures.com^
 ||umich.edu^
 ||umpurd.com^
@@ -3209,6 +3251,7 @@
 ||universityindex.org^
 ||univpm.it^
 ||unizar.es^
+||unlimitedearnings.motorcycles^
 ||unlv.edu^
 ||unusedretainrelieved.makeup^
 ||unverscity.ml^
@@ -3382,6 +3425,7 @@
 ||wico.be^
 ||wifa.st^
 ||wifnavy.com^
+||wigmiz.com^
 ||wildalaskancompany^
 ||wildalaskancompany.com^
 ||wildtrackstop.com^
@@ -3426,6 +3470,7 @@
 ||xnxx-jepang.com^
 ||yadkinstudent.com^
 ||yahoo.co.jp^
+||yahoo.com^
 ||yandesbafdrgtjyoutlook.com^
 ||yangentao.com^
 ||yarjeen.com^
@@ -3441,7 +3486,9 @@
 ||your.riteaid.com^
 ||youreyecatches.surf^
 ||yourhealth21c.com^
+||yourhealthinhand.com^
 ||yourluckydaypro.com^
+||yourmar.com^
 ||yourteamevents.org^
 ||yourvalucare.org^
 ||yourwalletinside.com^
