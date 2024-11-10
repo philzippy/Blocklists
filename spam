@@ -2,7 +2,7 @@
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
 # Date: Thursday November 10 2024 18:33:00 UTC
-# Number of unique domains: 3514
+# Number of unique domains: 3513
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -3470,7 +3470,6 @@
 ||xnxx-jepang.com^
 ||yadkinstudent.com^
 ||yahoo.co.jp^
-||yahoo.com^
 ||yandesbafdrgtjyoutlook.com^
 ||yangentao.com^
 ||yarjeen.com^
