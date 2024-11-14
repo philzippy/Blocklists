@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday November 10 2024 18:33:00 UTC
-# Number of unique domains: 3513
+# Date: Thursday November 14 2024 10:20:00 UTC
+# Number of unique domains: 3541
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -44,6 +44,7 @@
 ||accesstothesubsurface.net^
 ||account105-amazon.com^
 ||accountonline.com^
+||accumedes.com^
 ||accuroinsurance.com^
 ||acehardwarebargain.com^
 ||acehardwareco.com^
@@ -82,6 +83,7 @@
 ||aemariofonseca.pt^
 ||aemm.pt^
 ||aeolidia.com^
+||aeolivais.pt^
 ||aepa.pt^
 ||aerates.pt^
 ||aerautumn.com^
@@ -341,6 +343,7 @@
 ||bennet.senate.gov^
 ||bentouladerri.com^
 ||bergencatholichs.org^
+||berlbonu.com^
 ||bestareyours.com^
 ||bestcomcastoffers.com^
 ||besthomebuyereducation.com^
@@ -534,6 +537,7 @@
 ||chemnitz.com^
 ||chewlamp.xyz^
 ||chicattitude.icu^
+||chiccharm.boats^
 ||chickmonk.com^
 ||chicviptextiles.com^
 ||chill-set-go.com^
@@ -555,6 +559,7 @@
 ||cksc.edu.ph^
 ||clair-voyance.me^
 ||clandestinfevr.de.com^
+||classdojo.com^
 ||classicstyleonlines.net^
 ||classmates.com^
 ||cleaningkeys.com^
@@ -913,10 +918,12 @@
 ||eep.br^
 ||eerwnsenmoistersareed.life^
 ||efax.com^
+||efehankose.com^
 ||efficientsolutionsinc.com^
 ||effluxcarvejet^
 ||effortlessprice.com^
 ||eficasablanca.org^
+||efinancinginc.com^
 ||eigbox.net^
 ||ekq.me^
 ||elasticmails.com^
@@ -938,6 +945,7 @@
 ||em.target.com^
 ||em6006.infinity-skincare.com^
 ||ema.dareambiguous.com^
+||emadu.ueuromed.org^
 ||email-advanceautoparts.com^
 ||email-sagehotelscollection.com^
 ||email.ancestry.com^
@@ -1189,6 +1197,7 @@
 ||frgrt.com^
 ||friendlinkupnow.com^
 ||friendshipblossom.com^
+||friendshipdoodles.com^
 ||frijoleo.com^
 ||fringferno.com^
 ||fs-toner.com^
@@ -1284,6 +1293,7 @@
 ||gnewsclassifieds.org^
 ||go-know.com^
 ||go.kr^
+||goalgetternow.com^
 ||goautofit.com^
 ||gob.do^
 ||goblogz.com^
@@ -1347,6 +1357,7 @@
 ||greentreereversemortgage.com^
 ||grelacle.com^
 ||grg17geblergasse.at^
+||gridyna.com^
 ||griswoldforcolorado.org^
 ||grupocedva.com^
 ||gsaurziceni.ro^
@@ -1404,6 +1415,7 @@
 ||hastingscompanies.com^
 ||haui.edu.vn^
 ||havenly.com^
+||hawwastyle.com^
 ||hazelnutclothing.com^
 ||hazzardfamily.store^
 ||healthcheckexpress.com^
@@ -1421,6 +1433,7 @@
 ||healthtipsdeal.com^
 ||healthyfoodsforhealing.com^
 ||healthygringa.com^
+||healthylifestyle.skin^
 ||healthylivinng.com^
 ||heartfeltfriendship.com^
 ||hearthistoday.com^
@@ -1541,6 +1554,7 @@
 ||igrsukidp.com^
 ||ihsdubai.org^
 ||iic.com^
+||iiconde.com^
 ||iiss.ae^
 ||ilikevolleyball.com^
 ||illtreatfetch.com^
@@ -1720,6 +1734,7 @@
 ||khohlpanelpetales.com^
 ||kidoidn.com^
 ||kidsgrovecarpets.com^
+||kidsheallth.com^
 ||killer-simple.com^
 ||kinal.edu.gt^
 ||kindechoes.com^
@@ -1940,6 +1955,7 @@
 ||mcafee^
 ||mcansi.net^
 ||mccd.edu^
+||mckuskerelectric.com^
 ||mcteam.com^
 ||mdsline.com^
 ||mealdeliveryhome.info^
@@ -1992,6 +2008,7 @@
 ||modernindigo.com^
 ||modernwolfgames.com^
 ||moesvg.org^
+||mojcosinus.pl^
 ||mojo.com^
 ||mokihana.net^
 ||mokladdat.com^
@@ -2174,6 +2191,7 @@
 ||nutricooker.com^
 ||nutriknockings.net^
 ||nutriwise.boats^
+||nutriwisee.com^
 ||nwbvcwp.com^
 ||nycstpatricksparade.org^
 ||nz-skincare.com^
@@ -2560,6 +2578,7 @@
 ||retailvipfinder.com^
 ||reupolde.com^
 ||reviewzportal.com^
+||reviveandglow.com^
 ||revolutionpro.org^
 ||revolveswrotebring.com^
 ||revontultenmaa.org^
@@ -2618,6 +2637,7 @@
 ||ruppin365.net^
 ||rushgreco.com^
 ||rushthenew.com^
+||rushyper.com^
 ||russell.it^
 ||rvpmpharmacy.com^
 ||rwsinerji.com^
@@ -2655,6 +2675,7 @@
 ||sao.ga.gov^
 ||saocamilo-sp.br^
 ||sarirapet.com^
+||sasin.edu^
 ||sasktel.net^
 ||savagex.com^
 ||savannahtime.com^
@@ -2836,12 +2857,14 @@
 ||spkikol.pl^
 ||splendourdance.com^
 ||splitliver.host^
+||sportandhealth.website^
 ||sportandhealthclub.org^
 ||sportkeeda.org^
 ||sports-locater.com^
 ||sportsgreatdeals.com^
 ||sportsmenonly.com^
 ||sportyappaltothesedan.org^
+||sportywanderlust.pics^
 ||spreetsheet.com^
 ||sps-tachov.cz^
 ||spustpoo.com^
@@ -2970,6 +2993,7 @@
 ||tacticalsurvivor.net^
 ||tadnisantasi.com^
 ||tagmany.com^
+||take.boats^
 ||take.yachts^
 ||takeadvantaggenow.com^
 ||takeenow.com^
@@ -2977,6 +3001,7 @@
 ||talentburst.com^
 ||talgeig.com^
 ||tamodo.com^
+||tangmoyan.com^
 ||tanpabapak.com^
 ||tapebringrumblegarble.co.uk^
 ||tareepholy.online^
@@ -3140,6 +3165,7 @@
 ||traitcraf.us^
 ||tramoletraconssteocartilagincs.foundation^
 ||tranako.com^
+||transformlivesnow.com^
 ||transportnow.org^
 ||travcloud.com^
 ||travelbingoworld.com^
@@ -3363,6 +3389,7 @@
 ||vrflier.com^
 ||vusalaalizade.com^
 ||vwb.me^
+||waffarli.com^
 ||wageworks.com^
 ||wahatmoraby.com^
 ||waince.com^
@@ -3507,6 +3534,7 @@
 ||zpxhddyvo.com^
 ||zs-3.pl^
 ||zs-p1.pl^
+||zs28rijna-zamberk.cz^
 ||zs4leszno.pl^
 ||zsbce.cz^
 ||zsbenese.cz^
