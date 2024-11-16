@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday November 14 2024 10:20:00 UTC
-# Number of unique domains: 3541
+# Date: Thursday November 16 2024 14:34:00 UTC
+# Number of unique domains: 3552
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -211,6 +211,7 @@
 ||arabprintmedia.com^
 ||aractdot.com^
 ||aractnews.com^
+||aratamackenyu.com^
 ||aresalt.com^
 ||arizona.edu^
 ||arizonaopticalsystems.com^
@@ -553,6 +554,7 @@
 ||circasteel.com^
 ||circuitrad.info^
 ||cit.edu^
+||cityofproduct.com^
 ||cityteleconference.com^
 ||ciwideyhotel.com^
 ||cjminori.com^
@@ -1160,6 +1162,7 @@
 ||fojedo.xyz^
 ||followmyhealth.com^
 ||followthemoney.org^
+||foodandenergyy.com^
 ||foodcouponbox.com^
 ||foodcrane.com^
 ||foodiebytrade.com^
@@ -2014,6 +2017,7 @@
 ||mokladdat.com^
 ||moltenegg.com^
 ||momandbabyhealth.com^
+||momandbabyhealth.pics^
 ||momandbabyheealth.com^
 ||monbeegreen.com^
 ||mondaysswimwear.com^
@@ -2102,6 +2106,7 @@
 ||nationalbankofamerica.com^
 ||nationalbanksuppliers.com^
 ||naturefitjourney.com^
+||natureheartpath.com^
 ||natureoxygen.us^
 ||natureprovip.com^
 ||naturesportsalliance.com^
@@ -2340,6 +2345,7 @@
 ||peaceeducationact.com^
 ||peaceeeofmind.com^
 ||peaceooday.com^
+||peaceoofmind.com^
 ||peacocktv.com^
 ||pearlar.com^
 ||pecuasede.world^
@@ -2437,6 +2443,7 @@
 ||pratt.edu^
 ||precisionheattech.com^
 ||predictedamoderate.co.uk^
+||premiercic.com^
 ||prerov.cz^
 ||presentationsherpablog.com^
 ||presidentlodge.com^
@@ -2852,6 +2859,7 @@
 ||speedof.icu^
 ||speedofgiving.com^
 ||speedperks.com^
+||spespace.com^
 ||spfk12.org^
 ||spiritvid.com^
 ||spkikol.pl^
@@ -2859,6 +2867,7 @@
 ||splitliver.host^
 ||sportandhealth.website^
 ||sportandhealthclub.org^
+||sportandheealth.com^
 ||sportkeeda.org^
 ||sports-locater.com^
 ||sportsgreatdeals.com^
@@ -2889,6 +2898,7 @@
 ||starbucks.com^
 ||starpluses.com^
 ||starsprime.com^
+||starswebsite.com^
 ||starz.com^
 ||state.ma.us^
 ||statefarminfo.com^
@@ -3381,6 +3391,7 @@
 ||vnrvjiet.org^
 ||voanews.com^
 ||voiceoutliningwork.net^
+||voiconom.com^
 ||vortlndsl.com^
 ||vortxmarketing.com^
 ||votedem.org^
