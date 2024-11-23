@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday November 16 2024 14:34:00 UTC
-# Number of unique domains: 3552
+# Date: Thursday November 23 2024 15:31:00 UTC
+# Number of unique domains: 3603
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -35,6 +35,7 @@
 ||abblac.com^
 ||abdataclassactionmail.com^
 ||abodenicehaven.com^
+||abqdancelab.com^
 ||abuh-abahmedan01.net^
 ||abwservice.com^
 ||accelerateconsiderably.com^
@@ -247,6 +248,7 @@
 ||asu.edu^
 ||asurion.com^
 ||atheneumsinttruiden.be^
+||athleticodyssey.com^
 ||athomeupdates.org^
 ||atlasithalat.com^
 ||atlidw.com^
@@ -430,6 +432,7 @@
 ||brooklinema.gov^
 ||browneaglearts.com^
 ||browsekeytopics.com^
+||brqryt.com^
 ||btobet.com^
 ||bughtembew.com^
 ||bugsely.com^
@@ -459,6 +462,7 @@
 ||calcust.com^
 ||caldewschool.com^
 ||caleb.mailtoawy.com^
+||calendarmushroom.com^
 ||calfornc.com^
 ||calgiveaway.com^
 ||caliberhub.net^
@@ -697,10 +701,12 @@
 ||cpanel.tpaction.com^
 ||cpanel.tpusa.com^
 ||cpatomedical.com^
+||craftomet.com^
 ||craignlojo.com^
 ||crashhum.pink^
 ||createsend.com^
 ||creativeoutletunlmtd.com^
+||creativevipstudio.com^
 ||creatorcomb.net^
 ||crescentsch.com^
 ||crisprlawblog.net^
@@ -779,6 +785,7 @@
 ||deluxeweddingcakes.com^
 ||demand-forums.com^
 ||demandaadvantage.com^
+||demandtakeadvantage.cloud^
 ||demandtakeadvantage.com^
 ||demiliolaw.com^
 ||democratic-strategy.org^
@@ -801,11 +808,13 @@
 ||diaconnector.com^
 ||diakda.com^
 ||dialiana.com^
+||dicism.com^
 ||dierbai.com^
 ||dieselace.com^
 ||dietpromos.com^
 ||dietslim.net^
 ||differentsituationtoday.net^
+||digestivehealth.autos^
 ||digikey.com^
 ||digitaledgelearning.net^
 ||digitalentrepreneur.net^
@@ -857,6 +866,7 @@
 ||dreamer-portal.com^
 ||dreams4lessofficial.com^
 ||drewmindsetsquadkings.org^
+||driftrans.com^
 ||dripemail2.com^
 ||drtheader.com^
 ||drupnewy.com^
@@ -882,6 +892,7 @@
 ||easyfoodnew.info^
 ||easyhealthathome.com^
 ||easyicecreamstore.com^
+||easyinvestingrules.com^
 ||easylifemobility.cloud^
 ||easytravelinfo.com^
 ||easyvacationsmade.com^
@@ -1130,11 +1141,13 @@
 ||firstcoasthealthandrehab.com^
 ||firstcoastind.com^
 ||firstdomesticapparatus.org^
+||firstnlp.com^
 ||firstonlinebuy.com^
 ||fitbit.com^
 ||fithealthynewyou.com^
 ||fitlifelife.com^
 ||fitnessdealsforall.com^
+||fitnessguidee.com^
 ||fitnessjourneytop.com^
 ||fitnessplus101.com^
 ||fitvapesa.com^
@@ -1171,6 +1184,7 @@
 ||foolicritses.it^
 ||forensic-architecture.org^
 ||forestprovista.com^
+||forestquestt.com^
 ||forever21.com^
 ||foreverbrewery.com^
 ||forgetmassives.com^
@@ -1211,6 +1225,7 @@
 ||fuelrel.com^
 ||fuernis.com^
 ||fuller-plan.us^
+||fundasmentalists.net^
 ||funimation.com^
 ||funnyalley.com^
 ||funnyperfectionart.website^
@@ -1285,6 +1300,7 @@
 ||givinngeveryday.com^
 ||gizmotik.com^
 ||gladbernard.com^
+||glassrailingsforless.com^
 ||glcc.edu^
 ||globalaircraftservices.net^
 ||globalwarmingmessurement.net^
@@ -1505,6 +1521,7 @@
 ||hotchocolate15k.com^
 ||hotelevisioncr.com^
 ||hotladyvibes.com^
+||hotmail.be^
 ||hotmail.com^
 ||houndshavenbassetrescue.com^
 ||house.gov^
@@ -1541,6 +1558,7 @@
 ||ibfsrl.it^
 ||ibism.com^
 ||ichnaea.netflix.com^
+||icloud.com^
 ||ico.com^
 ||ictcult.com^
 ||ictpot.com^
@@ -1573,6 +1591,7 @@
 ||indianrails.in^
 ||indodep.com^
 ||industriousoverrated.org^
+||inenia.com^
 ||inernecocli.edu.co^
 ||infini.fr^
 ||infinity-skincare.com^
@@ -1710,6 +1729,7 @@
 ||kadrose.com^
 ||kadrove.info^
 ||kajabimail.net^
+||kalpchopra.com^
 ||kamyou.com^
 ||karachisports.life^
 ||karatesupply.com^
@@ -1743,6 +1763,7 @@
 ||kindechoes.com^
 ||kingsway-operations.com^
 ||kitanaiklagiyarrm45.com^
+||kiu.kr^
 ||kiwifarms.net^
 ||kklawang.mrsm.edu.my^
 ||klm-mail.com^
@@ -1840,6 +1861,7 @@
 ||litehao.com^
 ||litiancorp.com^
 ||littleuniversity.org^
+||live.com^
 ||live.dk^
 ||livefromtherock.com^
 ||livetomedia24.com^
@@ -1964,6 +1986,7 @@
 ||mealdeliveryhome.info^
 ||meaningfulsilentwordsappear.com^
 ||medallia.com^
+||medconsuult.com^
 ||mediapartnerscorp.com^
 ||medic-load.com^
 ||medicallnewstoday.com^
@@ -1994,6 +2017,7 @@
 ||mineplex.com^
 ||minerpetty.host^
 ||minhthy.com^
+||minicrucigrama.com^
 ||minihealthcareplans.com^
 ||minimalsampleexposure.org^
 ||misleadsto.digital^
@@ -2048,6 +2072,7 @@
 ||mrsbpo.com^
 ||mrsmeyers.com^
 ||ms-maisach.de^
+||msn.com^
 ||mso2019.com^
 ||mso365.ulp.pt^
 ||msrof.com^
@@ -2183,6 +2208,7 @@
 ||nowdayhappy.com^
 ||nowonthisday.com^
 ||nowsupportvip.com^
+||nowtrustyourself.com^
 ||nptu.edu.tw^
 ||nric-ri.org^
 ||ntp-g7g.amazon.com^
@@ -2270,6 +2296,7 @@
 ||oodrive.com^
 ||opentable.com^
 ||operationsdeclinedtop.coffee^
+||operbasis.com^
 ||opinioncentralvip.com^
 ||opinioncraftnow.com^
 ||opinionintelligent.com^
@@ -2305,6 +2332,7 @@
 ||overhaulbine.com^
 ||overindigenouslands.net^
 ||ownerflock.press^
+||ownitha.com^
 ||ozy.com^
 ||p4ed.com^
 ||pacifichhs.com^
@@ -2330,8 +2358,10 @@
 ||pastorjustinjones.wordpress.com^
 ||patchofskycrucial.co.uk^
 ||patiencare.com^
+||patientaddvocacy.com^
 ||pationaltherappy.com^
 ||patriottreasures.com^
+||patrover.com^
 ||paulolramos.com^
 ||paydayloans50.com^
 ||payjunctionmail.com^
@@ -2384,6 +2414,7 @@
 ||pimpolhinho.org^
 ||pinecrestmarinapa.com^
 ||pinglede.com^
+||pingmypint.com^
 ||pioneerpayton.com^
 ||pises.edu.sa^
 ||pitchbo542ok.com^
@@ -2451,6 +2482,7 @@
 ||prestige-machinery.com^
 ||presto-moon.com^
 ||presto-town.com^
+||preview@ninelet.com^
 ||prgmlearn.com^
 ||prickproof.com^
 ||primalhelp.tk^
@@ -2461,6 +2493,7 @@
 ||prioritystockshop.com^
 ||privacypolicysample.com^
 ||privatemoe.ae^
+||privilegeenow.com^
 ||prizesna.info^
 ||procomi.com^
 ||productionseastmedia.com^
@@ -2609,6 +2642,7 @@
 ||rnchq.com^
 ||roadblogger.com^
 ||roadtome.com^
+||roadtosuccess.autos^
 ||roadttosuccess.com^
 ||roaneschools.com^
 ||roberthalf.com^
@@ -2732,6 +2766,7 @@
 ||senioraffordablecareact.com^
 ||seniorsdiscountsite.com^
 ||seniorsissuesandanswers.com^
+||seniorwellness.autos^
 ||sent.mybasicfashion.com^
 ||sentaiaerospace.com^
 ||separatesweater.com^
@@ -2740,6 +2775,7 @@
 ||sequoits.com^
 ||seratextile.com^
 ||serendipityfood.com^
+||serenitysphere.homes^
 ||servc-xflnit.com^
 ||serve-themes.com^
 ||service.biv.sony.tv^
@@ -2756,6 +2792,7 @@
 ||shehempskincare.com^
 ||sheritackleintownprotecting.coffee^
 ||shilovim.com^
+||shineandbright.net^
 ||shipseal.com^
 ||shipstation.com^
 ||sho.com^
@@ -2828,11 +2865,13 @@
 ||smsi.be^
 ||smtp-auth.no-ip.com^
 ||smtpimails.com^
+||snapeet.com^
 ||snoresleeve.com^
 ||sobmonitor.org^
 ||socialdeal.nl^
 ||sodbuyi.com^
 ||softaract.com^
+||softparkcs.com^
 ||solarspacecarrentals.com^
 ||somaiya.edu^
 ||songkick.com^
@@ -2847,6 +2886,7 @@
 ||sp34gdynia.pl^
 ||spanishors.com^
 ||spanninggreatdistances.com^
+||sparc.mc-mc.com^
 ||sparkpostmail.com^
 ||sparksreport.com^
 ||sparkznaturanresource.com^
@@ -3011,6 +3051,7 @@
 ||talentburst.com^
 ||talgeig.com^
 ||tamodo.com^
+||taneefy.com^
 ||tangmoyan.com^
 ||tanpabapak.com^
 ||tapebringrumblegarble.co.uk^
@@ -3069,6 +3110,7 @@
 ||thediscoverer.com^
 ||theearthmaps.com^
 ||theemarketingspecialist.com^
+||thefancyhatlady.com^
 ||thefourness.com^
 ||thefrugalshopper.net^
 ||thegodlymother.com^
@@ -3175,6 +3217,7 @@
 ||traitcraf.us^
 ||tramoletraconssteocartilagincs.foundation^
 ||tranako.com^
+||tranominium.com^
 ||transformlivesnow.com^
 ||transportnow.org^
 ||travcloud.com^
@@ -3189,6 +3232,7 @@
 ||travelocity1123.com^
 ||travelocity5036.com^
 ||travelsholidays.net^
+||travelsportlife.icu^
 ||traveltriviamail.com^
 ||travelzoo.com^
 ||treecare-rochesterny.com^
@@ -3214,6 +3258,7 @@
 ||tucowsfull.com^
 ||tup.edu.ph^
 ||tureyinjilakus.com^
+||turiix.com^
 ||turnoutpac.org^
 ||turnruby.com^
 ||turntshead.com^
@@ -3297,6 +3342,7 @@
 ||upandgoingnow.com^
 ||update.biv.sony.tv^
 ||upedmoust.com^
+||upgradeyourstatus.com^
 ||upm.ium.pt^
 ||upperclasslashboutique.com^
 ||uptempo-advertising.com^
@@ -3367,10 +3413,12 @@
 ||vianet.com.np^
 ||victorydayy.com^
 ||videomovers.com^
+||videooil.com^
 ||vidyasart.com^
 ||vief.edu.vn^
 ||vieraconnect.tv^
 ||villamacaradi.com^
+||villamc.cl^
 ||vineyardvines.com^
 ||violaflair.com^
 ||vipartprints.com^
@@ -3445,10 +3493,12 @@
 ||welcometootheworld.com^
 ||welcometotheworld.skin^
 ||welderslog.com^
+||wellnessforal.com^
 ||wellnesshealthcareinc.com^
 ||wellnessnailcare.com^
 ||wellsfargo-mobilesecurity.com^
 ||wellspring.edu.vn^
+||welshrum.com^
 ||westlandsun.com^
 ||westpointheliservices.com^
 ||wetraveltour.com^
@@ -3469,6 +3519,7 @@
 ||wildtrackstop.com^
 ||wileyc.edu^
 ||wincache.shop^
+||windogen.com^
 ||windomnet.com^
 ||windowgaudy.net^
 ||windsorstore.com^
