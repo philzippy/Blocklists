@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday November 30 2024 16:02:00 UTC
-# Number of unique domains: 3634
+# Date: Thursday December 04 2024 13:27:00 UTC
+# Number of unique domains: 3665
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -211,6 +211,7 @@
 ||approvedadvantage.com^
 ||apps.mil^
 ||appscareer.com^
+||appypath.com^
 ||aptoide.com^
 ||aqbryon.xyz^
 ||aquaticce.com^
@@ -274,6 +275,7 @@
 ||avast.com^
 ||avecover.com^
 ||avfoiltv.com^
+||avtreebox.com^
 ||awdmon.com^
 ||awojqzniq.com^
 ||awstrack.me^
@@ -437,6 +439,7 @@
 ||brittanypettersen.com^
 ||broad.freshcatchfishmarketgrill.com^
 ||broeders.be^
+||broniary.com^
 ||brooklinema.gov^
 ||browneaglearts.com^
 ||browsekeytopics.com^
@@ -507,6 +510,8 @@
 ||cash.musicspb.com^
 ||castilabs.com^
 ||castirnulop.com^
+||caticface.com^
+||cattarnish.com^
 ||cbssports.com^
 ||ccetkuwait.org^
 ||ccsk12.net^
@@ -718,6 +723,7 @@
 ||creativevipstudio.com^
 ||creatorcomb.net^
 ||crescentsch.com^
+||cribz.it^
 ||crisprlawblog.net^
 ||critiquepolitique.com^
 ||crowdisunbelievable.com^
@@ -908,6 +914,7 @@
 ||easyvacationsmade.com^
 ||ebth.com^
 ||ecgarchitects.com^
+||ecogameheart.com^
 ||ecogoodsstore.com^
 ||ecom1.logitech.com^
 ||ecommweb.biz^
@@ -1030,6 +1037,7 @@
 ||equipmentub.com^
 ||ericsson.com^
 ||erleckw.com^
+||ermcloud.com^
 ||erzeszow.pl^
 ||esaverfest.com^
 ||esesanfer.edu.pe^
@@ -1079,6 +1087,7 @@
 ||explorehomedecor.org^
 ||express.medallia.com^
 ||extras4phone.com^
+||extremeinsight.com^
 ||eyentero.com^
 ||eyevisiondoctor.us^
 ||fabricanacionaldemunecos.com^
@@ -1137,6 +1146,7 @@
 ||financeperspectivetoday.com^
 ||financesspace.com^
 ||financialinvestingtoday.com^
+||financialwins.icu^
 ||finansights.com^
 ||findka.com^
 ||finecookingrecipes.net^
@@ -1166,6 +1176,7 @@
 ||flailor.com^
 ||flashlton.com^
 ||flashmagazine.net^
+||flatroofroofing.com^
 ||flawlessfaces.pics^
 ||fletcherandphillips.com^
 ||flexypack.com^
@@ -1311,6 +1322,7 @@
 ||givinngeveryday.com^
 ||gizmotik.com^
 ||gladbernard.com^
+||glascule.com^
 ||glassrailingsforless.com^
 ||glcc.edu^
 ||globalaircraftservices.net^
@@ -1383,6 +1395,7 @@
 ||greatwebhostingtips.com^
 ||greenairlesspoll.com^
 ||greenearthgreenbacks.com^
+||greengymnetwork.com^
 ||greenhousepromedsoftware.com^
 ||greenlivingkit.com^
 ||greentreereversemortgage.com^
@@ -1473,6 +1486,7 @@
 ||heartlink-management.com^
 ||heavenonearthapparel.com^
 ||heepix.com^
+||hegamah.com^
 ||hei.fr^
 ||hellofresh^
 ||helowebsite.com^
@@ -1482,6 +1496,7 @@
 ||helsine.com^
 ||henduenp.com^
 ||heraldalba.com^
+||heremporium.website^
 ||heretopiecesao.lol^
 ||heritage-shot.us^
 ||heroicusa.in.net^
@@ -1552,6 +1567,7 @@
 ||htcmania.com^
 ||htcstar.com^
 ||htmlelement.com^
+||hugies.co.za^
 ||hugodayt.com^
 ||huiccdemas.com^
 ||huldua.com^
@@ -1895,6 +1911,7 @@
 ||looseadult.host^
 ||lorawhispers.com^
 ||losderti.com^
+||loshermanas.net^
 ||losls.shop^
 ||lotoflearningsplits.com^
 ||louisepaynearts.com^
@@ -1982,6 +1999,7 @@
 ||marketsourceinfo.com^
 ||marlati.com^
 ||marleneolivi.com^
+||marrygrow.com^
 ||martianroversrecording.com^
 ||maseafter.cyberservices.com^
 ||maskarayugo.com^
@@ -1998,6 +2016,7 @@
 ||mcafee^
 ||mcansi.net^
 ||mccd.edu^
+||mcdatoto.com^
 ||mckuskerelectric.com^
 ||mcteam.com^
 ||mdsline.com^
@@ -2017,6 +2036,7 @@
 ||megaseats.com^
 ||memeswell.com^
 ||menhealthh.com^
+||meniwing.com^
 ||mertemlaksiirt.com^
 ||message.card.visa.com^
 ||messages.va.gov^
@@ -2072,6 +2092,7 @@
 ||monlau.com^
 ||monodrup.com^
 ||monotezion.com^
+||monthofexcellence.com^
 ||monthsopportunity.com^
 ||moralamp.com^
 ||morcellateunligable.makeup^
@@ -2150,6 +2171,7 @@
 ||nathanandteripics.com^
 ||nationalbankofamerica.com^
 ||nationalbanksuppliers.com^
+||natureandpaws.com^
 ||naturefitjourney.com^
 ||natureheartpath.com^
 ||natureoxygen.us^
@@ -2547,6 +2569,7 @@
 ||public-edu.co.uk^
 ||publicgazefanatical.life^
 ||publicsafetyeducationalliance.com^
+||pucminas.br^
 ||punchunity.press^
 ||purchaseorder.com^
 ||purecarstam.com^
@@ -2746,6 +2769,7 @@
 ||savvydealshunter.com^
 ||sayosia.com^
 ||sblschools.com^
+||scanmiss.com^
 ||scarcestimulating.be^
 ||sceptre-coral.com^
 ||schools.mk^
@@ -2789,6 +2813,7 @@
 ||seniorsdiscountsite.com^
 ||seniorsissuesandanswers.com^
 ||seniorwellness.autos^
+||senpaidog.com^
 ||sent.mybasicfashion.com^
 ||sentaiaerospace.com^
 ||separatesweater.com^
@@ -2947,6 +2972,7 @@
 ||sqdlllpoadzz.news^
 ||square-broker.com^
 ||squaremktg.com^
+||squareup.com^
 ||sredfinance.com^
 ||sriutama.edu.my^
 ||sroams.com^
@@ -2992,6 +3018,7 @@
 ||stratrgichealthmanagement.org^
 ||streatmarkets.com^
 ||streetfoodstruck.com^
+||strengthcheck.org^
 ||stretchlength.xyz^
 ||stretchtherapistacademy.com^
 ||strike-boards.us^
@@ -3036,6 +3063,7 @@
 ||sunnyhilldist.com^
 ||sunrisesprings.com^
 ||sunsetpooch.com^
+||superiortechtoday.com^
 ||supertools.com^
 ||supitscx.com^
 ||support.com^
@@ -3312,6 +3340,7 @@
 ||ufpr.br^
 ||ufromail.cl^
 ||ufsc.br^
+||uib.eu^
 ||uic.edu^
 ||uicpost.com^
 ||uiowa.edu^
@@ -3450,6 +3479,7 @@
 ||vineyardvines.com^
 ||violaflair.com^
 ||vipartprints.com^
+||vipcommercepro.com^
 ||vipeducation.edu.my^
 ||vipglowskin.com^
 ||vipradiance.com^
@@ -3530,6 +3560,7 @@
 ||wellsfargo-mobilesecurity.com^
 ||wellspring.edu.vn^
 ||welshrum.com^
+||werally.com^
 ||westlandsun.com^
 ||westpointheliservices.com^
 ||wetraveltour.com^
