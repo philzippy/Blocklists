@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday December 04 2024 13:27:00 UTC
-# Number of unique domains: 3665
+# Date: Thursday December 07 2024 12:43:00 UTC
+# Number of unique domains: 3681
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -301,13 +301,16 @@
 ||balinstewartfoundation.me^
 ||bamborg.com^
 ||bandphk.com^
+||bankofamerica.com^
 ||bankoocy.com^
 ||bankrollreview.com^
 ||bareiroabogados.com^
 ||barkchca.com^
 ||barnesandnoble.com^
 ||barracuda.com^
+||barringerpoint.com^
 ||barry.wyatt.cyberservices.com^
+||basaclothing.com^
 ||basbal.com^
 ||basis.cleaning^
 ||basisinternational-ph.com^
@@ -786,6 +789,7 @@
 ||dealdynamopro.com^
 ||dealernotifications.com^
 ||dealwiki.net^
+||debra.org^
 ||debtfreeslonn.com^
 ||decknn.com^
 ||decoranji.com^
@@ -1269,6 +1273,7 @@
 ||gamblegalaxyvip.com^
 ||gamehivestudios.com^
 ||gamepartzone.com^
+||gamersozluk.com^
 ||gamesandappstore.com^
 ||gap.com^
 ||gardenoda.com^
@@ -1383,6 +1388,7 @@
 ||grantamp.us^
 ||graovasco.net^
 ||graphicgravy.com^
+||graphold.com^
 ||grcgrupa.com^
 ||greasemonkey.com^
 ||greasemonkeyauto.com^
@@ -1419,6 +1425,7 @@
 ||guruinovatif.com^
 ||gutterguardiangreens.com^
 ||gvfintaci.com^
+||gwendin.com^
 ||gwets.com^
 ||gylentag.com^
 ||gyouhjodpl.com^
@@ -1639,6 +1646,7 @@
 ||ingsmy.com^
 ||ingstast.com^
 ||inheritancegoals.com^
+||inkxvity.com^
 ||innersloth.com^
 ||innoelo.com^
 ||inpvp.net^
@@ -1915,6 +1923,7 @@
 ||losls.shop^
 ||lotoflearningsplits.com^
 ||louisepaynearts.com^
+||loungete.com^
 ||lovefitnessweb.com^
 ||lovemarketplacee.com^
 ||loversrs.com^
@@ -1989,6 +1998,7 @@
 ||maplestreetinc.com^
 ||mapprosearch.com^
 ||marconi-galletti.it^
+||mariahpeace.com^
 ||maricopawebdesignseo.com^
 ||marios.tds.net^
 ||maristasalajuela.org^
@@ -2404,12 +2414,14 @@
 ||patientaddvocacy.com^
 ||pationaltherappy.com^
 ||patriottreasures.com^
+||patrolgaffebrush.eu^
 ||patrover.com^
 ||paulolramos.com^
 ||paydayloans50.com^
 ||payjunctionmail.com^
 ||paylessforcontacts.com^
 ||paymentgw.com^
+||paypal.com^
 ||paypal.com.mx^
 ||payschools.com^
 ||pcrm.org^
@@ -2450,6 +2462,7 @@
 ||photon-ll.com^
 ||photozis.com^
 ||phyundab.com^
+||pias.autos^
 ||picsyste.com^
 ||pictureofthedayfeature.net^
 ||pictureunlimited.com^
@@ -3118,6 +3131,7 @@
 ||taxuzbmivih.com^
 ||teachinginvestors.com^
 ||team.moneybank.cyberservices.com^
+||teamprowess.com^
 ||teamxaviers.org^
 ||teaparty247.org^
 ||techilem.com^
@@ -3599,6 +3613,7 @@
 ||worcestershireanemone.click^
 ||wordpress.com^
 ||wordting.com^
+||workonline.website^
 ||workoutregularlyasfair.org.uk^
 ||worktogethertocreate.org^
 ||worldhappymen.com^
@@ -3607,6 +3622,7 @@
 ||woundichild.com^
 ||wowmagicalarts.life^
 ||wowweb26.com^
+||writepride.com^
 ||writestorypara.com^
 ||wsfc.wa.gov^
 ||wsretusgus.com^
