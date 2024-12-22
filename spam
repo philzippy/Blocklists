@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday December 15 2024 21:00:00 UTC
-# Number of unique domains: 3701
+# Date: Thursday December 22 2024 14:48:00 UTC
+# Number of unique domains: 3725
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -40,6 +40,7 @@
 ||abwservice.com^
 ||accelerateconsiderably.com^
 ||acceptnow.life^
+||accepttnow.com^
 ||accereac.com^
 ||accessabilityoasis.com^
 ||accesstothesubsurface.net^
@@ -363,6 +364,7 @@
 ||bestareyours.com^
 ||bestcomcastoffers.com^
 ||besthomebuyereducation.com^
+||bestjazzguitar.com^
 ||bestmktstrategist.com^
 ||besttastytreatshub.com^
 ||besttraveltrailblazers.com^
@@ -586,6 +588,7 @@
 ||cksc.edu.ph^
 ||clair-voyance.me^
 ||clandestinfevr.de.com^
+||clarendonacademy.com^
 ||classdojo.com^
 ||classicstyleonlines.net^
 ||classmates.com^
@@ -1432,6 +1435,7 @@
 ||guidelinewonderfish.quest^
 ||guidetoresidence.com^
 ||guilhermefurlan.com.br^
+||gupilya.com^
 ||guruinovatif.com^
 ||gutterguardiangreens.com^
 ||gvfintaci.com^
@@ -1826,6 +1830,7 @@
 ||kohlsnonstick.com^
 ||kohlsproducts.com^
 ||koinglobal.com^
+||kokiatextile.com^
 ||kolpocen.com^
 ||komikko.com^
 ||komkesberaksi.com^
@@ -1845,8 +1850,10 @@
 ||kxmegaro.com^
 ||kyschools.us^
 ||kyu.internationaldevelopers.org^
+||kzgunea.net^
 ||lacansaf.shop^
 ||lafussal.co^
+||laimaliz.com^
 ||laishookah.com^
 ||lakes-chic.com^
 ||lakeseagles.com^
@@ -1938,6 +1945,7 @@
 ||lovefitnessweb.com^
 ||lovemarketplacee.com^
 ||loversrs.com^
+||loveworkspro.com^
 ||loxford.london^
 ||lqphhokgx.com^
 ||lrfb.ro^
@@ -2057,6 +2065,7 @@
 ||megaseats.com^
 ||memeswell.com^
 ||menhealthh.com^
+||menheealth.com^
 ||meniwing.com^
 ||mertemlaksiirt.com^
 ||message.card.visa.com^
@@ -2074,6 +2083,7 @@
 ||mikewallacehatesamerica.com^
 ||mileagerecord.com^
 ||millionocracyundeify.hair^
+||minbetter.com^
 ||mindwellnes.com^
 ||mineplex.com^
 ||minerpetty.host^
@@ -2107,6 +2117,7 @@
 ||monbeegreen.com^
 ||mondaysswimwear.com^
 ||monexxi.com^
+||moneyandmarketswatchdog.com^
 ||moneygain.autos^
 ||moneysecretscenter.com^
 ||monitorbitcoinoffice.com^
@@ -2195,6 +2206,7 @@
 ||nationalbanksuppliers.com^
 ||natureandpaws.com^
 ||naturefitjourney.com^
+||natureheartgames.com^
 ||natureheartpath.com^
 ||natureoxygen.us^
 ||natureprovip.com^
@@ -2205,6 +2217,7 @@
 ||ncjh-qyjwoepkdntszwkgyne.com^
 ||ndiocircle.com^
 ||ndtau-jjmanning.com^
+||neatstuffu.com^
 ||nec.co.jp^
 ||nennydish.com^
 ||nervide.com^
@@ -2288,6 +2301,7 @@
 ||nutriknockings.net^
 ||nutriwise.boats^
 ||nutriwisee.com^
+||nutriwisezx.com^
 ||nwbvcwp.com^
 ||nycstpatricksparade.org^
 ||nz-skincare.com^
@@ -2518,6 +2532,7 @@
 ||politicalpointz.com^
 ||pomailer2868.com^
 ||pomailer339.com^
+||pondrusi.com^
 ||pooprotest.com^
 ||poorhyt.com^
 ||popnorra.info^
@@ -2556,7 +2571,9 @@
 ||prgmlearn.com^
 ||prickproof.com^
 ||primalhelp.tk^
+||primefashionfinesse.com^
 ||primejourneyjoy.com^
+||primesmartdevice.com^
 ||printdir.com^
 ||printermigrationsenior.online^
 ||prioritiesarrangement.com^
@@ -2643,6 +2660,7 @@
 ||rauldoria.pt^
 ||raullazar.com^
 ||ravelocity1123.com^
+||rawfilldirect.eu^
 ||raymondbaseballsoftball.com^
 ||rcn.com^
 ||rcvware.com^
@@ -2827,6 +2845,7 @@
 ||selfcarespoot.com^
 ||selfreliance.beauty^
 ||selfreliiance.com^
+||selfsurvivals.com^
 ||sellonlinemarketplace.com^
 ||semojb.com^
 ||senate.gov^
@@ -3101,6 +3120,7 @@
 ||supraland.world^
 ||sureconsultores.com^
 ||surprisingfactorbigbash.net^
+||surveyinsighthub.com^
 ||surveymonkeyuser.com^
 ||surveynetwork.com^
 ||survivalcombat.net^
@@ -3205,6 +3225,7 @@
 ||thehealthdrops.com^
 ||thekifureview.com^
 ||thelimitlessapp.com^
+||thelittlestgroom.com^
 ||themaillistcompany.com^
 ||themedicareresource.net^
 ||themonthofjoy.com^
@@ -3246,6 +3267,7 @@
 ||tiezesty.net^
 ||tiktakloes.com^
 ||tiktok.com^
+||timasbh.comï^
 ||timbus.info^
 ||time.com^
 ||timeandsalesreporter.com^
@@ -3514,6 +3536,7 @@
 ||vipcommercepro.com^
 ||vipeducation.edu.my^
 ||vipglowskin.com^
+||vipinsightquest.com^
 ||vipradiance.com^
 ||vipscriptshop.com^
 ||viptharmony.com^
@@ -3688,6 +3711,7 @@
 ||zenmoldes.com^
 ||zerocarpayment.com^
 ||zoho.eu^
+||zohodesk.com.au^
 ||zohoinsights.com^
 ||zohoprojects.eu^
 ||zoneine.com^
