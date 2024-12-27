@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday December 24 2024 15:17:00 UTC
-# Number of unique domains: 3732
+# Date: Thursday December 27 2024 22:52:00 UTC
+# Number of unique domains: 3751
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -194,6 +194,7 @@
 ||animaltalent.com^
 ||animegame.me^
 ||anna-university.org^
+||antireason.com^
 ||antolagroup.com^
 ||anuc.edu.gh^
 ||aol.com^
@@ -267,6 +268,7 @@
 ||attractfashion.com^
 ||attractiontickets418.com^
 ||audienatomrights.com^
+||audiosynch.com^
 ||augmented-band.com^
 ||auschool.me^
 ||aussiejobsearch.com^
@@ -771,6 +773,7 @@
 ||dancetheerapy.com^
 ||dandhism.com^
 ||dandypcaccessories.com^
+||daneroc.com^
 ||dareambiguous.com^
 ||darpavsbatman.com^
 ||dashboardbrick.fun^
@@ -806,6 +809,7 @@
 ||dedicatedpatriot.com^
 ||deextinctionprogram.org^
 ||defencetactical.com^
+||defenchy.com^
 ||defend-family.com^
 ||delasalle.edu.mt^
 ||deliberatelyfireddeceasequite.com^
@@ -1044,6 +1048,7 @@
 ||ephemeralcounters.api.roblox.com^
 ||epinfante.com^
 ||epiqpay.com^
+||episousse.com.tn^
 ||epsm.pt^
 ||eptn.pt^
 ||equalamus.ru.com^
@@ -1257,6 +1262,7 @@
 ||friendshipdoodles.com^
 ||frijoleo.com^
 ||fringferno.com^
+||frmbri.com^
 ||fs-toner.com^
 ||ftc.edu^
 ||ftnes.autos^
@@ -1512,6 +1518,7 @@
 ||heepix.com^
 ||hegamah.com^
 ||hei.fr^
+||heineye.com^
 ||hellofresh^
 ||helowebsite.com^
 ||helpforfinance.xyz^
@@ -1814,6 +1821,7 @@
 ||kevinortzman.net^
 ||kfront.net^
 ||kfsov.com^
+||khmerzilahost.com^
 ||khohlpanelpetales.com^
 ||kidoidn.com^
 ||kidsgrovecarpets.com^
@@ -1952,6 +1960,7 @@
 ||loversrs.com^
 ||loveworkspro.com^
 ||loxford.london^
+||lpnu.ua^
 ||lqphhokgx.com^
 ||lrfb.ro^
 ||lsc.hk^
@@ -2058,6 +2067,7 @@
 ||meaningfulsilentwordsappear.com^
 ||medallia.com^
 ||medconsuult.com^
+||medcoonsult.com^
 ||mediapartnerscorp.com^
 ||medic-load.com^
 ||medicallnewstoday.com^
@@ -2647,6 +2657,7 @@
 ||quiteimpressivefirst.co.uk^
 ||quizderes.com^
 ||quizvolt.com^
+||rabungap.org^
 ||racyters.com^
 ||radarfeedback.com^
 ||radicaltechreveal.com^
@@ -2686,6 +2697,7 @@
 ||recoverdecisionseason.co.uk^
 ||recoversmolan.co.sn^
 ||redditmail.com^
+||redefinedsolutions.eu^
 ||rediscoveryourcreativity.com^
 ||reenspaceproperties.net^
 ||reg.biv.sony.tv^
@@ -3118,6 +3130,7 @@
 ||sunrisesprings.com^
 ||sunsetpooch.com^
 ||superiortechtoday.com^
+||superlativer.net^
 ||supertools.com^
 ||supitscx.com^
 ||support.com^
@@ -3396,6 +3409,7 @@
 ||uema.br^
 ||uemg.br^
 ||uerwtlopauwjs.com^
+||ufma.br^
 ||ufmg.br^
 ||ufpr.br^
 ||ufromail.cl^
@@ -3421,6 +3435,7 @@
 ||uniboyaca.edu.co^
 ||unicoreinsighth.com^
 ||unifesp.br^
+||unifi.it^
 ||unifiedlayer.com^
 ||unifoa.edu.br^
 ||unijos.edu.ng^
@@ -3685,6 +3700,7 @@
 ||xlu.me^
 ||xmission.com^
 ||xnxx-jepang.com^
+||yabrud.com^
 ||yadkinstudent.com^
 ||yahoo.co.jp^
 ||yandesbafdrgtjyoutlook.com^
@@ -3712,12 +3728,15 @@
 ||ywortri.com^
 ||zaann.com^
 ||zaglmart.com^
+||zakyexpress.com^
 ||zazcir.com^
 ||zegedinedinarian.space^
 ||zeitgeisa.com^
 ||zenmoldes.com^
 ||zerocarpayment.com^
+||zoemen.com^
 ||zoho.eu^
+||zohobooks.com^
 ||zohodesk.com.au^
 ||zohoinsights.com^
 ||zohoprojects.eu^
