@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday December 27 2024 22:52:00 UTC
-# Number of unique domains: 3751
+# Date: Thursday January 01 2025 15:58:00 UTC
+# Number of unique domains: 3771
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -82,6 +82,7 @@
 ||aecoruche.pt^
 ||aeermesinde.net^
 ||aeescultorfs.pt^
+||aejac.pt^
 ||aelc-lamego.pt^
 ||aemariofonseca.pt^
 ||aemm.pt^
@@ -150,6 +151,7 @@
 ||alruya.edu^
 ||alsacienne.org^
 ||alsalvadori.com^
+||alsokar.com^
 ||alsson.com^
 ||altaylarotomotiv.com^
 ||altech-usa.com^
@@ -166,6 +168,7 @@
 ||alunos.fibbauru.br^
 ||alunosatc.edu.br^
 ||alunouninter.com^
+||alutivx.com^
 ||amalanhikmah.com^
 ||amazingthinngs.com^
 ||americabankcorporation.com^
@@ -519,6 +522,7 @@
 ||cartiercul.com^
 ||casaexterminators.com^
 ||cash.musicspb.com^
+||caspink.com^
 ||castilabs.com^
 ||castirnulop.com^
 ||caticface.com^
@@ -616,6 +620,7 @@
 ||clothingbrands.org^
 ||cloud.tpusa.com^
 ||cloud.uautonoma.cl^
+||clozelibro.comz^
 ||clubcrdmember0249.com^
 ||clubcrdmember1503.com^
 ||clubcrdmember223.com^
@@ -856,6 +861,7 @@
 ||digitalmediapowerhouse.com^
 ||digitalmoneyusa.com^
 ||digitalreaddepot.com^
+||digitalskyscraper.com^
 ||digitalz.org^
 ||dignitymemorial.com^
 ||dikr.co.uk^
@@ -919,6 +925,7 @@
 ||earthawareathletics.com^
 ||earthlink.com^
 ||earthlink.net^
+||earthsinventory.com^
 ||earthtranquil.com^
 ||eastvaleinsurance.com^
 ||easycollegecoupons.com^
@@ -937,6 +944,7 @@
 ||ecom1.logitech.com^
 ||ecommweb.biz^
 ||ecommwebs.net^
+||ecowondersvip.com^
 ||ecwrd.ae^
 ||ed.cr^
 ||edgeservicing.com^
@@ -972,6 +980,7 @@
 ||effortlessprice.com^
 ||eficasablanca.org^
 ||efinancinginc.com^
+||eftranspeed.com^
 ||eigbox.net^
 ||ekq.me^
 ||elasticmails.com^
@@ -1024,6 +1033,7 @@
 ||emlakatolyesi.com^
 ||emory.edu^
 ||emphalas.com^
+||empoweringyourbusinessvisions.eu^
 ||enchantorproducts.com^
 ||enderuncolleges.com^
 ||endofmarkets.net^
@@ -1096,6 +1106,7 @@
 ||excelgens.com^
 ||excellenceleisureescapes.com^
 ||excellentcraftobsolete.com^
+||exceptionalconsultancy.eu^
 ||exclusiveeasy.com^
 ||exclusivefindspro.com^
 ||executionstringupdates.com^
@@ -1450,6 +1461,7 @@
 ||gwendin.com^
 ||gwets.com^
 ||gylentag.com^
+||gympos.sk^
 ||gyouhjodpl.com^
 ||gzhllcc.com^
 ||h-eng.helwan.edu.eg^
@@ -2005,6 +2017,7 @@
 ||maillist-manage.eu^
 ||maillowesclubteam.com^
 ||mailtoawy.com^
+||maimaishuo.com^
 ||maininternalclub.com^
 ||maisonmmaroc.com^
 ||majestictravelers.com^
@@ -2066,6 +2079,7 @@
 ||mealdeliveryhome.info^
 ||meaningfulsilentwordsappear.com^
 ||medallia.com^
+||medandcaree.com^
 ||medconsuult.com^
 ||medcoonsult.com^
 ||mediapartnerscorp.com^
@@ -2205,6 +2219,7 @@
 ||myiuc.com^
 ||mylifesurgetoday.com^
 ||mymail.sim.edu.sg^
+||mymrmi.com^
 ||mypentax.com^
 ||myskincareadvanced.com^
 ||mysticalusa.info^
@@ -2273,6 +2288,7 @@
 ||nicolesilvacunhaoutlook.com^
 ||nightma.us^
 ||nimble.com^
+||ninelet.com^
 ||niothinker.com^
 ||nitco.com^
 ||nityo.com^
@@ -2332,6 +2348,7 @@
 ||odtor.com^
 ||offersperfect.com^
 ||office-365.cc^
+||office-all.me^
 ||office.zsa.slupsk.pl^
 ||office365.ulisboa.pt^
 ||official.nike.com^
@@ -2427,6 +2444,7 @@
 ||overallusa.info^
 ||overhaulbine.com^
 ||overindigenouslands.net^
+||owassops.org^
 ||ownerflock.press^
 ||ownitha.com^
 ||ozy.com^
@@ -2546,6 +2564,7 @@
 ||policylibrary.org^
 ||polisforcolorado.com^
 ||politicalpointz.com^
+||pollpulsenow.com^
 ||pomailer2868.com^
 ||pomailer339.com^
 ||pondrusi.com^
@@ -2583,7 +2602,6 @@
 ||prestige-machinery.com^
 ||presto-moon.com^
 ||presto-town.com^
-||ninelet.com^
 ||prgmlearn.com^
 ||prickproof.com^
 ||primalhelp.tk^
@@ -3177,6 +3195,7 @@
 ||tangmoyan.com^
 ||tanpabapak.com^
 ||tapebringrumblegarble.co.uk^
+||tarbia.tn^
 ||tareepholy.online^
 ||targetvoyage.com^
 ||tasbihwali.com^
@@ -3373,6 +3392,7 @@
 ||tridedvade.com^
 ||triennes.com^
 ||triggeredspeculation.org^
+||trinitymidland.org^
 ||triveloseries.com^
 ||trixdr.com^
 ||trk.tpaction.com^
@@ -3519,6 +3539,7 @@
 ||vajsenhuset.dk^
 ||valebrand.com^
 ||valleros.quest^
+||valuablebusinessresources.eu^
 ||valueocer.com^
 ||valuesurge.hair^
 ||valuesurge.icu^
