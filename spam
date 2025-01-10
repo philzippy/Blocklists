@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday January 05 2025 20:17:00 UTC
-# Number of unique domains: 3790
+# Date: Thursday January 10 2025 23:37:00 UTC
+# Number of unique domains: 3811
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -240,6 +240,7 @@
 ||artnursery.org^
 ||as-j.net^
 ||asacolorado.com^
+||ascacademy.org^
 ||asd103.org^
 ||ashleystewart.com^
 ||askasdoiuw.com^
@@ -807,6 +808,7 @@
 ||dealdynamopro.com^
 ||dealernotifications.com^
 ||dealwiki.net^
+||deanoandco.com^
 ||debra.org^
 ||debtfreeslonn.com^
 ||decknn.com^
@@ -1063,6 +1065,7 @@
 ||epinfante.com^
 ||epiqpay.com^
 ||episousse.com.tn^
+||eppreach.com^
 ||epsm.pt^
 ||eptn.pt^
 ||equalamus.ru.com^
@@ -1086,6 +1089,7 @@
 ||estudiante.uniajc.edu.co^
 ||estudiantesgach.com^
 ||esuperfit.com^
+||etaesco.com^
 ||ethicslifestyle.store^
 ||etpr.pt^
 ||etu.cyu.fr^
@@ -1165,6 +1169,7 @@
 ||featureandnightmode.com^
 ||featureslearnslightly.news^
 ||fecostarica.com^
+||feedbackweek.com^
 ||feeds.tpusa.com^
 ||fefcoll.org^
 ||fellowshipepc.org^
@@ -1276,6 +1281,7 @@
 ||friendlinkupnow.com^
 ||friendshipblossom.com^
 ||friendshipdoodles.com^
+||friendshipgrowths.com^
 ||frijoleo.com^
 ||fringferno.com^
 ||frmbri.com^
@@ -1338,6 +1344,7 @@
 ||genesiswin.info^
 ||gennedixit.com^
 ||genosomali.com^
+||genseca.com^
 ||gescairo.com^
 ||gesnomor.com^
 ||getdeliverysafe.com^
@@ -1400,6 +1407,7 @@
 ||goodgravyassociates.biz^
 ||goodsaleseekers.com^
 ||googlegroups.com^
+||gops.education^
 ||gorgindrza.sbs^
 ||gosphero.com^
 ||got.alsalvadori.com^
@@ -1619,6 +1627,7 @@
 ||htcstar.com^
 ||htmlelement.com^
 ||huddlestonelinens.com^
+||hudsonagileventures.com^
 ||hugies.co.za^
 ||hugodayt.com^
 ||huiccdemas.com^
@@ -1654,6 +1663,7 @@
 ||if.internetoftours.com^
 ||iflipsites.com^
 ||ifoodadventure.com^
+||igerrati.com^
 ||igi.or.id^
 ||igrsukidp.com^
 ||ihsdubai.org^
@@ -1697,6 +1707,7 @@
 ||innoelo.com^
 ||inpvp.net^
 ||insideedgedesigners.com^
+||insradio.com^
 ||instaboost.com^
 ||instawealthdaily.com^
 ||instinctivesneak.com^
@@ -1738,6 +1749,7 @@
 ||ipapazou.com^
 ||ipe-edu.org^
 ||ipfunny.com^
+||ipiaget.pt^
 ||iprsbd.com^
 ||ipsmafia.com^
 ||ipv.pt^
@@ -1797,6 +1809,7 @@
 ||jophey.net^
 ||jopinc.com^
 ||joqbuq.com^
+||joselitomoves.com^
 ||joshrodin.com^
 ||jpelectric.com^
 ||jpelectric.com.com^
@@ -2232,6 +2245,7 @@
 ||mymail.sim.edu.sg^
 ||mymrmi.com^
 ||mypentax.com^
+||myrarest.com^
 ||myskincareadvanced.com^
 ||mysticalusa.info^
 ||mystou.net^
@@ -2533,6 +2547,7 @@
 ||pheinc.com^
 ||philforcolorado.com^
 ||phishtrain.org^
+||photobookgenie.com^
 ||photon-ll.com^
 ||photozis.com^
 ||phyundab.com^
@@ -2617,6 +2632,7 @@
 ||prgmlearn.com^
 ||prickproof.com^
 ||primalhelp.tk^
+||primecityonline.com^
 ||primefashionfinesse.com^
 ||primejourneyjoy.com^
 ||primesmartdevice.com^
@@ -3284,6 +3300,7 @@
 ||theorchard.com^
 ||theoryservice.com^
 ||theoutrightbar.com^
+||thepointoftherhyme.com^
 ||theproscloset.com^
 ||theravereviews.com^
 ||therealbargain.com^
@@ -3360,6 +3377,7 @@
 ||topuptat.com^
 ||totalcomfortprice.com^
 ||totaleclipsecamp.com^
+||totalhaus.com^
 ||touchingtheground.net^
 ||toughtimefellsilent.org^
 ||toungepaste.org^
@@ -3427,6 +3445,7 @@
 ||tworiverswinery.com^
 ||tworld.com^
 ||twtge.com^
+||twucket.com^
 ||tytydmoshfit.com^
 ||tzset.com^
 ||uac.pt^
@@ -3607,6 +3626,7 @@
 ||vision.edu.mk^
 ||visionslip.com^
 ||visitlifestylepro.com^
+||visualconscience.com^
 ||visualpes.com^
 ||vivcity.com^
 ||vmezsu.com^
@@ -3621,6 +3641,7 @@
 ||votersfirstvictoryfund.org^
 ||voyageandplay.website^
 ||vrflier.com^
+||vueexperts.com^
 ||vusalaalizade.com^
 ||vwb.me^
 ||waffarli.com^
