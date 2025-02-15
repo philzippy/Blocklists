@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday February 08 2025 16:00:00 UTC
-# Number of unique domains: 3989
+# Date: Thursday February 15 2025 23:25:00 UTC
+# Number of unique domains: 4011
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -196,6 +196,7 @@
 ||analytics.getpocket.com^
 ||anaxks-akhem235.co^
 ||ancestry.com^
+||andersen.com^
 ||androprotocol.com^
 ||andwildlifetales.com^
 ||anfelwrtiierd.org^
@@ -223,6 +224,7 @@
 ||appfolio.com^
 ||applest.gamesandappstore.com^
 ||appliancehav.com^
+||appliancenok.com^
 ||appreceipt-amazon.com^
 ||approvedadvantage.com^
 ||apps.mil^
@@ -699,6 +701,7 @@
 ||comcast.org^
 ||comhs.org^
 ||commemoorationday.beauty^
+||commemoorationday.com^
 ||commemorationsmois.com^
 ||commercialprod.com^
 ||commercialpropertycash.com^
@@ -926,6 +929,7 @@
 ||dobintastik.me^
 ||dobsour.com^
 ||docomo-usa.com^
+||doctordhome.com^
 ||doctorondemand.com^
 ||documentsincollectedseveral.news^
 ||docusign.net^
@@ -944,7 +948,9 @@
 ||dpattaya.com^
 ||dpessltd.com^
 ||dqmceszzf.com^
+||drakowi.com^
 ||drcarolelive.com^
+||dreadyne.com^
 ||dreamcrafer.com^
 ||dreamer-portal.com^
 ||dreams4lessofficial.com^
@@ -1124,6 +1130,7 @@
 ||esith.net^
 ||espirant.me^
 ||esporteshopping.com^
+||essentialdevics.com^
 ||est.ucacue.edu.ec^
 ||est.unev.edu.do^
 ||establishedbuddhism.life^
@@ -1166,6 +1173,7 @@
 ||executivesearchturkey.com^
 ||existenceofaplanet.net^
 ||exoticfashions.co.in^
+||experiencewonders.net^
 ||experigreen-online.com^
 ||expertsmackup.com^
 ||exploratio-nmix.us^
@@ -1184,6 +1192,7 @@
 ||factframes.com^
 ||factonw.com^
 ||factory-llc.com^
+||fadepsychologypayment.lifestyle^
 ||fahrenheithub.com^
 ||fairpey.com^
 ||fairsquarepricing.com^
@@ -1312,6 +1321,7 @@
 ||foto-carousel.com^
 ||fourcolourdesign.com^
 ||fourhillevents.com^
+||fourseasongrowth.com^
 ||foxdictionarynews.life^
 ||foxnews^
 ||framerjacks.com^
@@ -1328,6 +1338,7 @@
 ||freshbreew.com^
 ||freshcatchfishmarketgrill.com^
 ||fresheyesbook.net^
+||freshflomedia.com^
 ||freshradiancebeauty.com^
 ||frezzor.com^
 ||frgrt.com^
@@ -1744,14 +1755,17 @@
 ||ilikevolleyball.com^
 ||illtreatfetch.com^
 ||imaginary-bee.com^
+||imbb.forth.gr^
 ||immobiliarealbertini.it^
 ||impactinitialoutbreak.net^
 ||importanttips.info^
 ||importmaestro.com^
 ||importtemporarychance.org^
+||improvements.com^
 ||in-running-trading-tool.org.uk^
 ||inagaming305.com^
 ||inbox.lt^
+||inchecke.com^
 ||inclassmates.info^
 ||increlati.com^
 ||indianrails.in^
@@ -1969,6 +1983,7 @@
 ||kose.withintomorrowgarden.co.uk^
 ||kpasu.mrsm.edu.my^
 ||kptk.or.id^
+||krainamuzyki.com^
 ||kramfors.se^
 ||krisysse.com^
 ||krmangalam.com^
@@ -2110,6 +2125,7 @@
 ||maesdagua.pt^
 ||magicmushgames.com^
 ||mail.barnesandnoble.com^
+||mail.comms.yahoo.net^
 ||mail.freshmarketdata.com^
 ||mail.goodreads.com^
 ||mail.hbomax.com^
@@ -2137,15 +2153,6 @@
 ||majestyautoglass.com^
 ||majikr.ml^
 ||majikr1.ga^
-||make rule condition at end of rule conditions with properties {rule type:message content, qualifier:does contain value, expression:"mcafee^
-||make rule condition at end of rule conditions with properties {rule type:subject header, qualifier:does contain value, expression:"aarp^
-||make rule condition at end of rule conditions with properties {rule type:subject header, qualifier:does contain value, expression:"andersen^
-||make rule condition at end of rule conditions with properties {rule type:subject header, qualifier:does contain value, expression:"improvements^
-||make rule condition at end of rule conditions with properties {rule type:subject header, qualifier:does contain value, expression:"mcafee^
-||make rule condition at end of rule conditions with properties {rule type:subject header, qualifier:does contain value, expression:"renovations^
-||make rule condition at end of rule conditions with properties {rule type:subject header, qualifier:does contain value, expression:"subscription has expired^
-||make rule condition at end of rule conditions with properties {rule type:subject header, qualifier:does contain value, expression:"window^
-||make rule condition at end of rule conditions with properties {rule type:subject header, qualifier:does contain value, expression:"windows^
 ||makemepossible.info^
 ||makersmovement.org^
 ||malaniuk.com^
@@ -2193,6 +2200,7 @@
 ||mc.afee^
 ||mcafee^
 ||mcafee total protection^
+||mcafee.com^
 ||mcansi.net^
 ||mccd.edu^
 ||mcdatoto.com^
@@ -2279,6 +2287,7 @@
 ||monitorbitcoinoffice.com^
 ||monksys.com^
 ||monlau.com^
+||monneymarket.com^
 ||monodrup.com^
 ||monotezion.com^
 ||monthofexcellence.com^
@@ -2423,6 +2432,7 @@
 ||ninelet.com^
 ||niothinker.com^
 ||niravandtrisha.com^
+||nishatspices.com^
 ||nitco.com^
 ||nityo.com^
 ||nkust.edu.tw^
@@ -2446,6 +2456,7 @@
 ||notarizefl.com^
 ||notathomesecurity.com^
 ||notourwar.com^
+||notrtech.com^
 ||notsolive.com^
 ||nouveau.edu.mx^
 ||novalfibretech.com^
@@ -2612,6 +2623,7 @@
 ||parisnanterre.fr^
 ||parker.distilwaters.com^
 ||parler.com^
+||particularcalorie.com^
 ||particularlybrightobject.org^
 ||pastorjustinjones.wordpress.com^
 ||patchofskycrucial.co.uk^
@@ -2665,6 +2677,7 @@
 ||pharmacyrideshop.com^
 ||pheinc.com^
 ||philforcolorado.com^
+||phipressbox.com^
 ||phishtrain.org^
 ||photobookgenie.com^
 ||photon-ll.com^
@@ -2683,6 +2696,7 @@
 ||pises.edu.sa^
 ||pitchbo542ok.com^
 ||pittmandavis.com^
+||pixelursuit.com^
 ||pjimail6.com^
 ||pku.edu.cn^
 ||plainsborohomes.com^
@@ -2697,6 +2711,7 @@
 ||plescopan.sbs^
 ||plonegov.com^
 ||plumbjet.com^
+||poembeats.com^
 ||poeticpower.com^
 ||pointignite.com^
 ||pointinganyfingers.co.uk^
@@ -2888,6 +2903,7 @@
 ||relicengineer.com^
 ||remarkrestaurant.com^
 ||remoteworkguidepro.com^
+||renovations.com^
 ||reoussosel.com^
 ||reowex.com^
 ||reportednewsagency.com^
@@ -2918,6 +2934,7 @@
 ||richmondhomelink.com^
 ||rick.beauty^
 ||rightbraintechnology.com^
+||rightchoiceinvestors.com^
 ||ring.com^
 ||ringtruck.com^
 ||rioeduca.net^
@@ -3180,6 +3197,7 @@
 ||sodbuyi.com^
 ||softaract.com^
 ||softparkcs.com^
+||solanahoa.com^
 ||solarspacecarrentals.com^
 ||soloovio.com^
 ||solvadno.com^
@@ -3378,6 +3396,7 @@
 ||tangmoyan.com^
 ||tanpabapak.com^
 ||tapebringrumblegarble.co.uk^
+||taradtoryod.com^
 ||tarbia.tn^
 ||tareepholy.online^
 ||targetvoyage.com^
@@ -3567,7 +3586,9 @@
 ||travelocity^
 ||travelocity1123.com^
 ||travelocity5036.com^
+||travelportaal.com^
 ||travelsholidays.net^
+||travelspheere.com^
 ||travelsportlife.icu^
 ||traveltriviamail.com^
 ||travelzoo.com^
@@ -3592,6 +3613,7 @@
 ||troubleshootco.com^
 ||trplbptnm.moz.com^
 ||trueandco.com^
+||truepurdue.com^
 ||tryoverspin.com^
 ||tu-varna.bg^
 ||tucowsfull.com^
@@ -3910,6 +3932,7 @@
 ||worktogethertocreate.org^
 ||worldhappymen.com^
 ||worldnewsstories.com^
+||worldpostone.com^
 ||worldstrides.com^
 ||woundichild.com^
 ||wowmagicalarts.life^
