@@ -1,10 +1,11 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday February 15 2025 23:25:00 UTC
-# Number of unique domains: 4011
+# Date: Thursday February 21 2025 12:58:00 UTC
+# Number of unique domains: 4033
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
+||.lifestyle^
 ||10xbusinesstraining.com^
 ||11alive.com^
 ||1800contacts.com^
@@ -29,6 +30,8 @@
 ||7centsecurity.com^
 ||8020research.info^
 ||9areblilo.com^
+||aaaoffers.com^
+||aaastoriesnews.com^
 ||aaateam.com^
 ||aagorph.com^
 ||aaronbennettonline.com^
@@ -220,6 +223,7 @@
 ||apiphome.com^
 ||apipvideo.com^
 ||aplaceformom.com^
+||aplianceking.com^
 ||apollofitness.net^
 ||appfolio.com^
 ||applest.gamesandappstore.com^
@@ -416,6 +420,7 @@
 ||birthdaybullies.com^
 ||biteeepm.com^
 ||bitly.com^
+||bitmakemecrazy.com^
 ||bizideass.com^
 ||bjrszc.com^
 ||blaspar.com^
@@ -630,6 +635,7 @@
 ||cleaningkeys.com^
 ||cleanliffe.com^
 ||cleanrooftopweb.com^
+||clearprocessor.com^
 ||clessiti.com^
 ||click-news.net^
 ||clickapip.com^
@@ -676,6 +682,7 @@
 ||codeemail.net^
 ||codinglama.com^
 ||coffeeofgoodness.com^
+||coinmack.com^
 ||coinpfft.com^
 ||coldplay.com^
 ||colegia.org^
@@ -725,6 +732,7 @@
 ||conectin55.com^
 ||conferdeploy.net^
 ||confrontationpotentially.com^
+||connectinggenerations.net^
 ||connectiva.it^
 ||conservativeintel.com^
 ||conservativepaulrevereriders.com^
@@ -991,6 +999,7 @@
 ||ecgarchitects.com^
 ||ecogameheart.com^
 ||ecogoodsstore.com^
+||ecoheartfulgames.com^
 ||ecom1.logitech.com^
 ||ecommweb.biz^
 ||ecommwebs.net^
@@ -1061,6 +1070,7 @@
 ||email-sagehotelscollection.com^
 ||email.ancestry.com^
 ||email.events.tpaction.com^
+||email.girlscouts.org^
 ||email.grantamp.us^
 ||email.lodgegaf.us^
 ||email.neweducdept.com^
@@ -1178,6 +1188,7 @@
 ||expertsmackup.com^
 ||exploratio-nmix.us^
 ||explorehomedecor.org^
+||explorethheworld.com^
 ||express.medallia.com^
 ||extend.bibleadvertisingextend.eu^
 ||extras4phone.com^
@@ -1555,6 +1566,7 @@
 ||h-eng.helwan.edu.eg^
 ||h1.hilton.com^
 ||h4gs2kcp.consumercultures.com^
+||h5.hilton.com^
 ||habitacceleratemining.co.uk^
 ||haiglerenterprises.com^
 ||hair-ie.com^
@@ -1610,6 +1622,7 @@
 ||healthspheren.com^
 ||healthtipsdeal.com^
 ||healthtodaay.com^
+||healthttipshub.com^
 ||healthyfoodsforhealing.com^
 ||healthygringa.com^
 ||healthylifestyle.skin^
@@ -2008,6 +2021,7 @@
 ||lardbargains.com^
 ||lasermin.com^
 ||lastarria.cl^
+||lasuiteteatro.com^
 ||lavings.com^
 ||lawrencewoodmere.org^
 ||laxhawk.com^
@@ -2067,6 +2081,7 @@
 ||listssa.com^
 ||litdigitalservices.com^
 ||litehao.com^
+||lithtsn.com^
 ||litiancorp.com^
 ||littleuniversity.org^
 ||live.com^
@@ -2075,6 +2090,7 @@
 ||livetomedia24.com^
 ||livetruecolor.com^
 ||localcbdsales.com^
+||localrankers.com^
 ||locatorstoresamsclub.com^
 ||lodgegaf.us^
 ||loft.com^
@@ -2419,6 +2435,7 @@
 ||nexcine.com^
 ||next1occurs.cloud^
 ||nextdoor.com^
+||nexttriptrip.com^
 ||nextwavepulse.com^
 ||nexvipsolutions.com^
 ||niagarague.com^
@@ -2643,6 +2660,7 @@
 ||paypal.com^
 ||paypal.com.mx^
 ||payschools.com^
+||pcbway.com^
 ||pcrm.org^
 ||pdx.edu^
 ||peacecomp.com^
@@ -2724,6 +2742,7 @@
 ||poliba.it^
 ||policylibrary.org^
 ||polisforcolorado.com^
+||politicalmarketinsights.com^
 ||politicalpointz.com^
 ||pollpulsenow.com^
 ||pomailer2868.com^
@@ -2821,6 +2840,7 @@
 ||punchunity.press^
 ||purchaseorder.com^
 ||purecarstam.com^
+||purelhealthy.com^
 ||put.backwoodsbean.com^
 ||pygmou.com^
 ||pyramid-tel.com^
@@ -3650,6 +3670,7 @@
 ||ufpr.br^
 ||ufromail.cl^
 ||ufsc.br^
+||ugandadialogue.com^
 ||uib.eu^
 ||uic.edu^
 ||uicpost.com^
@@ -3934,6 +3955,7 @@
 ||worldnewsstories.com^
 ||worldpostone.com^
 ||worldstrides.com^
+||worldtoours.com^
 ||woundichild.com^
 ||wowmagicalarts.life^
 ||wowweb26.com^
@@ -3997,6 +4019,7 @@
 ||zohobooks.com^
 ||zohodesk.com.au^
 ||zohoinsights.com^
+||zohomail.com^
 ||zohoprojects.eu^
 ||zoneine.com^
 ||zorgpoint.com^
