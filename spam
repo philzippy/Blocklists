@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday February 21 2025 12:58:00 UTC
-# Number of unique domains: 4033
+# Date: Thursday March 01 2025 01:58:00 UTC
+# Number of unique domains: 4054
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||.lifestyle^
@@ -131,6 +131,7 @@
 ||akhiramaja.co.in^
 ||al-sarira.com^
 ||alaafitness.com^
+||alamosa.org^
 ||alazhar.eg^
 ||aldi.us^
 ||aldine-isd.org^
@@ -388,6 +389,7 @@
 ||bestareyours.com^
 ||bestcomcastoffers.com^
 ||besthomebuyereducation.com^
+||bestinshowwalk.com^
 ||bestjazzguitar.com^
 ||bestmark.ma^
 ||bestmktstrategist.com^
@@ -464,6 +466,7 @@
 ||bptikpjateng.org^
 ||braceformarketgain.com^
 ||brag.org^
+||brainsdrains.com^
 ||bramfitt.co.nz^
 ||bramora.com.mt^
 ||bramptontaxi.ca^
@@ -817,6 +820,7 @@
 ||d1issuingbanks.com^
 ||d5live.net^
 ||dabilyus.com^
+||dailyapliances.com^
 ||dailynews-world.com^
 ||daklaksaigon.com^
 ||damanquec.com^
@@ -1187,6 +1191,7 @@
 ||experigreen-online.com^
 ||expertsmackup.com^
 ||exploratio-nmix.us^
+||exploregloobe.com^
 ||explorehomedecor.org^
 ||explorethheworld.com^
 ||express.medallia.com^
@@ -1567,6 +1572,7 @@
 ||h1.hilton.com^
 ||h4gs2kcp.consumercultures.com^
 ||h5.hilton.com^
+||haadhmjclxodoczf.com^
 ||habitacceleratemining.co.uk^
 ||haiglerenterprises.com^
 ||hair-ie.com^
@@ -1631,6 +1637,7 @@
 ||heartfeltfriendship.com^
 ||hearthistoday.com^
 ||heartlink-management.com^
+||heatsafeenergy.com^
 ||heavenonearthapparel.com^
 ||heepix.com^
 ||hegamah.com^
@@ -1761,6 +1768,7 @@
 ||igi.or.id^
 ||igrsukidp.com^
 ||ihsdubai.org^
+||ihuongdan.com^
 ||iic.com^
 ||iiconde.com^
 ||iismucci.it^
@@ -2194,12 +2202,14 @@
 ||marios.tds.net^
 ||maristasalajuela.org^
 ||maristasmediterranea.com^
+||markemymedia.com^
 ||market4sports.com^
 ||marketdailyupdates.com^
 ||marketingwebsites.biz^
 ||marketsourceinfo.com^
 ||marlati.com^
 ||marleneolivi.com^
+||maromasd.com^
 ||marrygrow.com^
 ||martianroversrecording.com^
 ||maseafter.cyberservices.com^
@@ -2754,6 +2764,7 @@
 ||popularliving.com^
 ||portfolio-arts.com^
 ||portlandsportsplaza.com^
+||positivepathwaysbarrie.com^
 ||possibleexception.net^
 ||possibleopportunity.coffee^
 ||postdoctoralscholar.net^
@@ -3240,6 +3251,7 @@
 ||sparkpostmail.com^
 ||sparksreport.com^
 ||sparkznaturanresource.com^
+||spatialchemist.com^
 ||spdv.ro^
 ||specialdelitedfood.com^
 ||specialmomentforme.co.uk^
@@ -3263,6 +3275,7 @@
 ||sportandheealth.com^
 ||sportkeeda.org^
 ||sports-locater.com^
+||sportsfancases.com^
 ||sportsgreatdeals.com^
 ||sportsmenonly.com^
 ||sportyappaltothesedan.org^
@@ -3424,6 +3437,7 @@
 ||tavsiktlig.com^
 ||tawarwghayar.com^
 ||taxuzbmivih.com^
+||tds.net^
 ||teachinginvestors.com^
 ||team.moneybank.cyberservices.com^
 ||teamprowess.com^
@@ -3576,6 +3590,7 @@
 ||toughtimefellsilent.org^
 ||toungepaste.org^
 ||tourisanerpola.com^
+||touristguuide.com^
 ||toweringdime.net^
 ||towesfor.com^
 ||tpaa.org^
@@ -3595,6 +3610,7 @@
 ||transformlivesnow.com^
 ||transportnow.org^
 ||travcloud.com^
+||travecsrl.com^
 ||traveladveentures.com^
 ||travelbingoworld.com^
 ||traveldealclub365.com^
@@ -3633,6 +3649,7 @@
 ||troubleshootco.com^
 ||trplbptnm.moz.com^
 ||trueandco.com^
+||trueehealth.com^
 ||truepurdue.com^
 ||tryoverspin.com^
 ||tu-varna.bg^
@@ -3928,6 +3945,7 @@
 ||wildalaskancompany.com^
 ||wildtrackstop.com^
 ||wileyc.edu^
+||willunga100.com^
 ||wincache.shop^
 ||windogen.com^
 ||windomnet.com^
@@ -3993,7 +4011,9 @@
 ||youcouldseerecognition.com^
 ||your.riteaid.com^
 ||youradveentures.com^
+||yourdooc.com^
 ||youreyecatches.surf^
+||yourgadgetguide.com^
 ||yourhealth21c.com^
 ||yourhealthinhand.com^
 ||yourluckydaypro.com^
@@ -4014,6 +4034,7 @@
 ||zeitgeisa.com^
 ||zenmoldes.com^
 ||zerocarpayment.com^
+||zimandy.hu^
 ||zoemen.com^
 ||zoho.eu^
 ||zohobooks.com^
