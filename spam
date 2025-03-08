@@ -1,11 +1,10 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday March 02 2025 15:10:00 UTC
-# Number of unique domains: 4057
+# Date: Thursday March 08 2025 14:00:00 UTC
+# Number of unique domains: 4076
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
-||.lifestyle^
 ||10xbusinesstraining.com^
 ||11alive.com^
 ||1800contacts.com^
@@ -479,6 +478,7 @@
 ||brickcitymarket.com^
 ||bricklink.com^
 ||bridgestone.com^
+||brightdecor.org^
 ||brighthousefinancial.com^
 ||brilliantachievement.com^
 ||brinstonhealth.com^
@@ -580,6 +580,7 @@
 ||centelius.com^
 ||centinel.cl^
 ||centralsmarket.com^
+||centredentairedk.com^
 ||cerisetechsolutions.com^
 ||chadaoban.com^
 ||chafern.com^
@@ -611,6 +612,7 @@
 ||chickmonk.com^
 ||chicviptextiles.com^
 ||chill-set-go.com^
+||chinabsdhq.com^
 ||chivalroussqueeze.org^
 ||choiceacceptnow.com^
 ||choicefactorlifestyle.net^
@@ -839,6 +841,7 @@
 ||datalinetec.com^
 ||datapointsvs.com^
 ||datingfactory410.com^
+||datkhinadipar-hospital.com^
 ||daubygg.com^
 ||davidepao.com^
 ||davingar.com^
@@ -901,6 +904,7 @@
 ||diaconnector.com^
 ||diakda.com^
 ||dialiana.com^
+||dianyoupin.com^
 ||dicism.com^
 ||dierbai.com^
 ||dieselace.com^
@@ -1228,6 +1232,7 @@
 ||fascaring.com^
 ||fashionforafiniteplanet.com^
 ||fashionfusionhubvip.com^
+||fashionlites.com^
 ||fashions16.com^
 ||fastcompany.com^
 ||fastestinspiralrate.com^
@@ -1237,6 +1242,7 @@
 ||fatppek.com^
 ||fatvsfood.com^
 ||fau.edu^
+||favoritedeestinations.com^
 ||favourlistoficecubesclosure.com^
 ||fbredacao.com^
 ||fc4research.com^
@@ -1547,6 +1553,8 @@
 ||gridyna.com^
 ||griswoldforcolorado.org^
 ||groupracy.com^
+||growmoneyskills.com^
+||growthmorocco.com^
 ||grupocedva.com^
 ||gsaurziceni.ro^
 ||gshibayama.com^
@@ -1637,6 +1645,7 @@
 ||healthylifestyle.skin^
 ||healthylivinng.com^
 ||heartandwild.com^
+||heartcaare.com^
 ||heartfeltfriendship.com^
 ||hearthistoday.com^
 ||heartlink-management.com^
@@ -1654,6 +1663,7 @@
 ||helsine.com^
 ||henduenp.com^
 ||heraldalba.com^
+||herbalheealing.com^
 ||heremporium.website^
 ||heretopiecesao.lol^
 ||heritage-shot.us^
@@ -2122,6 +2132,7 @@
 ||lovemarketplacee.com^
 ||loversrs.com^
 ||loveworkspro.com^
+||lowmarts.com^
 ||loxford.london^
 ||lpnu.ua^
 ||lqphhokgx.com^
@@ -2632,6 +2643,7 @@
 ||ownitha.com^
 ||ozy.com^
 ||p4ed.com^
+||pacemodern.com^
 ||pacifichhs.com^
 ||packagsetour.in.net^
 ||packersflorida.com^
@@ -2694,6 +2706,7 @@
 ||perfectteachertips.com^
 ||performancesciences.net^
 ||peristeronicvisuva.com^
+||personaalfinance.com^
 ||personalfinance.boats^
 ||pesasamerica.com^
 ||petcococop.com^
@@ -2934,6 +2947,7 @@
 ||regruhosting.ru^
 ||rehabilitationground.co.uk^
 ||relevanttotheevolution.net^
+||reliableheatservices.com^
 ||relicengineer.com^
 ||remarkrestaurant.com^
 ||remoteworkguidepro.com^
@@ -3594,6 +3608,7 @@
 ||toungepaste.org^
 ||tourisanerpola.com^
 ||touristguuide.com^
+||tourssguide.com^
 ||toweringdime.net^
 ||towesfor.com^
 ||tpaa.org^
@@ -3608,6 +3623,7 @@
 ||traitcraf.us^
 ||tramoletraconssteocartilagincs.foundation^
 ||tranako.com^
+||tranmods.com^
 ||tranominium.com^
 ||transformationstartswithyou.com^
 ||transformlivesnow.com^
@@ -3615,6 +3631,7 @@
 ||travcloud.com^
 ||travecsrl.com^
 ||traveladveentures.com^
+||travelanndtour.com^
 ||travelbingoworld.com^
 ||traveldealclub365.com^
 ||travelexpanse.com^
@@ -3973,6 +3990,7 @@
 ||workoutregularlyasfair.org.uk^
 ||worktogethertocreate.org^
 ||worldhappymen.com^
+||worldjjourney.com^
 ||worldnewsstories.com^
 ||worldpostone.com^
 ||worldstrides.com^
@@ -4014,6 +4032,7 @@
 ||youcouldseerecognition.com^
 ||your.riteaid.com^
 ||youradveentures.com^
+||yourdeestinations.com^
 ||yourdooc.com^
 ||youreyecatches.surf^
 ||yourgadgetguide.com^
