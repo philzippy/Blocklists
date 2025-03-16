@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday March 08 2025 14:00:00 UTC
-# Number of unique domains: 4076
+# Date: Thursday March 16 2025 02:00:00 UTC
+# Number of unique domains: 4106
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -128,6 +128,7 @@
 ||ak.productionseastmedia.com^
 ||akautobd.com^
 ||akhiramaja.co.in^
+||akusoliinsoles.com^
 ||al-sarira.com^
 ||alaafitness.com^
 ||alamosa.org^
@@ -175,6 +176,7 @@
 ||aluno.unicesumar.edu.br^
 ||alunocarioca.rio^
 ||alunos.epbjc.pt^
+||alunos.estacio.br^
 ||alunos.fibbauru.br^
 ||alunosatc.edu.br^
 ||alunouninter.com^
@@ -408,6 +410,7 @@
 ||bic.cyberservices.com^
 ||biefie.com^
 ||biglocaloffers.com^
+||bigstatesnews.com^
 ||bikesheba.com^
 ||bilagarenthurskopakenre.life^
 ||billing2-amazon.com^
@@ -562,6 +565,7 @@
 ||castilabs.com^
 ||castirnulop.com^
 ||caticface.com^
+||catsandbaby.com^
 ||cattarnish.com^
 ||cbssports.com^
 ||ccetkuwait.org^
@@ -823,6 +827,7 @@
 ||d1issuingbanks.com^
 ||d5live.net^
 ||dabilyus.com^
+||dailyadvenntures.com^
 ||dailyapliances.com^
 ||dailynews-world.com^
 ||daklaksaigon.com^
@@ -900,6 +905,7 @@
 ||deskrror.com^
 ||detecture.com^
 ||dev-prod05.conferdeploy.net^
+||dfxsolutions.com^
 ||dharmous.com^
 ||diaconnector.com^
 ||diakda.com^
@@ -908,6 +914,7 @@
 ||dicism.com^
 ||dierbai.com^
 ||dieselace.com^
+||dietms.org^
 ||dietpromos.com^
 ||dietslim.net^
 ||differentsituationtoday.net^
@@ -1133,6 +1140,7 @@
 ||eoptex.com^
 ||ephemeralcounters.api.roblox.com^
 ||epinfante.com^
+||epiqnotice.com^
 ||epiqpay.com^
 ||episousse.com.tn^
 ||eppreach.com^
@@ -1156,6 +1164,7 @@
 ||est.unev.edu.do^
 ||establishedbuddhism.life^
 ||estaffllc.com^
+||estesrockets.com^
 ||estlifeinsurancetips.com^
 ||estudiante.uniajc.edu.co^
 ||estudiantesgach.com^
@@ -1208,6 +1217,7 @@
 ||eyeheaalth.com^
 ||eyentero.com^
 ||eyevisiondoctor.us^
+||eyshuihil.com^
 ||ezerkapi.com.tr^
 ||fabricanacionaldemunecos.com^
 ||fabulaceweather.com^
@@ -1392,6 +1402,7 @@
 ||futuredreadsealbutcher.org^
 ||futuresavingnow.com^
 ||futurreproject.com^
+||fvpeiwan.com^
 ||fxnetworks.info^
 ||g12.br^
 ||ga.gov^
@@ -1445,6 +1456,7 @@
 ||getinvoicesimple.com^
 ||getinvolved.tpaction.com^
 ||getjobforme.com^
+||getnetlink.com^
 ||getpocket.com^
 ||getsurrey.co.uk^
 ||getsweetjamheadline.tech^
@@ -1572,6 +1584,7 @@
 ||guruinovatif.com^
 ||gustav-mesmer-realschule.de^
 ||gutterguardiangreens.com^
+||gvatrading.cl^
 ||gvfintaci.com^
 ||gwendin.com^
 ||gwets.com^
@@ -1801,6 +1814,7 @@
 ||inbox.lt^
 ||inchecke.com^
 ||inclassmates.info^
+||incomeideeas.com^
 ||increlati.com^
 ||indianrails.in^
 ||indodep.com^
@@ -1899,6 +1913,7 @@
 ||itstep.ge^
 ||ivacationforever.com^
 ||ivalisgroup.com^
+||ix.finance^
 ||ixcomb.com^
 ||jablonica.net^
 ||jacksodoy.com^
@@ -2661,6 +2676,7 @@
 ||panerabread.com^
 ||pantalikon.com^
 ||papamurphys.com^
+||papayasa.com^
 ||parhelionaccounting.com^
 ||parisnanterre.fr^
 ||parker.distilwaters.com^
@@ -3050,7 +3066,6 @@
 ||sakhbir.com^
 ||salehys23.co^
 ||salesavvypro.com^
-||salesforce.com^
 ||salonsalonfostercity.com^
 ||salonservicespro.com^
 ||salvadi.com^
@@ -3064,6 +3079,7 @@
 ||sanctuarycorner.com^
 ||sandbox-keep.com^
 ||sanskincare.com^
+||santacreuvasut.com^
 ||santafeema.com^
 ||santander.us^
 ||santanderfeedback.com^
@@ -3140,9 +3156,11 @@
 ||serendipityfood.com^
 ||serenitysphere.homes^
 ||serenitysphere.icu^
+||serequinos.com^
 ||servc-xflnit.com^
 ||serve-themes.com^
 ||serveapologydragon.com^
+||service-now.com^
 ||service.biv.sony.tv^
 ||serviceabilitys.com^
 ||servingpatientsday2day.photos^
@@ -3222,6 +3240,7 @@
 ||slickwraps.com^
 ||slimspirits01.fun^
 ||slingly.com^
+||slkinc.com^
 ||sloaund.com^
 ||slowlytryingtowrest.net^
 ||smaartwealth.com^
@@ -3468,6 +3487,7 @@
 ||teddded.com^
 ||teeice.com^
 ||teethwhiteningprocess.com^
+||tefane.com^
 ||tehnoloska.net^
 ||teicee.com^
 ||telegram.com^
@@ -3507,6 +3527,7 @@
 ||thediscoverer.com^
 ||theearthmaps.com^
 ||theemarketingspecialist.com^
+||theeyeproduction.com^
 ||thefancyhatlady.com^
 ||thefourness.com^
 ||thefrugalshopper.net^
@@ -3608,6 +3629,8 @@
 ||toungepaste.org^
 ||tourisanerpola.com^
 ||touristguuide.com^
+||tourjoourney.com^
+||toursguuide.com^
 ||tourssguide.com^
 ||toweringdime.net^
 ||towesfor.com^
@@ -3616,6 +3639,7 @@
 ||tpusa.com^
 ||tracesofwaterfound.com^
 ||traction-cafe.com^
+||tradifyhq.com^
 ||tradingtechtrends.com^
 ||tradingthoughtstoday.com^
 ||tradlin.com^
@@ -3631,6 +3655,7 @@
 ||travcloud.com^
 ||travecsrl.com^
 ||traveladveentures.com^
+||travelandexplooore.com^
 ||travelanndtour.com^
 ||travelbingoworld.com^
 ||traveldealclub365.com^
@@ -3639,6 +3664,7 @@
 ||traveling4acause.com^
 ||travelingride.com^
 ||travellerbuddy.org^
+||travelnoow.com^
 ||travelocity^
 ||travelocity1123.com^
 ||travelocity5036.com^
@@ -3726,6 +3752,7 @@
 ||unbelievablycomplexstep.com^
 ||unchartedvalues.com^
 ||uncp.edu.pe^
+||undpima.com^
 ||uni-oldenburg.de^
 ||uniboyaca.edu.co^
 ||unicoreinsighth.com^
@@ -3759,6 +3786,7 @@
 ||univpm.it^
 ||unizar.es^
 ||unlimitedearnings.motorcycles^
+||unlimittedearnings.com^
 ||unlv.edu^
 ||unusedretainrelieved.makeup^
 ||unverscity.ml^
@@ -3802,6 +3830,7 @@
 ||utec.edu.sv^
 ||utem.cl^
 ||utenlife.com^
+||uth.hn^
 ||uthrad.pl^
 ||utm.my^
 ||utopiannote.com^
@@ -4040,6 +4069,7 @@
 ||yourhealthinhand.com^
 ||yourluckydaypro.com^
 ||yourmar.com^
+||yourproofits.com^
 ||yourteamevents.org^
 ||yourtradinghawk.com^
 ||yourtstartup.com^
