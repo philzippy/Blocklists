@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday March 16 2025 02:00:00 UTC
-# Number of unique domains: 4105
+# Date: Thursday March 22 2025 15:45:00 UTC
+# Number of unique domains: 4127
 # Fetch the latest version of this file:https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -37,6 +37,7 @@
 ||abbentek.com^
 ||abblac.com^
 ||abdataclassactionmail.com^
+||abelrini.com^
 ||abodenicehaven.com^
 ||abqdancelab.com^
 ||abuh-abahmedan01.net^
@@ -262,6 +263,8 @@
 ||asd103.org^
 ||ashleystewart.com^
 ||askasdoiuw.com^
+||askcarexpert.com^
+||askinganything.net^
 ||asonbox.com^
 ||asonjob.com^
 ||asonpixel.com^
@@ -388,6 +391,7 @@
 ||berlbonu.com^
 ||bestareyours.com^
 ||bestcomcastoffers.com^
+||bestgriil.com^
 ||besthomebuyereducation.com^
 ||bestinshowwalk.com^
 ||bestjazzguitar.com^
@@ -492,6 +496,7 @@
 ||browneaglearts.com^
 ||browsekeytopics.com^
 ||brqryt.com^
+||bscba.com^
 ||btobet.com^
 ||bughtembew.com^
 ||bugsely.com^
@@ -527,6 +532,7 @@
 ||calendarmushroom.com^
 ||calfornc.com^
 ||calgiveaway.com^
+||caliber-owner.com^
 ||caliberhub.net^
 ||callofdutyonline.com^
 ||calmcollective.icu^
@@ -569,6 +575,7 @@
 ||cbssports.com^
 ||ccetkuwait.org^
 ||ccsk12.net^
+||cdacmumbai.in^
 ||cdn.tpusa.com^
 ||cdsgyide.com^
 ||cebasusa.com^
@@ -844,6 +851,7 @@
 ||databack.com^
 ||datalinetec.com^
 ||datapointsvs.com^
+||dataposits.com^
 ||datingfactory410.com^
 ||datkhinadipar-hospital.com^
 ||daubygg.com^
@@ -1074,6 +1082,7 @@
 ||eliteniceadvisors.com^
 ||eliteoffers.skin^
 ||elitestyleandshine.com^
+||elitetruckers.com^
 ||elittraveel.com^
 ||elyvarying.com^
 ||em.honda.com^
@@ -1106,6 +1115,7 @@
 ||emailwirelessoffers.com^
 ||emedia4.com^
 ||emengteal.com^
+||emergencyemail.org^
 ||emergingidea.com^
 ||emergingmarketsreview.com^
 ||emgcolorado.com^
@@ -1340,6 +1350,7 @@
 ||foodcouponbox.com^
 ||foodcrane.com^
 ||foodiebytrade.com^
+||foodonthestreet.com^
 ||foods-factory.com^
 ||foodtruckbrokers.com^
 ||foolicritses.it^
@@ -1691,6 +1702,7 @@
 ||highmxiehwa.com^
 ||hightechpavilion.net^
 ||higotechnologies.com^
+||hipmaker.com^
 ||histract.com^
 ||hivebedrock.network^
 ||hklse.com^
@@ -2412,7 +2424,9 @@
 ||mymail.sim.edu.sg^
 ||mymrmi.com^
 ||mypentax.com^
+||mypwdrace.com^
 ||myrarest.com^
+||myrediscoveryofme.com^
 ||myskincareadvanced.com^
 ||mysticalusa.info^
 ||mystou.net^
@@ -2624,6 +2638,7 @@
 ||oppehunnio.click^
 ||oppepoeli.click^
 ||opportunityassurancee.com^
+||optimallifee.com^
 ||optionsforyourdevice.com^
 ||orange.com^
 ||orange.cz^
@@ -2856,6 +2871,7 @@
 ||prohealthguru.com^
 ||prohealthupdate.com^
 ||prolinegear.com^
+||promostations.net^
 ||promyscore.com^
 ||proofcrypt.com^
 ||proofofacircumtriple.org^
@@ -3059,6 +3075,7 @@
 ||safeseniorbathtubs.com^
 ||safetyamazon.com^
 ||sagaarmhole.com^
+||sageler.com^
 ||sageocel.com^
 ||saintmarksschool.in^
 ||saintmichelannecy.fr^
@@ -3203,6 +3220,7 @@
 ||siliconvalleyunder.org^
 ||silverlakeusa.info^
 ||similarsizeintense.org^
+||simindri.com^
 ||simmyxpress.com^
 ||simplicide.com^
 ||simpltec.services^
@@ -3241,6 +3259,7 @@
 ||slingly.com^
 ||slkinc.com^
 ||sloaund.com^
+||slotufa.com^
 ||slowlytryingtowrest.net^
 ||smaartwealth.com^
 ||smartanimalhealth.com^
@@ -4019,6 +4038,7 @@
 ||worktogethertocreate.org^
 ||worldhappymen.com^
 ||worldjjourney.com^
+||worldjourrneys.com^
 ||worldnewsstories.com^
 ||worldpostone.com^
 ||worldstrides.com^
@@ -4040,6 +4060,7 @@
 ||xlu.me^
 ||xmission.com^
 ||xnxx-jepang.com^
+||xthdq.com^
 ||yabrud.com^
 ||yadkinstudent.com^
 ||yahoo.co.jp^
@@ -4071,6 +4092,7 @@
 ||yourproofits.com^
 ||yourteamevents.org^
 ||yourtradinghawk.com^
+||yourtrrips.com^
 ||yourtstartup.com^
 ||yourvalucare.org^
 ||yourwalletinside.com^
@@ -4110,4 +4132,3 @@
 ||zyanime.com^
 ||zynga.com^
 ||zzy.guru^
-||emergencyemail.org^
