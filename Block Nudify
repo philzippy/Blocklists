@@ -1,0 +1,20 @@
+# Title: philzippy/blocklists/Block Nudify sites
+#
+# This hosts file is a merged collection of hosts from a reverse dns lookup
+# Date: Thursday April 6 2025 15:17:00 UTC
+# Number of unique domains: 13
+# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
+# Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
+||undressher.org^
+||undress.cc^
+||nudify.online^
+||promptchan.com^
+||candy.ai^
+||dittin.ai^
+||apob.ai^
+||anakin.ai^
+||basedlabs.ai^
+||faceswapper.ai^
+||waifuxl.com^
+||offrobe.com^
+||toolspedia.ai^
