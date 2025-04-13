@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday April 12 2025 15:15:00 UTC
-# Number of unique domains: 4188
+# Date: Thursday April 13 2025 20:32:00 UTC
+# Number of unique domains: 4192
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -674,6 +674,7 @@
 ||clickbank6746.com^
 ||clickfunnels.com^
 ||clicksite.ir^
+||cliffieco.com^
 ||climatekids.net^
 ||climbbe.com^
 ||clippedinevents.com^
@@ -3321,6 +3322,7 @@
 ||smartphoneperformancesettlement.com^
 ||smarttelecommutetips.com^
 ||smbcommunications.com^
+||smilecraftdentistfm.com^
 ||smiqro.com^
 ||smsi.be^
 ||smtp-auth.no-ip.com^
@@ -3521,6 +3523,7 @@
 ||tacmotion.com^
 ||tacticalsurvivor.net^
 ||tadnisantasi.com^
+||taffarco.com^
 ||tagmany.com^
 ||take.boats^
 ||take.yachts^
@@ -3602,6 +3605,7 @@
 ||thefancyhatlady.com^
 ||thefourness.com^
 ||thefrugalshopper.net^
+||thegatesoftruth.com^
 ||thegodlymother.com^
 ||thegrayhat.com^
 ||thegreatestnovels.biz^
