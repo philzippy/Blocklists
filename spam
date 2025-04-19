@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday April 18 2025 00:35:00 UTC
-# Number of unique domains: 4336
+# Date: Thursday April 19 2025 00:10:00 UTC
+# Number of unique domains: 4340
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -104,6 +104,7 @@
 ||aerialcubes.com^
 ||aerocaredirect.com^
 ||aevt.pt^
+||aexp-static.com^
 ||aeyadf.com^
 ||afamilylawfirm.com^
 ||afandimed.com^
@@ -191,7 +192,6 @@
 ||alutivx.com^
 ||amalanhikmah.com^
 ||amazingthinngs.com^
-||amazon.com^
 ||ameaglelocksmith.com^
 ||americabankcorporation.com^
 ||americana-trends.com^
@@ -495,6 +495,7 @@
 ||bramora.com.mt^
 ||bramptontaxi.ca^
 ||bratalosi.com^
+||braze-images.com^
 ||brazingur.com^
 ||breakfamet.com^
 ||breakfasteggrecipes.org^
@@ -902,6 +903,7 @@
 ||davidepao.com^
 ||davingar.com^
 ||dawnsobolewski.com^
+||dawnupli.com^
 ||daymakehaste.com^
 ||daymasterpieces.boats^
 ||daymasterpieces.com^
@@ -2301,6 +2303,7 @@
 ||luckpeaceofmind.com^
 ||luckyracers.com^
 ||luminousbeautybox.com^
+||luticael.com^
 ||luuckyou.com^
 ||luvmywalls.com^
 ||luxcrafte.com^
@@ -3046,6 +3049,7 @@
 ||ps.palmws.com^
 ||pse-pas.com^
 ||pseglistore.com^
+||pteroen.com^
 ||pthomas.cyberservices.com^
 ||puaiawpmuembreua.com^
 ||public-edu.co.uk^
@@ -3725,7 +3729,6 @@
 ||theconservativedispatch.com^
 ||thecouponescape.com^
 ||thedailybeast.com^
-||thedailybeast.com^
 ||thedailylaunch.com^
 ||thedigitalmedical.com^
 ||thediscoverer.com^
@@ -4280,6 +4283,7 @@
 ||yearofeternaljoy.com^
 ||yedier.com^
 ||yhmetals.com^
+||yieldoptimizer.com^
 ||yogaium.net^
 ||yolcar.es^
 ||yorijore1.rdersaini.com^
@@ -4310,6 +4314,7 @@
 ||zaglmart.com^
 ||zakyexpress.com^
 ||zazcir.com^
+||zdassets.com^
 ||zegedinedinarian.space^
 ||zeitgeisa.com^
 ||zenmoldes.com^
