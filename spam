@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday April 20 2025 15:39:00 UTC
-# Number of unique domains: 4340
+# Date: Thursday April 26 2025 14:53:00 UTC
+# Number of unique domains: 4373
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -267,6 +267,7 @@
 ||artisansofiq.com^
 ||artmayfair.com^
 ||artnursery.org^
+||arubanetworks.com^
 ||as-j.net^
 ||asacolorado.com^
 ||ascacademy.org^
@@ -427,6 +428,7 @@
 ||biancawulwick.com^
 ||bic.cyberservices.com^
 ||biefie.com^
+||bigarith.com^
 ||biglocaloffers.com^
 ||bigstatesnews.com^
 ||bikesheba.com^
@@ -585,6 +587,7 @@
 ||carnately.com^
 ||carnetvip.com^
 ||caronetwork.com^
+||carreteromd.com^
 ||carrierzone.com^
 ||cartiercul.com^
 ||casaexterminators.com^
@@ -630,6 +633,7 @@
 ||changeyourdaynow.com^
 ||changeyourlife.skin^
 ||chaostips.com^
+||chapify.com^
 ||chapters.tpusa.com^
 ||charge-tour.com^
 ||charhut.com^
@@ -654,6 +658,7 @@
 ||chill-set-go.com^
 ||chinabsdhq.com^
 ||chivalroussqueeze.org^
+||chiyuegm.com^
 ||chocolatemastery.com^
 ||choiceacceptnow.com^
 ||choicefactorlifestyle.net^
@@ -665,6 +670,7 @@
 ||cincinaura.com^
 ||ciramail.com^
 ||circasteel.com^
+||circlesne.com^
 ||circuitrad.info^
 ||cit.edu^
 ||cityofproduct.com^
@@ -787,6 +793,7 @@
 ||conservativesilver.com^
 ||considerthepresence.org^
 ||consistencykeys.com^
+||constantcontact.com^
 ||constantdatacenter.com^
 ||constructionexpress.org^
 ||consumercultures.com^
@@ -833,6 +840,7 @@
 ||craftamania.com^
 ||craftomet.com^
 ||craignlojo.com^
+||cramodate.com^
 ||crashhum.pink^
 ||createsend.com^
 ||creativeoutletunlmtd.com^
@@ -870,6 +878,7 @@
 ||cybercoders.com^
 ||cyberservices.com^
 ||cybertechelite.com^
+||cyteless.com^
 ||cytelle.com^
 ||cytocord.com^
 ||czoeffects.com^
@@ -1041,6 +1050,7 @@
 ||drakowi.com^
 ||dramitac.com^
 ||drcarolelive.com^
+||drduelobgyn.com^
 ||dreadyne.com^
 ||dreamcrafer.com^
 ||dreamer-portal.com^
@@ -1282,6 +1292,7 @@
 ||exceptionalconsultancy.eu^
 ||exclusiveeasy.com^
 ||exclusivefindspro.com^
+||exct.net^
 ||executionstringupdates.com^
 ||executivesearchturkey.com^
 ||existenceofaplanet.net^
@@ -1310,6 +1321,7 @@
 ||factonw.com^
 ||factory-llc.com^
 ||fadepsychologypayment.lifestyle^
+||faeryst.com^
 ||fahrenheithub.com^
 ||fairpey.com^
 ||fairsquarepricing.com^
@@ -1486,6 +1498,7 @@
 ||funnyalley.com^
 ||funnyperfectionart.website^
 ||funpinoy.com^
+||funrist.com^
 ||funsizedpaws.com^
 ||funstuff.world^
 ||funstuuff.com^
@@ -1509,6 +1522,7 @@
 ||gamepartzone.com^
 ||gamersozluk.com^
 ||gamesandappstore.com^
+||ganebana.com^
 ||gap.com^
 ||gardenoda.com^
 ||gardentherapy.homes^
@@ -1557,6 +1571,7 @@
 ||gflxxekdw.com^
 ||gftwihd.com^
 ||ggsuryarushingxs.com^
+||ghethwa.com^
 ||giasim.com^
 ||giavisach.com^
 ||giftposthost.com^
@@ -1790,10 +1805,12 @@
 ||highglamourglow.com^
 ||highmxiehwa.com^
 ||hightechpavilion.net^
+||highwaymarblepier.lifestyle^
 ||higotechnologies.com^
 ||hipmaker.com^
 ||histract.com^
 ||hivebedrock.network^
+||hiwirtu.com^
 ||hkesolution.com^
 ||hklse.com^
 ||hlvmorinho.com^
@@ -1813,6 +1830,7 @@
 ||homehealthcare4u.com^
 ||homehealthysparkz.com^
 ||homeheatgurus.com^
+||homemadecapital.com^
 ||homesfinance.com^
 ||homesnap.com^
 ||homestylemarketplace.com^
@@ -1894,6 +1912,7 @@
 ||iescotesbaixes.org^
 ||iesllompart.cat^
 ||if.internetoftours.com^
+||iffae.com^
 ||iflipsites.com^
 ||ifoodadventure.com^
 ||igerrati.com^
@@ -1912,6 +1931,7 @@
 ||imgix.net^
 ||imgur.com^
 ||immobiliarealbertini.it^
+||immobilier.com^
 ||impactinitialoutbreak.net^
 ||importanttips.info^
 ||importmaestro.com^
@@ -2132,6 +2152,7 @@
 ||kinal.edu.gt^
 ||kindechoes.com^
 ||kingsway-operations.com^
+||kinky.nl^
 ||kit.com^
 ||kitamuratakumi.com^
 ||kitanaiklagiyarrm45.com^
@@ -2150,6 +2171,7 @@
 ||kohlsproducts.com^
 ||koinglobal.com^
 ||kokiatextile.com^
+||kolbrok.com^
 ||kolpocen.com^
 ||komikko.com^
 ||komkesberaksi.com^
@@ -2317,6 +2339,7 @@
 ||madrid.uned.es^
 ||maesdagua.pt^
 ||magicmushgames.com^
+||maidmayo.com^
 ||mail.barnesandnoble.com^
 ||mail.comms.yahoo.net^
 ||mail.freshmarketdata.com^
@@ -2340,6 +2363,7 @@
 ||maillist-manage.com^
 ||maillist-manage.eu^
 ||maillowesclubteam.com^
+||mailpeens.com^
 ||mailtoawy.com^
 ||mailucho.com^
 ||maimaishuo.com^
@@ -2542,6 +2566,7 @@
 ||mutualfunband.com^
 ||mvip365.com^
 ||mwytl.junkmailfilter.com^
+||mxverifier.com^
 ||my-cleancarpets.com^
 ||my-sports-centre.com^
 ||my-wardobe.com^
@@ -2560,6 +2585,7 @@
 ||myfw.com^
 ||mygolfingstore.com^
 ||myguestaccount.com^
+||myhousehealth.com^
 ||myidolsite.com^
 ||myinbox.cyberservices.com^
 ||myinfinitythehomedepot.com^
@@ -2603,6 +2629,7 @@
 ||nec.co.jp^
 ||neighborhoodalerts.com^
 ||nennydish.com^
+||neoloca.com^
 ||nervide.com^
 ||nesholth.com^
 ||netflixsubs.com^
@@ -2702,6 +2729,7 @@
 ||nwbvcwp.com^
 ||nwonu.com^
 ||nycstpatricksparade.org^
+||nyfwm.com^
 ||nz-skincare.com^
 ||nzm2.eu^
 ||o365.unab.edu.co^
@@ -2743,6 +2771,7 @@
 ||olten.ch^
 ||omandompackers.com^
 ||ombaewe8.com^
+||omr3ayiqa.com^
 ||omrutah.com^
 ||onceuponthatcake.com^
 ||onefinancialuniverse.net^
@@ -2793,6 +2822,7 @@
 ||orange.sn^
 ||orangetor.com^
 ||orderclucku.com^
+||orethiti.com^
 ||org.br^
 ||org.pe^
 ||orientateyourself.com^
@@ -3027,6 +3057,7 @@
 ||prolinegear.com^
 ||promostations.net^
 ||promotution.org^
+||promptero.com^
 ||promyscore.com^
 ||proofcrypt.com^
 ||proofofacircumtriple.org^
@@ -3066,6 +3097,7 @@
 ||qc.ca^
 ||qemailserver.com^
 ||qhhyfoqfx.com^
+||qisetuly.com^
 ||qnbewebwh.com^
 ||qq.com^
 ||qqnation.com^
@@ -3319,6 +3351,7 @@
 ||send.healthierbydiet.com^
 ||send.homesfinance.com^
 ||send.osfuelsend.com^
+||sendgrid.net^
 ||sendines.com^
 ||sendtric.com^
 ||seneca.com^
@@ -3443,6 +3476,8 @@
 ||smartphoneperformancesettlement.com^
 ||smarttelecommutetips.com^
 ||smbcommunications.com^
+||smcassano.com^
+||smileathlon.com^
 ||smilecraftdentistfm.com^
 ||smiqro.com^
 ||smsi.be^
@@ -4117,6 +4152,7 @@
 ||visitlifestylepro.com^
 ||visualconscience.com^
 ||visualpes.com^
+||vitrove.com^
 ||vivcity.com^
 ||vkmetal.com^
 ||vmezsu.com^
@@ -4156,6 +4192,7 @@
 ||wathus.com^
 ||wavedir.com^
 ||wavenia.com^
+||wavesfactory.com^
 ||waw.pl^
 ||waystofindconfidence.rest^
 ||wclpainting.com^
