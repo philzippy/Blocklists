@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday May 03 2025 13:20:00 UTC
-# Number of unique domains: 4399
+# Date: Thursday May 10 2025 15:54:00 UTC
+# Number of unique domains: 4433
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -22,6 +22,7 @@
 ||3webmarketing.com^
 ||401kmarketstory.com^
 ||49240thestar.ca^
+||4patientcare.com^
 ||562compartmentalization.sbs^
 ||56qku1q3hmdi.com^
 ||58.com^
@@ -33,6 +34,7 @@
 ||aaastoriesnews.com^
 ||aaateam.com^
 ||aagorph.com^
+||aamuap.com^
 ||aaronbennettonline.com^
 ||abbentek.com^
 ||abblac.com^
@@ -85,6 +87,7 @@
 ||advance-auto.com^
 ||advantageprofits.com^
 ||adverthosts.com^
+||advertise.loseyourip.com^
 ||ae-ginestalmachado.pt^
 ||aecoimbracentro.pt^
 ||aecoruche.pt^
@@ -123,6 +126,7 @@
 ||ahgcy.com^
 ||ahmineb.site^
 ||ahxclflvfmahtjx.com^
+||aidsolutionpro.com^
 ||aiontributeltd.com^
 ||aiou.edu.pk^
 ||air.almona.online^
@@ -152,6 +156,7 @@
 ||algomau.ca^
 ||alhekma.com^
 ||aliat.edu.mx^
+||alicdn.com^
 ||aliciajenkins.com^
 ||alkalizehealthy.com^
 ||alkes.com.br^
@@ -243,11 +248,13 @@
 ||applest.gamesandappstore.com^
 ||appliancehav.com^
 ||appliancenok.com^
+||appliancetouch.com^
 ||approvedadvantage.com^
 ||apps.mil^
 ||appscareer.com^
 ||appypath.com^
 ||aptoide.com^
+||aqatords.com^
 ||aqbryon.xyz^
 ||aquaticce.com^
 ||aqyline.xyz^
@@ -305,6 +312,7 @@
 ||attractiontickets418.com^
 ||audienatomrights.com^
 ||audiosynch.com^
+||auditorship.com^
 ||augmented-band.com^
 ||auschool.me^
 ||aussiejobsearch.com^
@@ -456,6 +464,7 @@
 ||blou.shop^
 ||blu-ray.update.sony.net^
 ||blueberryturkey.com^
+||blueheavens.info^
 ||blueheaving.com^
 ||bluelineinsurance.com^
 ||bluemountain.com^
@@ -471,6 +480,7 @@
 ||boeroritver.com^
 ||bogazvilla.com^
 ||bojksa.com^
+||boldnestsilent.my^
 ||bomerangrecycle.com^
 ||bomxxxenes.com^
 ||bonheur-petit.com^
@@ -581,6 +591,7 @@
 ||caraveoforcongress.com^
 ||carbike.scarcestimulating.be^
 ||careerngn.com^
+||carentens.com^
 ||caretipsforyou.com^
 ||cariberoyale.com^
 ||carinsurancezilla.com^
@@ -925,6 +936,7 @@
 ||dbhaacht.be^
 ||dbwsl.be^
 ||dcsg.com^
+||ddnsgeek.com^
 ||deacoli.com^
 ||deadline.com^
 ||dealcelerate.com^
@@ -1398,6 +1410,7 @@
 ||findka.com^
 ||finecookingrecipes.net^
 ||finplix.com^
+||fintell360.com^
 ||firearmkart.com^
 ||firebaseapp.com^
 ||firedbarragesofmissiles.org^
@@ -1474,6 +1487,7 @@
 ||francepresse24.com^
 ||freakzbrothers.com^
 ||freedomholidayplan.com^
+||freedynamicdns.net^
 ||freeform.com^
 ||freegoldguide.com^
 ||freelessonsplans.com^
@@ -1614,6 +1628,7 @@
 ||go-know.com^
 ||go.kr^
 ||goalgetternow.com^
+||goaltapmistreat.lifestyle^
 ||goautofit.com^
 ||gob.do^
 ||goblogz.com^
@@ -2043,6 +2058,7 @@
 ||ishedauk.com^
 ||isisromero.it^
 ||isiswa.uitm.edu.my^
+||islamiyetgazetesi.com^
 ||islunch.com^
 ||isocolegioecursos.com^
 ||isorhin.com^
@@ -2150,6 +2166,7 @@
 ||kentmarketers.com^
 ||kesempitan6.com^
 ||kesphe.com^
+||ketchvelocity.com^
 ||ketoheraldtrim.com^
 ||kev2023.co^
 ||kev2023.com^
@@ -2231,6 +2248,7 @@
 ||lazersafena.com^
 ||lbjdyyx.com^
 ||lbsg.net^
+||lcenterprises.com^
 ||leaderpaypal.com^
 ||leadingthedigitaltransformationeu.eu^
 ||leadpublicschools.org^
@@ -2295,6 +2313,7 @@
 ||littleuniversity.org^
 ||live.com^
 ||live.dk^
+||live.fi^
 ||live.fr^
 ||livefromtherock.com^
 ||livetomedia24.com^
@@ -2510,6 +2529,7 @@
 ||mnbiofuels.com^
 ||moantfor.com^
 ||mobidme.com^
+||mobiledar.com^
 ||mobiri.se^
 ||mocktailmaven.com^
 ||modernindigo.com^
@@ -2880,6 +2900,7 @@
 ||palmasport.es^
 ||palmws.com^
 ||palteolitheraic.com^
+||panamaproduction.com^
 ||panamericantrading.com^
 ||panerabread.com^
 ||pantalikon.com^
@@ -2896,6 +2917,7 @@
 ||patiencare.com^
 ||patientaddvocacy.com^
 ||pationaltherappy.com^
+||patriotdailypress.org^
 ||patriottreasures.com^
 ||patriotwholesaleclub.com^
 ||patrolgaffebrush.eu^
@@ -3001,6 +3023,7 @@
 ||pomailer2868.com^
 ||pomailer339.com^
 ||pondrusi.com^
+||poopnpee.com^
 ||pooprotest.com^
 ||poorhyt.com^
 ||popnorra.info^
@@ -3116,6 +3139,7 @@
 ||qfrees.com^
 ||qhhyfoqfx.com^
 ||qisetuly.com^
+||qmmart.com^
 ||qnbewebwh.com^
 ||qq.com^
 ||qqnation.com^
@@ -3233,6 +3257,7 @@
 ||risclaren.sbs^
 ||ritualconvincefoods.org^
 ||rivercasa.com^
+||rivercedargaze.my^
 ||rizingzun.com^
 ||rkyamanmusical.com^
 ||rlmach.com^
@@ -3264,6 +3289,7 @@
 ||routedi.com^
 ||royalhealthsolutions.makeup^
 ||rpsk12.org^
+||rr.com^
 ||rs-stripe.signupgenius.com^
 ||rsschef.com^
 ||rsyioyxiw.com^
@@ -3335,6 +3361,7 @@
 ||schooltiment.com^
 ||schueler.gymneander.de^
 ||sciencen-medicine.com^
+||scoala88.ro^
 ||scoalabalacita.ro^
 ||scoalacerneti.ro^
 ||scoalaciresumh.ro^
@@ -3606,6 +3633,7 @@
 ||stdf.eg^
 ||stealsafari.com^
 ||steamboat-tinting.com^
+||steanb.com^
 ||stepinac.org^
 ||sterlingcustomupholstery.com^
 ||stevenolikara.com^
@@ -3671,6 +3699,7 @@
 ||sunnyhilldist.com^
 ||sunrisesprings.com^
 ||sunsetpooch.com^
+||supabets.co.za^
 ||superiortechtoday.com^
 ||superlativer.net^
 ||supertools.com^
@@ -4152,6 +4181,7 @@
 ||vidyasart.com^
 ||vief.edu.vn^
 ||vieraconnect.tv^
+||viewdns.net^
 ||viewereye.com^
 ||villamacaradi.com^
 ||villamc.cl^
@@ -4192,6 +4222,7 @@
 ||votersfirstvictoryfund.org^
 ||voyageandplay.website^
 ||vrflier.com^
+||vskls.com^
 ||vueexperts.com^
 ||vusalaalizade.com^
 ||vwb.me^
@@ -4207,6 +4238,7 @@
 ||walkinbrandon.com^
 ||walkinginthemoon.com^
 ||wallstreetbusinesstigers.com^
+||wallstreetimperial.com^
 ||walterfast.com^
 ||waltonemc.com^
 ||washingtontimesnews.com^
@@ -4282,6 +4314,7 @@
 ||wileyc.edu^
 ||willunga100.com^
 ||wincache.shop^
+||windleri.com^
 ||windogen.com^
 ||windomnet.com^
 ||windowgaudy.net^
@@ -4361,6 +4394,7 @@
 ||yourmar.com^
 ||yourproofits.com^
 ||yourteamevents.org^
+||yourtourss.com^
 ||yourtradinghawk.com^
 ||yourtrrips.com^
 ||yourtstartup.com^
