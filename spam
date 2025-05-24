@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday May 19 2025 01:54:00 UTC
-# Number of unique domains: 4461
+# Date: Thursday May 24 2025 15:28:00 UTC
+# Number of unique domains: 4473
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -884,6 +884,7 @@
 ||cubecraft.net^
 ||cuibowen.com^
 ||culatu.com^
+||cuobook.com^
 ||curiousdisease.com^
 ||currentwatch.com^
 ||curtain-view.com^
@@ -1456,6 +1457,7 @@
 ||flipboard.com^
 ||fliscorvo.sbs^
 ||flockonio.press^
+||flomeat.com^
 ||flooringbusinesscloud.com^
 ||floorted.info^
 ||floridahomemedicalsupplies.com^
@@ -1907,6 +1909,7 @@
 ||hps.net^
 ||hrcygs.com^
 ||hroice.com^
+||hshdgoods.com^
 ||htcmania.com^
 ||htcstar.com^
 ||htmlelement.com^
@@ -1979,6 +1982,7 @@
 ||inagaming305.com^
 ||inbox.lt^
 ||inchecke.com^
+||incitusti.com^
 ||inclassmates.info^
 ||incomeideeas.com^
 ||increlati.com^
@@ -2761,6 +2765,7 @@
 ||nowonthisday.com^
 ||nowsupportvip.com^
 ||nowtrustyourself.com^
+||npewears.com^
 ||nptu.edu.tw^
 ||nric-ri.org^
 ||nuclear-mill.us^
@@ -3111,6 +3116,7 @@
 ||progress.net^
 ||prohealthguru.com^
 ||prohealthupdate.com^
+||prohealthycare.org^
 ||prolinegear.com^
 ||promostations.net^
 ||promotution.org^
@@ -3850,6 +3856,7 @@
 ||thegreatestnovels.biz^
 ||thehalloweenspot.com^
 ||thehealthdrops.com^
+||thejoybutton.com^
 ||thekifureview.com^
 ||thelimitlessapp.com^
 ||thelittlestgroom.com^
@@ -3874,6 +3881,7 @@
 ||thestrikinng.com^
 ||thesurvivalquest.com^
 ||thetacticallife.org^
+||thetaschen.com^
 ||thetease.com^
 ||thetotalyoulifestyle.com^
 ||theuncommonthoughts.com^
@@ -3962,6 +3970,7 @@
 ||tradifyhq.com^
 ||tradingtechtrends.com^
 ||tradingthoughtstoday.com^
+||traditt.com^
 ||tradlin.com^
 ||trainingatwebmingo.com^
 ||traitcraf.us^
@@ -4125,6 +4134,7 @@
 ||upgradeyourstatus.com^
 ||upm.ium.pt^
 ||upperclasslashboutique.com^
+||upswildne.com^
 ||uptempo-advertising.com^
 ||uqam.ca^
 ||uqroo.mx^
@@ -4232,6 +4242,7 @@
 ||visitlifestylepro.com^
 ||visualconscience.com^
 ||visualpes.com^
+||vitaleaudiology.com^
 ||vitrove.com^
 ||vivcity.com^
 ||vkmetal.com^
@@ -4314,6 +4325,7 @@
 ||wellnesshealthcareinc.com^
 ||wellnessnailcare.com^
 ||wellnesspathx.com^
+||wellneutralite.org^
 ||wellsfargo-mobilesecurity.com^
 ||wellspring.edu.vn^
 ||welshrum.com^
