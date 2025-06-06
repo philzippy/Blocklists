@@ -1,0 +1,32 @@
+# Title: philzippy/blocklists/yandex_metapixel
+#
+# This hosts file is a merged collection of hosts from a reverse dns lookup
+# Date: June 06 2025 02:56:00 UTC
+# Number of unique domains: 25
+# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/yandex_metapixel
+# Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/yandex_metapixel
+||yandex.com^
+||yandex.ru^
+||ya.ru^
+||yandex.by^
+||yandex.kz^
+||yandex.uz^
+||yandex.com.tr^
+||yandex.az^
+||yandex.com.ge^
+||yandex.com.am^
+||yandex.co.il^
+||yandex.md^
+||yandex.tm^
+||yandex.tj^
+||yandex.eu^
+||metapixel.online^
+||metapixel.ca^
+||metapixel.ma^
+||metapixel.org^
+||metapixel.io^
+||metapixel.no^
+||metapixel.cloud^
+||metapixel.shop^
+||metapixel.net^
+||metapixelads.com^
