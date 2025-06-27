@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Friday June 21 2025 02:30:00 UTC
-# Number of unique domains: 4584
+# Date: Friday June 27 2025 17:42:00 UTC
+# Number of unique domains: 4613
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -94,6 +94,7 @@
 ||aecoruche.pt^
 ||aeermesinde.net^
 ||aeescultorfs.pt^
+||aegvision.com^
 ||aejac.pt^
 ||aelc-lamego.pt^
 ||aemariofonseca.pt^
@@ -452,6 +453,7 @@
 ||bic.cyberservices.com^
 ||biefie.com^
 ||bigarith.com^
+||biglobe.ne.jp^
 ||biglocaloffers.com^
 ||bigstatesnews.com^
 ||bikesheba.com^
@@ -1200,6 +1202,7 @@
 ||elegantessencecare.com^
 ||elegantglow.icu^
 ||eleopo.com^
+||eleosting.com^
 ||elephantjournal.com^
 ||elevated-pen.com^
 ||elevatedvapourreadings.org^
@@ -1273,6 +1276,7 @@
 ||enhancedrefinance.com^
 ||enhancingvisions.net^
 ||eniac.edu.br^
+||enocmisr.com^
 ||ens.univ-artois.fr^
 ||ensureourstrictstandard.net^
 ||entexin.com^
@@ -1373,6 +1377,7 @@
 ||eyevisiondoctor.us^
 ||eyshuihil.com^
 ||ezerkapi.com.tr^
+||f5fojio3u.com^
 ||fabricanacionaldemunecos.com^
 ||fabulaceweather.com^
 ||facebook.com^
@@ -1645,6 +1650,7 @@
 ||ghethwa.com^
 ||giasim.com^
 ||giavisach.com^
+||gibbory.com^
 ||giftposthost.com^
 ||gigahonen.com^
 ||gigamel.com^
@@ -1827,6 +1833,7 @@
 ||hayrata.com^
 ||hazelnutclothing.com^
 ||hazzardfamily.store^
+||hdrmi.com^
 ||hdross.com^
 ||healthcheckexpress.com^
 ||healthcodeapp.com^
@@ -1848,6 +1855,7 @@
 ||healthygringa.com^
 ||healthylifestyle.skin^
 ||healthylivinng.com^
+||hearisba.com^
 ||heartandwild.com^
 ||heartcaare.com^
 ||heartfeltfriendship.com^
@@ -2019,6 +2027,7 @@
 ||immobilier.com^
 ||impactinitialoutbreak.net^
 ||importanttips.info^
+||importcredit.com^
 ||importmaestro.com^
 ||importtemporarychance.org^
 ||improvements.com^
@@ -2131,6 +2140,7 @@
 ||istyleart.com^
 ||isubscribe.com^
 ||isujqjsyg.com^
+||itbild.com^
 ||itdealz193.com^
 ||itemold.com^
 ||items.gog.com^
@@ -2262,10 +2272,12 @@
 ||klaviyo.com^
 ||klclick.com^
 ||klclick1.com^
+||klclick2.com^
 ||klm-mail.com^
 ||kluniversity.in^
 ||kmutt.ac.th^
 ||knollecta.com^
+||knowlsafe.com^
 ||knubmek.com^
 ||knutsfordnews.com^
 ||kohlsnonstick.com^
@@ -2449,6 +2461,7 @@
 ||madrid.uned.es^
 ||maesdagua.pt^
 ||magicmushgames.com^
+||magzob.com^
 ||maidmayo.com^
 ||mail.barnesandnoble.com^
 ||mail.comms.yahoo.net^
@@ -2557,6 +2570,7 @@
 ||medicalresearchs.org^
 ||medicaredirectnational.com^
 ||medicareinsnow.com^
+||medicinetenders.com^
 ||medium-lock.us^
 ||medworkssurgical.com^
 ||meetworkflow.com^
@@ -2565,6 +2579,7 @@
 ||menhealthh.com^
 ||menheealth.com^
 ||meniwing.com^
+||menuandnutrition.com^
 ||mertemlaksiirt.com^
 ||message.card.visa.com^
 ||messages.va.gov^
@@ -2575,6 +2590,7 @@
 ||mgs.edu^
 ||mhdgllc.com^
 ||mi-content.com^
+||miadessi.com^
 ||michaelbennet.com^
 ||michellemolinabeauty.com^
 ||microlensingevents.com^
@@ -2784,6 +2800,7 @@
 ||newuniquecreations.com^
 ||newyearresolution.site^
 ||nexcine.com^
+||nexilisk.com^
 ||next1occurs.cloud^
 ||nextdoor.com^
 ||nexttriptrip.com^
@@ -2956,6 +2973,7 @@
 ||org.pe^
 ||orientateyourself.com^
 ||originalgraphiteplace.co.uk^
+||os.fan^
 ||osfuelsend.com^
 ||ossicit.fossickfrisson.org^
 ||ossifiedcurly.com^
@@ -3007,6 +3025,7 @@
 ||parisnanterre.fr^
 ||parker.distilwaters.com^
 ||parler.com^
+||partamm.com^
 ||particularcalorie.com^
 ||particularlybrightobject.org^
 ||pastorjustinjones.wordpress.com^
@@ -3155,6 +3174,7 @@
 ||prechnna.com^
 ||precisionheattech.com^
 ||predictedamoderate.co.uk^
+||predinson24us.com^
 ||premiercic.com^
 ||premierhealthte.com^
 ||prerov.cz^
@@ -3271,6 +3291,7 @@
 ||rafdxnsds.com^
 ||raftarfeed.com^
 ||ragerockradio.com^
+||raiance.com^
 ||raj.cyberservices.com^
 ||rajagiri.edu^
 ||ramadahhanberkaahcok.com^
@@ -3280,6 +3301,7 @@
 ||rangeofsourcestobring.net^
 ||rapidlychangingconditions.org^
 ||rapllkfiognaz.com^
+||rapsolar.com^
 ||ratacnestisscratch.com^
 ||rathinam.in^
 ||rauldoria.pt^
@@ -3342,6 +3364,7 @@
 ||resttime.icu^
 ||resy.com^
 ||retailvipfinder.com^
+||returnpath.net^
 ||reupolde.com^
 ||reviewzportal.com^
 ||reviveandglow.com^
@@ -3390,6 +3413,7 @@
 ||roleranks.com^
 ||rollinginthatdough.com^
 ||rollingstone.com^
+||romatika.com^
 ||romwe.com^
 ||rongaiathletics.com^
 ||ronresponsepac.com^
@@ -3558,6 +3582,7 @@
 ||shipseal.com^
 ||shipstation.com^
 ||shmeyoung.com^
+||shnbwyf.com^
 ||sho.com^
 ||shoe.my-wardobe.com^
 ||shogunshirts.com^
@@ -3632,6 +3657,7 @@
 ||smaartwealth.com^
 ||smarian.com^
 ||smartanimalhealth.com^
+||smartbedpan.com^
 ||smartfinancescentral.com^
 ||smartfitnesspr.com^
 ||smartgadgetsvip.com^
@@ -3910,6 +3936,7 @@
 ||tempokubus.nl^
 ||tengocard.com^
 ||teorator.com^
+||teratier.com^
 ||terexerce.com^
 ||terrace-universal.com^
 ||teskgo.com^
@@ -4125,6 +4152,7 @@
 ||trueandco.com^
 ||trueehealth.com^
 ||truepurdue.com^
+||trugreentech.com^
 ||trulycustomfavors.com^
 ||truthaboutabs.com^
 ||tryoverspin.com^
@@ -4274,6 +4302,7 @@
 ||uvuland.com^
 ||uwcutyieajjzwyhwgmail.com^
 ||uxvenkata.com^
+||uysalauto.com^
 ||uzaktanegitimpegem.com^
 ||uzws0-wpn.org^
 ||va-mvp.com^
