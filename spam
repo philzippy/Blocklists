@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Friday June 27 2025 17:42:00 UTC
-# Number of unique domains: 4613
+# Date: Friday July 06 27 2025 15:10:00 UTC
+# Number of unique domains: 4644
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -19,6 +19,7 @@
 ||2notice.com^
 ||34sp.com^
 ||365mspro.com^
+||3utilities.com^
 ||3webmarketing.com^
 ||401kmarketstory.com^
 ||49240thestar.ca^
@@ -145,6 +146,7 @@
 ||al-sarira.com^
 ||alaafitness.com^
 ||alamosa.org^
+||alasrtrust.com^
 ||alazhar.eg^
 ||aldi.us^
 ||aldine-isd.org^
@@ -225,6 +227,7 @@
 ||ancientcoininvesting.com^
 ||ancientdesignclothing.com^
 ||andersen.com^
+||andgcv.com^
 ||androprotocol.com^
 ||andwildlifetales.com^
 ||anfelwrtiierd.org^
@@ -234,6 +237,7 @@
 ||animaljourneyes.com^
 ||animaltalent.com^
 ||animegame.me^
+||ankesa.com^
 ||anna-university.org^
 ||anneglover.com^
 ||antireason.com^
@@ -449,6 +453,7 @@
 ||beyondkrafty.com^
 ||bhandegr.com^
 ||bhavanskilpauk.org^
+||bhuseod.com^
 ||biancawulwick.com^
 ||bic.cyberservices.com^
 ||biefie.com^
@@ -712,12 +717,14 @@
 ||citytofield.com^
 ||ciwideyhotel.com^
 ||cjminori.com^
+||ckcdnassets.com^
 ||cksc.edu.ph^
 ||clair-voyance.me^
 ||clandestinfevr.de.com^
 ||clarendonacademy.com^
 ||classdojo.com^
 ||classicstyleonlines.net^
+||classifieddaddy.com^
 ||classmates.com^
 ||cleaningkeys.com^
 ||cleanliffe.com^
@@ -965,7 +972,9 @@
 ||dbhaacht.be^
 ||dbwsl.be^
 ||dcsg.com^
+||ddnsfree.com^
 ||ddnsgeek.com^
+||ddnsking.com^
 ||deacoli.com^
 ||deadline.com^
 ||dealcelerate.com^
@@ -1060,6 +1069,7 @@
 ||dispatchthenew.com^
 ||distilwaters.com^
 ||ditariackedvapored.lol^
+||divasiren.com^
 ||diversarmshotel.com^
 ||dled-aore.com^
 ||dlefm.com^
@@ -1075,6 +1085,7 @@
 ||doctordhome.com^
 ||doctorondemand.com^
 ||docucdn-a.akamaihd.net^
+||documatix.com^
 ||documentsincollectedseveral.news^
 ||docusign.net^
 ||dogenerable.com^
@@ -1108,6 +1119,7 @@
 ||driftrans.com^
 ||dripemail2.com^
 ||drjanroda.com^
+||drscottcooper.com^
 ||drtheader.com^
 ||drupnewy.com^
 ||ds.ahmineb.site^
@@ -1304,6 +1316,7 @@
 ||ericsson.com^
 ||erleckw.com^
 ||ermcloud.com^
+||ertanencu.com^
 ||erzeszow.pl^
 ||esaverfest.com^
 ||esesanfer.edu.pe^
@@ -1655,6 +1668,7 @@
 ||gigahonen.com^
 ||gigamel.com^
 ||giganticovertlyalluring.org^
+||giize.com^
 ||gilajugaluya.com^
 ||gioguall.life^
 ||girltalkfoundationinc.com^
@@ -1812,6 +1826,7 @@
 ||happyestatehome.net^
 ||happyfoodrecipies.net^
 ||happygardennursery.com^
+||happykittylitterbox.com^
 ||happyzonph.com^
 ||harborfreight.com^
 ||harborfreightnational.com^
@@ -1903,6 +1918,7 @@
 ||hlvmorinho.com^
 ||hmcba.org^
 ||hmtu.edu.vn^
+||hobsoftla.com^
 ||hok1g-wedos.net^
 ||holaelectric.com^
 ||holiday-shop.com^
@@ -1923,6 +1939,7 @@
 ||homesnap.com^
 ||homestylemarketplace.com^
 ||homesvippro.com^
+||homguardians.net^
 ||homzoe.com^
 ||honeymoontourtodanang.net^
 ||hongeria.com^
@@ -1992,6 +2009,7 @@
 ||ichnaea.netflix.com^
 ||icloud.com^
 ||ico.com^
+||icontact.com^
 ||ictcult.com^
 ||ictpot.com^
 ||ideaandreality.net^
@@ -2178,6 +2196,7 @@
 ||jewishinboston.com^
 ||jiangzichaofan.net^
 ||jianhuimetals.net^
+||jinnn.com^
 ||jklasercutting.com^
 ||jmzarchitects.com^
 ||jnt-warriors.com^
@@ -2297,6 +2316,8 @@
 ||kptk.or.id^
 ||krainamuzyki.com^
 ||kramfors.se^
+||kreavin.com^
+||krewetkarium.com^
 ||krisysse.com^
 ||krmangalam.com^
 ||krxd.net^
@@ -2412,6 +2433,7 @@
 ||loft.com^
 ||logicalad.com^
 ||logicsminder.com^
+||logosymmetry.com^
 ||london.edu^
 ||lonecentreforward.co.uk^
 ||longdiffractionspikes.com^
@@ -2866,6 +2888,7 @@
 ||nurturihealth.com^
 ||nutricooker.com^
 ||nutriknockings.net^
+||nutristations.co^
 ||nutriwise.boats^
 ||nutriwisee.com^
 ||nutriwisezx.com^
@@ -3231,6 +3254,7 @@
 ||protecht.com^
 ||proteclog.com^
 ||protectingcitizensprofessionals.life^
+||protectmypublicmedia.org^
 ||protectyourrights.tpusa.com^
 ||protocarnation.net^
 ||protonmail.com^
@@ -3245,6 +3269,7 @@
 ||public-edu.co.uk^
 ||publicgazefanatical.life^
 ||publicsafetyeducationalliance.com^
+||publuest.com^
 ||pucminas.br^
 ||punchunity.press^
 ||purchaseorder.com^
@@ -3341,6 +3366,7 @@
 ||regoslithjurimetfsricsgfronftal.makeup^
 ||regruhosting.ru^
 ||rehabilitationground.co.uk^
+||reikihive.com^
 ||relevanttotheevolution.net^
 ||reliableheatservices.com^
 ||relicengineer.com^
@@ -3922,6 +3948,7 @@
 ||technolutions.net^
 ||techtrendsone.com^
 ||tecnm.mx^
+||tedcdn.com^
 ||teddded.com^
 ||teeice.com^
 ||teethwhiteningprocess.com^
@@ -4090,6 +4117,7 @@
 ||tpaction.com^
 ||tpusa.com^
 ||tracesofwaterfound.com^
+||trackburstmedia.com^
 ||traction-cafe.com^
 ||tradifyhq.com^
 ||tradingtechtrends.com^
@@ -4097,6 +4125,7 @@
 ||traditt.com^
 ||tradlin.com^
 ||trainingatwebmingo.com^
+||traipsesuffolk.com^
 ||traitcraf.us^
 ||tramoletraconssteocartilagincs.foundation^
 ||tranako.com^
@@ -4352,6 +4381,7 @@
 ||vieraconnect.tv^
 ||viewdns.net^
 ||viewereye.com^
+||vigapro.com^
 ||villamacaradi.com^
 ||villamc.cl^
 ||vineyardvines.com^
@@ -4599,6 +4629,7 @@
 ||zohoinsights-crm.in^
 ||zohoinsights.com^
 ||zohomail.com^
+||zohoprojects.com^
 ||zohoprojects.eu^
 ||zohoprojects.in^
 ||zoneine.com^
