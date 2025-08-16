@@ -2,7 +2,7 @@
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
 # Date: Saturday August 16 2025 14:15:00 UTC
-# Number of unique domains: 5111
+# Number of unique domains: 5110
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -3076,7 +3076,6 @@
 ||neticla.com^
 ||netonstr.com^
 ||netsuite.com^
-||nettx1me4ucoynm+tx1me4ucoynm.com^
 ||networkforgood.com^
 ||networksrots1.cf^
 ||networksrots2.ga^
