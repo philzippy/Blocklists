@@ -2,13 +2,13 @@
 #
 # This hosts file is a merged collection of domains verified by a reverse dns lookup
 # Date: Thursday August 22 2025 01:38:00 UTC
-# Number of unique domains: 122
+# Number of unique domains: 121
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/refs/heads/master/Block_AI_Chatbots
 # Project home page: https://github.com/philzippy/Blocklists
 ||ada.ai^
 ||ada.cx^
 ||ai-pro.org^
-||aichatbotonline.com/^
+||aichatbotonline.com^
 ||aiscout.net^
 ||aitools.inc^
 ||allaitools.tech^
@@ -60,7 +60,6 @@
 ||gamma.ai^
 ||gemini.google.com^
 ||getzowie.com^
-||github.com^
 ||glean.ai^
 ||gling.ai^
 ||godofprompt.com^
@@ -103,7 +102,7 @@
 ||saasfirst.com^
 ||sales.ai^
 ||seaart.ai^
-||smallpdf.com/chat-pdf^
+||smallpdf.com^
 ||socrat.ai^
 ||socratic.org^
 ||sora.ai^
