@@ -3,13 +3,14 @@
 # This hosts file is a merged collection of hosts from a reverse dns lookup
 # Date: Thursday August 22 2025 01:38:00 UTC
 # Number of unique domains: 123
-# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/Block_AI_Chatbots
-# Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/Block_AI_Chatbots
-||10xbusinesstraining.com^
+# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/refs/heads/master/Block_AI_Chatbots
+# Project home page: https://github.com/philzippy/Blocklists
 ||ada.ai^
-||aitools.inc^
+||ada.cx^
 ||ai-pro.org^
+||aichatbotonline.com/^
 ||aiscout.net^
+||aitools.inc^
 ||allaitools.tech^
 ||altern.ai^
 ||anything.ai^
@@ -19,20 +20,27 @@
 ||basedtools.com^
 ||beacons.ai^
 ||bestaitools.org^
+||blackbox.ai^
 ||botsify.com^
 ||botsonic.ai^
 ||byblos.ai^
 ||character.ai^
 ||chat.openai.com^
+||chatfuel.com^
+||chatgpt.com^
 ||chatpdf.kakasoft.com^
+||chatspot.ai^
 ||civitai.com^
 ||claude.ai^
+||cleverbot.com^
 ||cody.ai^
+||copilot.microsoft.com^
 ||crawlchat.ai^
 ||crushon.ai^
 ||cutout.pro^
 ||datalog.io^
 ||deepai.org^
+||devrev.ai^
 ||digen.ai^
 ||drift.com^
 ||durable.co^
@@ -56,18 +64,25 @@
 ||glean.ai^
 ||gling.ai^
 ||godofprompt.com^
-||grammarly.com^
 ||grabon.ai^
+||grammarly.com^
 ||grok.x.ai^
 ||hubspot.com^
+||huggingface.co^
+||ibm.com^
 ||ideaape.com^
+||intercom.com^
 ||janitorai.com^
+||jasper.ai^
 ||jitbit.com^
 ||kling.ai^
 ||kommunicate.io^
 ||kore.ai^
+||kuki.ai^
 ||linezine.com^
 ||listyourtool.com^
+||liveperson.com^
+||llama2.ai^
 ||looka.com^
 ||lovescape.ai^
 ||magic.shopify.com^
@@ -76,6 +91,7 @@
 ||mistral.ai^
 ||perplexity.ai^
 ||pi.ai^
+||poe.com^
 ||polybuzz.ai^
 ||qodo.ai^
 ||quidget.ai^
@@ -83,10 +99,13 @@
 ||reclaim.ai^
 ||refont.ai^
 ||remove.bg^
+||replika.com^
 ||saasfirst.com^
 ||sales.ai^
 ||seaart.ai^
 ||smallpdf.com/chat-pdf^
+||socrat.ai^
+||socratic.org^
 ||sora.ai^
 ||spicyschat.ai^
 ||spiff.store^
@@ -103,28 +122,8 @@
 ||ushur.com^
 ||wally.ai^
 ||webwave.me^
-||zendesk.com^
-||zowie.ai^
-||zoho.com^
-||chatgpt.com^
-||intercom.com^
-||ibm.com^
-||copilot.microsoft.com^
-||ada.cx^
-||liveperson.com^
-||llama2.ai^
-||devrev.ai^
-||huggingface.co^
-||chatfuel.com^
-||poe.com^
-||socrat.ai^
 ||writesonic.com^
-||jasper.ai^
-||chatspot.ai^
-||kuki.ai^
-||replika.com^
-||cleverbot.com^
 ||you.com^
-||socratic.org^
-||aichatbotonline.com/^
-||blackbox.ai^
+||zendesk.com^
+||zoho.com^
+||zowie.ai^
