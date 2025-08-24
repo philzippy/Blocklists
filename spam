@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Saturday August 16 2025 14:15:00 UTC
-# Number of unique domains: 5110
+# Date: Sunday August 24 2025 23:25:00 UTC
+# Number of unique domains: 5138
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -104,6 +104,7 @@
 ||aeescultorfs.pt^
 ||aegvision.com^
 ||aejac.pt^
+||aejohg.com^
 ||aelc-lamego.pt^
 ||aemariofonseca.pt^
 ||aemm.pt^
@@ -126,6 +127,7 @@
 ||agagcp.com^
 ||againtrix.com^
 ||agencyinbox.com^
+||agendust.com^
 ||agentinvesting.com^
 ||agngulf.com^
 ||agonafor.com^
@@ -540,12 +542,14 @@
 ||bluelineinsurance.com^
 ||bluemountain.com^
 ||bluepalmbiofuel.com^
+||bluesky-cbd.com^
 ||bnks.edu.np^
 ||boardmanschools.org^
 ||boashoponlinedepartment.com^
 ||boatzzaf.com^
 ||bobbyweinberg.com^
 ||bodygoalstea.com^
+||bodygroovesandbox.com^
 ||bodystrengtth.com^
 ||bodywwell.com^
 ||boeroritver.com^
@@ -553,6 +557,7 @@
 ||bojksa.com^
 ||boldnestsilent.my^
 ||bomerangrecycle.com^
+||bompadoo.com^
 ||bomxxxenes.com^
 ||bonheur-petit.com^
 ||bonily.life^
@@ -577,6 +582,7 @@
 ||bramfitt.co.nz^
 ||bramora.com.mt^
 ||bramptontaxi.ca^
+||brannite.com^
 ||bratalosi.com^
 ||braze-images.com^
 ||brazingur.com^
@@ -586,6 +592,7 @@
 ||breakingtechcircles.com^
 ||breakoutshares.com^
 ||breakthroughalerts.com^
+||bretwinc.com^
 ||brickcitymarket.com^
 ||bricklink.com^
 ||bridgestone.com^
@@ -690,6 +697,7 @@
 ||carreteromd.com^
 ||carrierzone.com^
 ||cartiercul.com^
+||carvaluenow.net^
 ||casaexterminators.com^
 ||casensto.com^
 ||cash.musicspb.com^
@@ -880,6 +888,7 @@
 ||colmexen.com^
 ||colombianco.com^
 ||colorado.edu^
+||colorksba.com^
 ||colormedium.football^
 ||colorscommentator.com^
 ||colucore.com^
@@ -1201,6 +1210,7 @@
 ||documentsincollectedseveral.news^
 ||docusign.net^
 ||dogenerable.com^
+||dogtrainingtechniqueshq.com^
 ||doleluli.com^
 ||dominocigar.com^
 ||dominos.com^
@@ -1247,6 +1257,7 @@
 ||dushangible.com^
 ||dutyoftheseobservers.co.uk^
 ||dynadot.com^
+||dzllc.com^
 ||e-470.com^
 ||e-hps.net^
 ||e2ma.net^
@@ -1496,6 +1507,7 @@
 ||everydaychanneling.net^
 ||everydayshoppingnow.com^
 ||everynewzday.com^
+||evolvemail.org^
 ||evrenptsd.com^
 ||ewab-ontraport.net^
 ||exacttarget.com^
@@ -1522,6 +1534,7 @@
 ||extraemployees.com^
 ||extras4phone.com^
 ||extremeinsight.com^
+||extropective.com^
 ||eyeheaalth.com^
 ||eyentero.com^
 ||eyevisiondoctor.us^
@@ -1610,6 +1623,7 @@
 ||finansights.com^
 ||finderve.com^
 ||findka.com^
+||findyourbestwater.com^
 ||finecookingrecipes.net^
 ||finplix.com^
 ||fintell360.com^
@@ -1782,7 +1796,6 @@
 ||gdc.co.ke^
 ||geeknorty^
 ||geektechweb.net^
-||geico^
 ||geico.com^
 ||gemini-nest.com^
 ||gemselearning.com^
@@ -1991,6 +2004,7 @@
 ||haadhmjclxodoczf.com^
 ||habitacceleratemining.co.uk^
 ||haiglerenterprises.com^
+||haikututorials.com^
 ||hair-ie.com^
 ||hairhealth.com^
 ||halcapus.com^
@@ -2244,6 +2258,7 @@
 ||illtreatfetch.com^
 ||imaginary-bee.com^
 ||imagoid.com^
+||imaxzone.com^
 ||imbb.forth.gr^
 ||imgix.net^
 ||imgur.com^
@@ -2490,6 +2505,7 @@
 ||kent.edu^
 ||kentmarketers.com^
 ||kesempitan6.com^
+||kesmid.com^
 ||kesphe.com^
 ||kestert.com^
 ||ketchvelocity.com^
@@ -2824,6 +2840,7 @@
 ||mattawanschools.org^
 ||max.com^
 ||maxescolar.com^
+||maxvclub.com^
 ||mbntimes.com^
 ||mc.afee^
 ||mcafee^
@@ -2940,6 +2957,7 @@
 ||monotezion.com^
 ||monthofexcellence.com^
 ||monthsopportunity.com^
+||mooncrestsoftpeak.de^
 ||mooresata.com^
 ||moralamp.com^
 ||morcellateunligable.makeup^
@@ -2964,6 +2982,7 @@
 ||mozqi.com^
 ||mozziekillerstore.com^
 ||mpiktebalsngets.com^
+||mrfixwell.com^
 ||mrjonathon.com^
 ||mrsbpo.com^
 ||mrsmeyers.com^
@@ -3063,12 +3082,14 @@
 ||nec.co.jp^
 ||needtoknowfacts.com^
 ||neighborhoodalerts.com^
+||neighborlyemailstats.com^
 ||nellict.com^
 ||nennydish.com^
 ||neoinfi.com^
 ||neoloca.com^
 ||nervide.com^
 ||nesholth.com^
+||nestcrestdreammoon.eu^
 ||netflixsubs.com^
 ||neticla.com^
 ||netonstr.com^
@@ -3703,6 +3724,7 @@
 ||reikihive.com^
 ||relevanttotheevolution.net^
 ||reliableheatservices.com^
+||reliantfamilyplan.com^
 ||relicengineer.com^
 ||remarkrestaurant.com^
 ||remoteworkguidepro.com^
@@ -3879,6 +3901,8 @@
 ||scoalaciresumh.ro^
 ||scoalacotofeniidinfata.ro^
 ||scorpionbayisland.com^
+||scqdma.org^
+||scrackhe.com^
 ||scratch.mit.edu^
 ||scribblecolours.com^
 ||scriptrangesnew.org^
@@ -4140,6 +4164,7 @@
 ||sportywanderlust.pics^
 ||spreetsheet.com^
 ||springchannels.net^
+||sprinorok.com^
 ||sps-tachov.cz^
 ||spustpoo.com^
 ||spy-artistsworld.com^
@@ -4229,15 +4254,18 @@
 ||studyplanetsbeyond.com^
 ||stuffandstyles.com^
 ||stuffdigital.com^
+||stusystem.com^
 ||stvincent.edu^
 ||sty.onlinestudytoday.com^
 ||stylehobby.org^
 ||stylehousedecor.com^
 ||styleinthesix.com^
 ||styleisthenewblack.com^
+||suallymo.com^
 ||subbonus.in.net^
 ||subjectoffuture.net^
 ||subscription^
+||subsonin.com^
 ||substack.com^
 ||substackcdn.com^
 ||subtlenotion.com^
@@ -4260,6 +4288,7 @@
 ||sunrisesprings.com^
 ||sunsetpooch.com^
 ||supabets.co.za^
+||supamoss.com^
 ||superiortechtoday.com^
 ||superlativer.net^
 ||supertools.com^
@@ -4289,6 +4318,7 @@
 ||sweepraiseheadline.co.uk^
 ||swipe-resource.com^
 ||switchwidenline.com^
+||swwcinc.com^
 ||sxyqqin8iys8.com^
 ||syllogistcommunication.biz^
 ||sylmark.com^
@@ -4589,6 +4619,7 @@
 ||triggeredspeculation.org^
 ||trilandmatt.com^
 ||trinitymidland.org^
+||triosysac.com^
 ||triveloseries.com^
 ||trixdr.com^
 ||trk.cp20.com^
@@ -4855,6 +4886,7 @@
 ||voiceoutliningwork.net^
 ||voicogentel.net^
 ||voiconom.com^
+||voiprojas.com^
 ||vortlndsl.com^
 ||vortxmarketing.com^
 ||votedem.org^
@@ -4979,6 +5011,7 @@
 ||winnersinvesting.com^
 ||winterparkresort.com^
 ||wiredrep.com^
+||wirenona.com^
 ||wisek12.org^
 ||wisewomenlead.com^
 ||withhandle.com^
