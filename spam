@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday September 18 2025 00:03:00 UTC
-# Number of unique domains: 5239
+# Date: Saturday September 20 2025 16:01:00 UTC
+# Number of unique domains: 5248
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -809,6 +809,7 @@
 ||chucang888.com^
 ||ciclenatura.com^
 ||cilkalo.com^
+||cimcontent.net^
 ||cincinaura.com^
 ||ciramail.com^
 ||circasteel.com^
@@ -1341,6 +1342,7 @@
 ||edu.pe^
 ||edu.ph^
 ||edu.tr^
+||edu.tt^
 ||edu.tw^
 ||edu.uca.ma^
 ||edu.vn^
@@ -1554,6 +1556,7 @@
 ||executivesearchturkey.com^
 ||existenceofaplanet.net^
 ||exoticfashions.co.in^
+||expathot.com^
 ||experiencewonders.net^
 ||experigreen-online.com^
 ||expertsmackup.com^
@@ -3118,6 +3121,7 @@
 ||nahoradocha.com^
 ||namelessoperator.ae.org^
 ||nameservices.net^
+||nantryot.com^
 ||naqdmobi.com^
 ||narzisa.com^
 ||nathanandteripics.com^
@@ -3163,6 +3167,7 @@
 ||networksrots5.ml^
 ||neumamerica.cl^
 ||newagemastermind.com^
+||newaggi.com^
 ||newavesensors.com^
 ||newbiglines.com^
 ||newcapitalissues.com^
@@ -3721,6 +3726,7 @@
 ||qthzj.promyscore.com^
 ||qualitytoday.autos^
 ||qualitytoday.cloud^
+||queerj.com^
 ||queiroz.pt^
 ||quenchcomforterallot.co.uk^
 ||queryboss.agency^
@@ -3981,6 +3987,7 @@
 ||scrackhe.com^
 ||scratch.mit.edu^
 ||scribblecolours.com^
+||scriborder.com^
 ||scriptrangesnew.org^
 ||sd03otnrip.com^
 ||sdfuert.xyz^
@@ -4278,6 +4285,7 @@
 ||state.ma.us^
 ||statefarminfo.com^
 ||statepipenwd.com^
+||static-fb.com^
 ||statisticalevidence.co.uk^
 ||stature.illtreatfetch.com^
 ||statusming.com^
@@ -4827,6 +4835,7 @@
 ||unlv.edu^
 ||unremembering.ledspoints.com^
 ||unsoldbannerads.com^
+||unsplash.com^
 ||unusedretainrelieved.makeup^
 ||unverscity.ml^
 ||unverscity.tk^
