@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Saturday September 27 2025 00:54:00 UTC
-# Number of unique domains: 5268
+# Date: Saturday September 27 2025 14:34:00 UTC
+# Number of unique domains: 5272
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -92,7 +92,6 @@
 ||admin.tpaction.com^
 ||adobe-campaign.com^
 ||adproresults.com^
-||adproresults.com.com^
 ||adremover.org^
 ||adrenalinetravels.com^
 ||adrenocorticotrophin55.sbs^
@@ -303,6 +302,7 @@
 ||apps.mil^
 ||appscareer.com^
 ||appsportsbook.com^
+||appwikis.com^
 ||appypath.com^
 ||aptilins.com^
 ||aptoide.com^
@@ -401,7 +401,6 @@
 ||ayamgulaicuy.com^
 ||aydinotoankara.com^
 ||ayersupply.com^
-||b.mail-zr.com^
 ||b33r.us^
 ||babaeti.com^
 ||babycarehub.net^
@@ -433,7 +432,6 @@
 ||barkchca.com^
 ||barracuda.com^
 ||barringerpoint.com^
-||barry.wyatt.cyberservices.com^
 ||basaclothing.com^
 ||basbal.com^
 ||baselrestaurant.com^
@@ -1457,7 +1455,6 @@
 ||endofmarkets.net^
 ||endurance-cave.com^
 ||enduvo.com^
-||enduvo.com.com^
 ||enega-product.com^
 ||energycloudnetwork.com^
 ||energyisatypeofforceboson.camp^
@@ -2261,6 +2258,8 @@
 ||htcmania.com^
 ||htcstar.com^
 ||htmlelement.com^
+||hubapi.com^
+||hubspotemail.net^
 ||huddlestonelinens.com^
 ||hudsonagileventures.com^
 ||hugies.co.za^
@@ -2520,7 +2519,6 @@
 ||joshsdailydirection.com^
 ||journeytodaay.com^
 ||jpelectric.com^
-||jpelectric.com.com^
 ||jpouse.cloud^
 ||juan.ecommwebs.net^
 ||judield.com^
@@ -2823,6 +2821,7 @@
 ||magicmushgames.com^
 ||magzob.com^
 ||maidmayo.com^
+||mail-zr.com^
 ||mail.barnesandnoble.com^
 ||mail.comms.yahoo.net^
 ||mail.freshmarketdata.com^
@@ -3029,6 +3028,7 @@
 ||monotezion.com^
 ||monthofexcellence.com^
 ||monthsopportunity.com^
+||monumentaltheboxer.com^
 ||mooncrestsoftpeak.de^
 ||mooresata.com^
 ||moralamp.com^
@@ -3116,6 +3116,7 @@
 ||mymail.sim.edu.sg^
 ||mymrmi.com^
 ||mypentax.com^
+||myponeer.com^
 ||myportfolio.com^
 ||mypwdrace.com^
 ||myquoter.com^
@@ -4060,6 +4061,7 @@
 ||serenitysphere.homes^
 ||serenitysphere.icu^
 ||serequinos.com^
+||sergiant.com^
 ||servc-xflnit.com^
 ||serve-themes.com^
 ||serveapologydragon.com^
@@ -4075,6 +4077,7 @@
 ||sewexhale.com^
 ||sffnw.com^
 ||shabnamshama.com^
+||shadaoud.com^
 ||shamewate.info^
 ||shamposunsilkrambutpanjanghub.com^
 ||sharpeconomicnews.com^
@@ -4307,6 +4310,7 @@
 ||stealsafari.com^
 ||steamboat-tinting.com^
 ||steanb.com^
+||stemigat.com^
 ||stensul.com^
 ||stepinac.org^
 ||sterlingcustomupholstery.com^
