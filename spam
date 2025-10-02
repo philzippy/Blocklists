@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Saturday September 27 2025 14:34:00 UTC
-# Number of unique domains: 5271
+# Date: Thursday October 27 2025 12:10:00 UTC
+# Number of unique domains: 5292
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -131,6 +131,7 @@
 ||agagcp.com^
 ||againtrix.com^
 ||agencyinbox.com^
+||agencyzoom.com^
 ||agendust.com^
 ||agentinvesting.com^
 ||agileretreats.com^
@@ -241,6 +242,7 @@
 ||americaninvestmentreport.com^
 ||americanomemek.com^
 ||americawebpagealerts.com^
+||amerikadl.com^
 ||amerinstobrajes.edu.bo^
 ||amfam.com^
 ||amic.co^
@@ -651,6 +653,7 @@
 ||businesoft.info^
 ||businessbecause.com^
 ||businessbrokercolorado.com^
+||businessdatainc.com^
 ||businessesthatprofit.com^
 ||businessincnow.com^
 ||businesssolutionsprofit.com^
@@ -1219,6 +1222,7 @@
 ||divasiren.com^
 ||diversarmshotel.com^
 ||divotmagazine.com^
+||diwamethod.com^
 ||dled-aore.com^
 ||dlefm.com^
 ||dm.maytag.com^
@@ -1425,6 +1429,7 @@
 ||email.traitcraf.us^
 ||email.ussoccer.com^
 ||emailalerts.cnn.com^
+||emailimagecdn4htg.com^
 ||emailimagecdnuyi.com^
 ||emailmarketingdesigns.info^
 ||emailonline.net^
@@ -1523,6 +1528,7 @@
 ||ethicslifestyle.store^
 ||etpr.pt^
 ||etu.cyu.fr^
+||eucainb.com^
 ||euiqoption.com^
 ||eurelet.com^
 ||euromaidanpress.com^
@@ -1606,6 +1612,7 @@
 ||farawaystarsystem.net^
 ||faresamga.com^
 ||farmhouseinteriordesigns.net^
+||farreradvisory.com^
 ||fascaring.com^
 ||fashionforafiniteplanet.com^
 ||fashionfusionhubvip.com^
@@ -1783,6 +1790,7 @@
 ||fringferno.com^
 ||frmbri.com^
 ||fromthink.com^
+||frontlineeducation.com^
 ||frostburg.edu^
 ||fs-toner.com^
 ||ftc.edu^
@@ -2114,6 +2122,7 @@
 ||healthengineers.net^
 ||healthfirsst.com^
 ||healthfoodexpert.life^
+||healthfoodexperts.college^
 ||healthguidde.com^
 ||healthierbydiet.com^
 ||healthimmunitypersonalization.org^
@@ -2586,6 +2595,7 @@
 ||kidoidn.com^
 ||kidsgrovecarpets.com^
 ||kidsheallth.com^
+||kilinahe.com^
 ||killbodyfat.com^
 ||killer-simple.com^
 ||kimblegroup.com^
@@ -2867,6 +2877,7 @@
 ||manavrachna.net^
 ||manbrust.com^
 ||mancaregalavny.com^
+||mandrillapp.com^
 ||manegerialismnow.com^
 ||manifestwealthtoday.com^
 ||manipulatedversionside.tel^
@@ -2906,10 +2917,12 @@
 ||masturban.com^
 ||maszskt.cz^
 ||matchbles.online^
+||matousa.com^
 ||mattawanschools.org^
 ||max.com^
 ||maxescolar.com^
 ||maxvclub.com^
+||maxxtorks.com^
 ||mbntimes.com^
 ||mc.afee^
 ||mcafee^
@@ -2997,6 +3010,7 @@
 ||moantfor.com^
 ||mobidme.com^
 ||mobiledar.com^
+||mobileshared.com^
 ||mobiri.se^
 ||mocktailmaven.com^
 ||modernindigo.com^
@@ -3160,12 +3174,14 @@
 ||nec.co.jp^
 ||nedheads.com^
 ||needtoknowfacts.com^
+||negotium.ba^
 ||neighborhoodalerts.com^
 ||neighborlyemailstats.com^
 ||nellict.com^
 ||nennydish.com^
 ||neoinfi.com^
 ||neoloca.com^
+||nervep.com^
 ||nervide.com^
 ||nesholth.com^
 ||nestcrestdreammoon.eu^
@@ -3190,6 +3206,7 @@
 ||neweducdept.com^
 ||newgreatday.com^
 ||newlyevo1vedanimals.digital^
+||newmaen.com^
 ||neworleans-food.com^
 ||news.bigbucksavers.com^
 ||news.iadsdk.apple.com^
@@ -3511,6 +3528,7 @@
 ||personaalfinance.com^
 ||personalfinance.boats^
 ||pesasamerica.com^
+||petalfinderdreammaker.eu^
 ||petco.com^
 ||petcococop.com^
 ||petrogr.com^
@@ -3870,6 +3888,7 @@
 ||rioeduca.net^
 ||riquenat.com^
 ||risclaren.sbs^
+||risegene.com^
 ||risetothrivenow.com^
 ||rit.edu^
 ||ritualconvincefoods.org^
@@ -3945,6 +3964,7 @@
 ||sagaarmhole.com^
 ||sageler.com^
 ||sageocel.com^
+||sailthru.com^
 ||saintmarksschool.in^
 ||saintmichelannecy.fr^
 ||sakhbir.com^
@@ -4467,6 +4487,7 @@
 ||tasbihwali.com^
 ||tasndd.com^
 ||tasteofhome.com^
+||tatatelebusiness.com^
 ||tatere.com^
 ||tatumreport.com^
 ||tavsiktlig.com^
@@ -5134,9 +5155,9 @@
 ||windowstandoors.co^
 ||windpowerenergie.com^
 ||windsorstore.com^
+||winkoakland.com^
 ||winners.directory^
 ||winnersinvesting.com^
-||winterparkresort.com^
 ||wiredrep.com^
 ||wirenona.com^
 ||wisecarverinsurance.com^
