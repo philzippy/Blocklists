@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sunday October 05 2025 20:10:00 UTC
-# Number of unique domains: 5301
+# Date: Saturday October 11 2025 13:26:00 UTC
+# Number of unique domains: 5318
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -372,6 +372,7 @@
 ||att.net^
 ||attractfashion.com^
 ||attractiontickets418.com^
+||aucherto.com^
 ||audienatomrights.com^
 ||audiosynch.com^
 ||auditorship.com^
@@ -634,6 +635,7 @@
 ||brownstoneresearch.com^
 ||browsekeytopics.com^
 ||brqryt.com^
+||brstekstil.com^
 ||bscba.com^
 ||bticimbhe.com^
 ||btobet.com^
@@ -1074,6 +1076,7 @@
 ||d1issuingbanks.com^
 ||d5live.net^
 ||dabilyus.com^
+||dachuda.com^
 ||dailyadvenntures.com^
 ||dailyapliances.com^
 ||dailydivots.com^
@@ -1343,6 +1346,7 @@
 ||editaserlat.com^
 ||editurri.com^
 ||edlio.com^
+||edmundoshoes.com^
 ||eds.com^
 ||edu.br^
 ||edu.co^
@@ -1442,6 +1446,7 @@
 ||emailserv.org^
 ||emailsrvr.com^
 ||emailwirelessoffers.com^
+||emarketingideal.com^
 ||emedia4.com^
 ||emengteal.com^
 ||emergencyemail.org^
@@ -1451,6 +1456,7 @@
 ||emgcolorado.com^
 ||emich.edu^
 ||emicleva.com^
+||emidsysto.com^
 ||emissionsrippled.org^
 ||emlakatolyesi.com^
 ||emltrk.com^
@@ -1489,6 +1495,7 @@
 ||eoptex.com^
 ||eotrx.substackcdn.com^
 ||eousercontent.com^
+||epateknik.com^
 ||ephemeralcounters.api.roblox.com^
 ||epinfante.com^
 ||epiqnotice.com^
@@ -1692,6 +1699,7 @@
 ||firstnlp.com^
 ||firstonlinebuy.com^
 ||fisheatu.com^
+||fisherauto.com^
 ||fishhammock.com^
 ||fitbit.com^
 ||fithealthynewyou.com^
@@ -2192,6 +2200,7 @@
 ||higotechnologies.com^
 ||hiltongrandvacations.com^
 ||hipmaker.com^
+||history-through-my-eyes.com^
 ||history.com^
 ||historyofaplace.net^
 ||histract.com^
@@ -2237,6 +2246,7 @@
 ||honorablehypnotic.org^
 ||hoousefittings.com^
 ||hopemontgomery.com^
+||horofar.com^
 ||horoscopeall.net^
 ||horoscopestarr.com^
 ||horrifyaxiomatic.com^
@@ -2731,6 +2741,7 @@
 ||lightning-everyday.com^
 ||lightningquickdailydeals.com^
 ||liivejourney.com^
+||lilopo.com^
 ||limelight-logo.com^
 ||limitededitiongoods.com^
 ||limitedtimetoday.com^
@@ -3047,6 +3058,7 @@
 ||monotezion.com^
 ||monthofexcellence.com^
 ||monthsopportunity.com^
+||montiarieli.com^
 ||monumentaltheboxer.com^
 ||mooncrestsoftpeak.de^
 ||mooresata.com^
@@ -3167,6 +3179,7 @@
 ||natureoxygen.us^
 ||natureprovip.com^
 ||naturesportsalliance.com^
+||naver.com^
 ||naviance.com^
 ||navigatorsnetwork.com^
 ||navingamb.com^
@@ -3461,6 +3474,7 @@
 ||palmasport.es^
 ||palmbeachgroup.com^
 ||palmws.com^
+||palpifi.com^
 ||palteolitheraic.com^
 ||pamalitan.com^
 ||panamaproduction.com^
@@ -3889,6 +3903,7 @@
 ||rightmix.com^
 ||ring.com^
 ||ringtruck.com^
+||rinshaus.com^
 ||rioeduca.net^
 ||riquenat.com^
 ||risclaren.sbs^
@@ -4248,6 +4263,7 @@
 ||soundingdistortion.com^
 ||soundofweeping.com^
 ||sounq.com^
+||southwestvoicecare.com^
 ||soutipasgroupe.com^
 ||sp2garwolin.pl^
 ||sp34gdynia.pl^
@@ -4411,6 +4427,7 @@
 ||suitsolo.co.pt^
 ||sultrygreen.com^
 ||sumcolours.com^
+||sumitmusic.net^
 ||summerprojects.in^
 ||summit-academy.com^
 ||sunglasseslovee.com^
@@ -4793,6 +4810,7 @@
 ||twchost.com^
 ||tworiverswinery.com^
 ||tworld.com^
+||twqfds.com^
 ||twtge.com^
 ||twucket.com^
 ||typekit.net^
@@ -4935,6 +4953,7 @@
 ||uth.hn^
 ||uthrad.pl^
 ||utm.my^
+||utn.edu.ar^
 ||utopiannote.com^
 ||uvm.edu.mx^
 ||uvuland.com^
@@ -5304,4 +5323,3 @@
 ||zyanime.com^
 ||zynga.com^
 ||zzy.guru^
-||naver.com^
