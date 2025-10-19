@@ -1,7 +1,7 @@
 # Title: philzippy/blocklists/Block_Child_Exploitation
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Saturday September 13 2025 20:21:00:00 UTC
+# Date: Saturday October 19 2025 14:03:00:00 UTC
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/Block_Child_Exploitation
 # Project home page: https://github.com/philzippy/Blocklists
 #
@@ -290,7 +290,6 @@ video.h1.bytedance.map.fastly.net
 # ===============================================================
 #Uncatagorized
 ||facebook.com^
-||youtube.com^
 ||instagram.com^
 ||tiktok.com^
 ||x.com^
