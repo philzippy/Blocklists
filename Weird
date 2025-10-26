@@ -1,7 +1,7 @@
 # Title: philzippy/blocklists/Weird
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Saturday September 13 18:49:00 2023 UTC
+# Date: Sunday October 26 16:02:00 2023 UTC
 # Number of unique domains: 4113
 # Fetch the latest version of this file: https://github.com/philzippy/Blocklists/blob/master/Weird
 # Fetch the latest version of this file raw: https://raw.githubusercontent.com/philzippy/Blocklists/master/Weird
@@ -89,6 +89,7 @@
 ||bizpacreview.com^
 ||blabber.buzz^
 ||blazetv.com^
+||blexit.com^
 ||bluemonsterattngc.com^
 ||bluemonsterattrumpnational.com^
 ||bluemonstertrump.com^
