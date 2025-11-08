@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sunday November 01 2025 15:45:00 UTC
-# Number of unique domains: 5402
+# Date: Sunday November 08 2025 15:18:00 UTC
+# Number of unique domains: 5434
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -120,6 +120,7 @@
 ||aerautumn.com^
 ||aeriagames.com^
 ||aerialcubes.com^
+||aeroardse.com^
 ||aerocaredirect.com^
 ||aevt.pt^
 ||aeyadf.com^
@@ -565,6 +566,7 @@
 ||blcomputersys.com^
 ||bloc019edit.com^
 ||blog-media-review.org^
+||blogdarita.com^
 ||blogger.tpusa.com^
 ||blogjudi.com^
 ||bloombonusrewards.com^
@@ -685,6 +687,7 @@
 ||bvxlpcwsm.com^
 ||ca.caretipsforyou.com^
 ||cabana-track.com^
+||cabinny.com^
 ||cablesliban.com^
 ||cafe-barizsta.co.za^
 ||cafrist.com^
@@ -711,6 +714,7 @@
 ||campith.com^
 ||canaccr.com^
 ||canacidic.com^
+||canadacare.com^
 ||candlelightdinner.sbs^
 ||canlawny.com^
 ||cannacoffeecompany.com^
@@ -938,6 +942,7 @@
 ||colmexen.com^
 ||colombianco.com^
 ||colorado.edu^
+||coloradogivesfoundation.org^
 ||colorksba.com^
 ||colormedium.football^
 ||colorscommentator.com^
@@ -1104,6 +1109,7 @@
 ||dailyapliances.com^
 ||dailydivots.com^
 ||dailyinvestpros.com^
+||dailykatha.com^
 ||dailymoneyreports.com^
 ||dailynews-world.com^
 ||dailytradingworld.com^
@@ -1222,6 +1228,7 @@
 ||digikey.com^
 ||digikeyassets.com^
 ||digimoj.com^
+||digital-delivery.com^
 ||digitaledgelearning.net^
 ||digitalentrepreneur.net^
 ||digitalmarketing.com^
@@ -1752,6 +1759,7 @@
 ||flawlessfaces.pics^
 ||fletcherandphillips.com^
 ||flexmail.eu^
+||flexuspad.com^
 ||flexypack.com^
 ||flicksh.com^
 ||flipboard.com^
@@ -1844,6 +1852,7 @@
 ||ftp.tpusa.com^
 ||fuelrel.com^
 ||fuernis.com^
+||fugarmall.com^
 ||fuller-plan.us^
 ||fundasmentalists.net^
 ||funimation.com^
@@ -2028,6 +2037,7 @@
 ||govierno.org^
 ||goworkshop.in^
 ||gpcstudents.ca^
+||gproglobal.net^
 ||gpsreward.net^
 ||gr8.com^
 ||grabflexibleadvice.world^
@@ -2269,6 +2279,7 @@
 ||homeheatgurus.com^
 ||homeloanwise.com^
 ||homemadecapital.com^
+||homeprostations.com^
 ||homesfinance.com^
 ||homeshieldnow.com^
 ||homesnap.com^
@@ -2486,11 +2497,13 @@
 ||investmentbankingrules.com^
 ||investmentdigger.com^
 ||investmentintelligencesphere.com^
+||investordelivery.com^
 ||invisiblehandinvestors.com^
 ||ionogis.com^
 ||ipaak.com^
 ||ipam.pt^
 ||ipapazou.com^
+||ipayt.com^
 ||ipe-edu.org^
 ||ipfunny.com^
 ||ipiaget.pt^
@@ -2503,6 +2516,7 @@
 ||ir.internetofresources.com^
 ||ironingboardsample.quest^
 ||ironmail-usa.com^
+||irs.com^
 ||isbezosinspace.com^
 ||ishedauk.com^
 ||isisromero.it^
@@ -2528,6 +2542,7 @@
 ||itsos-mariecurie.it^
 ||itstep.ge^
 ||itsthecashnews.com^
+||itwasalot.com^
 ||ivacationforever.com^
 ||ivalisgroup.com^
 ||ivinsyste.com^
@@ -2535,6 +2550,7 @@
 ||ixcomb.com^
 ||ixlend.com^
 ||jablonica.net^
+||jackoneducation.com^
 ||jacksodoy.com^
 ||jagusop.com^
 ||jakkloref.com^
@@ -2560,6 +2576,7 @@
 ||jewishinboston.com^
 ||jiangzichaofan.net^
 ||jianhuimetals.net^
+||jimdo.com^
 ||jinnn.com^
 ||jklasercutting.com^
 ||jmzarchitects.com^
@@ -2806,6 +2823,7 @@
 ||list-manage.com^
 ||list.go-know.com^
 ||list.homesfinance.com^
+||listen360.com^
 ||listfdtmsaj.info^
 ||listssa.com^
 ||litdigitalservices.com^
@@ -2989,6 +3007,7 @@
 ||mcafee^
 ||mcafee.com^
 ||mcansi.net^
+||mccalker.com^
 ||mccd.edu^
 ||mcdatoto.com^
 ||mckuskerelectric.com^
@@ -3237,6 +3256,7 @@
 ||nazihtc.com^
 ||nbcsports.com^
 ||ncjh-qyjwoepkdntszwkgyne.com^
+||ncodeonal.com^
 ||ndiocircle.com^
 ||ndtau-jjmanning.com^
 ||neatstuffu.com^
@@ -3247,6 +3267,7 @@
 ||neighborhoodalerts.com^
 ||neighborlyemailstats.com^
 ||nellict.com^
+||nelphaem.com^
 ||nennydish.com^
 ||neoinfi.com^
 ||neoloca.com^
@@ -3302,6 +3323,7 @@
 ||nicolesilvacunhaoutlook.com^
 ||nightma.us^
 ||nimble.com^
+||ninatele.com^
 ||ninelet.com^
 ||niothinker.com^
 ||niravandtrisha.com^
@@ -3369,6 +3391,7 @@
 ||nwonu.com^
 ||nycstpatricksparade.org^
 ||nyfwm.com^
+||nyrodha.com^
 ||nytimes.com^
 ||nz-skincare.com^
 ||nzm2.eu^
@@ -3422,6 +3445,7 @@
 ||olten.ch^
 ||omandompackers.com^
 ||ombaewe8.com^
+||omegafixes.com^
 ||omr3ayiqa.com^
 ||omrutah.com^
 ||onceuponthatcake.com^
@@ -3478,6 +3502,7 @@
 ||orange.cz^
 ||orange.sn^
 ||orangetor.com^
+||orbetrade.com^
 ||orderclucku.com^
 ||orethiti.com^
 ||org.br^
@@ -3493,6 +3518,8 @@
 ||osuosl.org^
 ||otambari.com^
 ||otherbuilt.com^
+||otolori.com^
+||otrantomotorsports.com^
 ||ouagk.com^
 ||ourrit.com^
 ||outletburberry-bags.com^
@@ -3790,6 +3817,7 @@
 ||protonmail.com^
 ||proutlose.org^
 ||provincia.tn.it^
+||proxyvote.com^
 ||ps.palmws.com^
 ||pse-pas.com^
 ||pseglistore.com^
@@ -3803,6 +3831,7 @@
 ||publisherstories.com^
 ||publuest.com^
 ||pucminas.br^
+||pullmanne.com^
 ||punchunity.press^
 ||purchaseorder.com^
 ||purecarstam.com^
@@ -4081,6 +4110,7 @@
 ||savvydealshunter.com^
 ||sayosia.com^
 ||sblschools.com^
+||scandalcorner.com^
 ||scanmiss.com^
 ||scarcestimulating.be^
 ||sceptre-coral.com^
@@ -4180,6 +4210,7 @@
 ||shamewate.info^
 ||shamposunsilkrambutpanjanghub.com^
 ||sharpeconomicnews.com^
+||sheepmagazine.com^
 ||shehempskincare.com^
 ||sheritackleintownprotecting.coffee^
 ||shilovim.com^
@@ -4343,6 +4374,7 @@
 ||specialdelitedfood.com^
 ||specialmomentforme.co.uk^
 ||spectracast.com^
+||spectrmmobile.com^
 ||speed.digitalmarketinglobe.com^
 ||speeddirectlytoward.co.uk^
 ||speedof.boats^
@@ -4490,6 +4522,7 @@
 ||suggestionpresent.com^
 ||suitbluestripesmodule.com^
 ||suitsolo.co.pt^
+||sulphar.com^
 ||sultrygreen.com^
 ||sumcolours.com^
 ||sumitmusic.net^
