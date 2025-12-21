@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Monday December 14 2025 15:06:00 UTC
-# Number of unique domains: 5530
+# Date: Monday December 21 2025 13:32:00 UTC
+# Number of unique domains: 5546
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -431,6 +431,7 @@
 ||backdefence.net^
 ||backend.tpaction.com^
 ||backend.tpusa.com^
+||backeni.com^
 ||backwoodsbean.com^
 ||baconsta.com^
 ||badboujees.com^
@@ -1159,6 +1160,7 @@
 ||datingfactory410.com^
 ||datkhinadipar-hospital.com^
 ||daubygg.com^
+||davidalert.com^
 ||davidepao.com^
 ||davingar.com^
 ||dawnsobolewski.com^
@@ -1358,6 +1360,7 @@
 ||dushangible.com^
 ||dutyoftheseobservers.co.uk^
 ||dwater.com^
+||dyn365mktg.com^
 ||dynadot.com^
 ||dynamics.com^
 ||dzllc.com^
@@ -1952,6 +1955,7 @@
 ||generationsuccessor.net^
 ||generbi.com^
 ||genesiswin.info^
+||geneticnames.com^
 ||genetleclock.com^
 ||geninnovators.com^
 ||gennedixit.com^
@@ -2374,7 +2378,9 @@
 ||htcstar.com^
 ||htmlelement.com^
 ||hubapi.com^
+||hubspot.com^
 ||hubspotemail.net^
+||hubspotlinksfree.com^
 ||hubspotusercontent-na1.net^
 ||huddlestonelinens.com^
 ||hudsonagileventures.com^
@@ -2414,6 +2420,7 @@
 ||ideas2tech.com^
 ||idosi.org^
 ||iduetou.com^
+||iem.edu.in^
 ||iepsanandres.edu.pe^
 ||iepscf-uccle.be^
 ||iescotesbaixes.org^
@@ -2597,6 +2604,7 @@
 ||ivacationforever.com^
 ||ivalisgroup.com^
 ||ivinsyste.com^
+||iwundluacc.com^
 ||ix.finance^
 ||ixcomb.com^
 ||ixlend.com^
@@ -3059,6 +3067,7 @@
 ||maxshop1.com^
 ||maxvclub.com^
 ||maxxtorks.com^
+||mbamem.com^
 ||mbntimes.com^
 ||mc.afee^
 ||mcafee^
@@ -4659,6 +4668,7 @@
 ||t-mobile.com^
 ||t-online.de^
 ||t2accountancy.co.uk^
+||tablehack.com^
 ||tacmotion.com^
 ||tacticalitems.net^
 ||tacticaloffers.com^
@@ -4721,7 +4731,9 @@
 ||teethwhiteningprocess.com^
 ||tefane.com^
 ||tehnoloska.net^
+||teicagia.com^
 ||teicee.com^
+||teknocats.com^
 ||telegram.com^
 ||teletoby.com^
 ||telstra.com^
@@ -4987,6 +4999,7 @@
 ||truepurdue.com^
 ||trugreentech.com^
 ||trulycustomfavors.com^
+||trumporsununu.com^
 ||truthaboutabs.com^
 ||tryoverspin.com^
 ||tscw.org^
@@ -5205,12 +5218,14 @@
 ||viafreezohocrm.com^
 ||viafreezohocrm.in^
 ||vianet.com.np^
+||viazohocrm.in^
 ||vibegreenheartfinder.de^
 ||vibrantwelllife.com^
 ||victorydayy.com^
 ||videomovers.com^
 ||videooil.com^
 ||videospokemon.com^
+||videotron.ca^
 ||vidyasart.com^
 ||vief.edu.vn^
 ||vieraconnect.tv^
@@ -5514,6 +5529,7 @@
 ||zohoinsights-crm.in^
 ||zohoinsights.com^
 ||zohomail.com^
+||zohoprojects.ca^
 ||zohoprojects.com^
 ||zohoprojects.eu^
 ||zohoprojects.in^
