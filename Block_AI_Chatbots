@@ -5,6 +5,7 @@
 # Number of unique domains: 121
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/refs/heads/master/Block_AI_Chatbots
 # Project home page: https://github.com/philzippy/Blocklists
+||grok.com^
 ||ada.ai^
 ||ada.cx^
 ||ai-pro.org^
