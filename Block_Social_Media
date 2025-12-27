@@ -1,7 +1,7 @@
 # Title: philzippy/blocklists/Block_Social_Media
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Tuesday December 9 2025 14:03:00:00 UTC
+# Date: Saturday December 27 2025 14:03:00:00 UTC
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/refs/heads/master/Block_Social_Media
 #
 # Project home page: https://github.com/philzippy/Blocklists
@@ -45,8 +45,23 @@
 #CapCut - done
 #The Right Stuff (dating) - done
 # ===============================================================
+#block snapchat.com
+||snapchat.com^
+# ===============================================================
+#block tinder
+||tinder.com^
+# ===============================================================
+#block twitch.tv
+||twitch.tv^
+# ===============================================================
+#block mustar.me
+||mustar.me^
+# ===============================================================
 #snapchat
 ||snapchat.com^
+# ===============================================================
+#grindr
+||grindr.com^
 # ===============================================================
 #twitch
 ||twitch.tv^
