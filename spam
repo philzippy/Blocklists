@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Monday December 21 2025 13:32:00 UTC
-# Number of unique domains: 5546
+# Date: Monday December 27 2025 15:40:00 UTC
+# Number of unique domains: 5568
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
 ||10xbusinesstraining.com^
@@ -194,6 +194,7 @@
 ||allahpedia.com^
 ||allanreeder.com^
 ||allaylam.com^
+||allgebeya.com^
 ||allgoodthingspetfood.com^
 ||allhealthiernews.com^
 ||allherecentre.com^
@@ -505,6 +506,7 @@
 ||bellsouth.net^
 ||belmarket.net^
 ||belpostavka.com^
+||bemail.it^
 ||beman.com^
 ||bemisfa.com^
 ||bendergloves.com^
@@ -566,6 +568,7 @@
 ||birdieball.com^
 ||birdsandblooms.com^
 ||birthdaybullies.com^
+||bisazzi.com^
 ||biteeepm.com^
 ||bitly.com^
 ||bitmakemecrazy.com^
@@ -734,6 +737,7 @@
 ||canacidic.com^
 ||canadacare.com^
 ||candlelightdinner.sbs^
+||canexor.com^
 ||canlawny.com^
 ||cannacoffeecompany.com^
 ||canvashopedrain.blog^
@@ -949,6 +953,7 @@
 ||cofamily.org^
 ||coffeeofgoodness.com^
 ||cognitiveexcellenceintl.com^
+||cohzees.com^
 ||coinmack.com^
 ||coinpfft.com^
 ||coldplay.com^
@@ -969,6 +974,7 @@
 ||colorksba.com^
 ||colormedium.football^
 ||colorscommentator.com^
+||coltchic.com^
 ||colucore.com^
 ||columbia.edu^
 ||com.br^
@@ -1059,6 +1065,7 @@
 ||costcodrastic.com^
 ||costcolocation.com^
 ||cosualje.com^
+||countdownmail.com^
 ||couponhist.com^
 ||couponswithinday.com^
 ||coursetrendsmail.com^
@@ -1219,6 +1226,7 @@
 ||democraticvictory.com^
 ||democrats.org^
 ||demoliumbank.com^
+||dempubblicitarie.it^
 ||dency.site^
 ||dendriv.com^
 ||denniertersimonerslenties.life^
@@ -1379,6 +1387,7 @@
 ||eastvaleinsurance.com^
 ||easycollegecoupons.com^
 ||easydetoxs.com^
+||easydmarc.com^
 ||easyfoodnew.info^
 ||easyhealthathome.com^
 ||easyicecreamstore.com^
@@ -1530,6 +1539,7 @@
 ||emotionaldraw.com^
 ||emphalas.com^
 ||empoweringyourbusinessvisions.eu^
+||emxos.com^
 ||enaselmasry.com^
 ||enchantorproducts.com^
 ||enderuncolleges.com^
@@ -1626,6 +1636,7 @@
 ||everaph.com^
 ||everestengagement.com^
 ||everfity.com^
+||evergage.com^
 ||everneco.com^
 ||everydaychanneling.net^
 ||everydayshoppingnow.com^
@@ -2380,6 +2391,7 @@
 ||hubapi.com^
 ||hubspot.com^
 ||hubspotemail.net^
+||hubspotlinks.com^
 ||hubspotlinksfree.com^
 ||hubspotusercontent-na1.net^
 ||huddlestonelinens.com^
@@ -2520,6 +2532,7 @@
 ||intensifyricebride.quest^
 ||intentimacy.com^
 ||interchang.xyz^
+||interimadvisors.com^
 ||intermones.com^
 ||internationaldevelopers.org^
 ||internationalhomerelief.com^
@@ -2611,6 +2624,7 @@
 ||jablonica.net^
 ||jackoneducation.com^
 ||jacksodoy.com^
+||jadenproper.com^
 ||jagusop.com^
 ||jakkloref.com^
 ||jaliscoedu.mx^
@@ -2714,6 +2728,7 @@
 ||kesmid.com^
 ||kesphe.com^
 ||kestert.com^
+||ketchupadv.it^
 ||ketchvelocity.com^
 ||ketoheraldtrim.com^
 ||kev2023.co^
@@ -3201,6 +3216,7 @@
 ||morcellateunligable.makeup^
 ||morecarcarriage.com^
 ||moregolftodayspecials.com^
+||morequa.com^
 ||moresier.com^
 ||morestake.com^
 ||morgandilo.sbs^
@@ -3684,6 +3700,7 @@
 ||peaceooday.com^
 ||peaceoofmind.com^
 ||peacocktv.com^
+||peakzenvoiceleaf.eu^
 ||pearlar.com^
 ||pecuasede.world^
 ||pelosiforcongress.org^
@@ -4295,6 +4312,7 @@
 ||sffnw.com^
 ||shabnamshama.com^
 ||shadaoud.com^
+||shadowthunderstormvision.eu^
 ||shamewate.info^
 ||shamposunsilkrambutpanjanghub.com^
 ||sharpeconomicnews.com^
@@ -4776,6 +4794,7 @@
 ||thebuttonradio.com^
 ||thecapitalist.com^
 ||theclubmatrix.com^
+||thecompressionzone.com^
 ||theconservativedispatch.com^
 ||thecouponescape.com^
 ||thedailybeast.com^
@@ -5340,6 +5359,7 @@
 ||webmail.tpusa.com^
 ||webmaphosts.com^
 ||websecuritymag.com^
+||website-files.com^
 ||websitecertification.com^
 ||weburlipro.me^
 ||wecarib.com^
@@ -5526,9 +5546,11 @@
 ||zoho.eu^
 ||zohobooks.com^
 ||zohodesk.com.au^
+||zohoexpense.sa^
 ||zohoinsights-crm.in^
 ||zohoinsights.com^
 ||zohomail.com^
+||zohopeople.com^
 ||zohoprojects.ca^
 ||zohoprojects.com^
 ||zohoprojects.eu^
