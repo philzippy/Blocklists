@@ -2,7 +2,7 @@
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
 # This blocks school monitoring - ref: https://www.eff.org/deeplinks/2023/10/how-goguardian-invades-student-privacy
-# Date: Sun Nov 05 2023 13:54:00 UTC
+# Date: Sat Dec 27 2025 15:44:00 UTC
 # Number of unique domains: 452
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/RelaySchool
 # Project home page: https://github.com/philzippy/Blocklists
@@ -11,3 +11,4 @@
 ||goguardian.com^
 ||relay.school^
 ||relayforteams.com^
+||lightspeedsystems.com^
