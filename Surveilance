@@ -5,6 +5,7 @@
 # Number of unique domains: 333
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/Surveilance
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/Surveilance
+||zignallabs.com^
 admin.staging.zignallabs.com
 admin.zignallabs.com
 alpha.zignallabs.com
