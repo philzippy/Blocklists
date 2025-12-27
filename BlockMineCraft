@@ -1,12 +1,23 @@
-hivebedrock.network
-mineplex.com
-inpvp.net
-cubecraft.net
-lbsg.net
-galaxite.net
-(\.|^)hivebedrock\.network$
-(\.|^)mineplex\.com$
-(\.|^)inpvp\.net$
-(\.|^)cubecraft\.net$
-(\.|^)lbsg\.net$
-(\.|^)galaxite\.net$
+# Title: philzippy/blocklists/BlockMineCraft
+#
+# This hosts file is a merged collection of hosts from a reverse dns lookup
+# Date: Monday December 27 2025 15:40:00 UTC
+# Number of unique domains: 16
+# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
+# Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/spam
+||camman18smp.com^ 
+||cammansmp.com^
+||cubecraft.net^
+||galaxite.net^
+||hivebedrock.network
+||hivebedrock.network^
+||inpvp.net^
+||lbsg.net^
+||minecraft.com^
+||minecraft.net^ 
+||minecraftmods.com^
+||minecraftservices.com^
+||mineplex.com^
+||title.mgt.xboxlive.com.akadns.net^
+||vortex.data.microsoft.com^
+||xboxlive.com^
