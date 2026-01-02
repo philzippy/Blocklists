@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Monday December 27 2025 15:40:00 UTC
-# Number of unique domains: 5568
+# Date: Friday January 3 2026 17:42:00 UTC
+# Number of unique domains: 5592
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 ||10xbusinesstraining.com^
@@ -90,6 +90,7 @@
 ||adcolony.com^
 ||ademlabs.com^
 ||adeptsol.com^
+||adgoon.it^
 ||adjetinno.com^
 ||admin.tpaction.com^
 ||adobe-campaign.com^
@@ -410,6 +411,7 @@
 ||avast.com^
 ||avecover.com^
 ||aventon.com^
+||averevereoccasioni.it^
 ||avfoiltv.com^
 ||avtreebox.com^
 ||awdmon.com^
@@ -974,6 +976,7 @@
 ||colorksba.com^
 ||colormedium.football^
 ||colorscommentator.com^
+||colpotsen.com^
 ||coltchic.com^
 ||colucore.com^
 ||columbia.edu^
@@ -1447,6 +1450,7 @@
 ||eep.br^
 ||eerwnsenmoistersareed.life^
 ||efax.com^
+||efeedbacktrk.com^
 ||efehankose.com^
 ||effecttt.com^
 ||efficientsolutionsinc.com^
@@ -1594,6 +1598,7 @@
 ||ertanencu.com^
 ||erzeszow.pl^
 ||esaverfest.com^
+||esca.ma^
 ||esesanfer.edu.pe^
 ||esholzin.com^
 ||esinfomedia.com^
@@ -1701,6 +1706,7 @@
 ||falsierra.com^
 ||familyconservationpac.com^
 ||familyhealthe.com^
+||familyinsu.com^
 ||familyprotectionassociation.com^
 ||famityli.com^
 ||fanaticsretailgroup.com^
@@ -1777,6 +1783,7 @@
 ||firearmkart.com^
 ||firebaseapp.com^
 ||firedbarragesofmissiles.org^
+||fireflyengage.com^
 ||firehousesolutions.com^
 ||firelotusentertainment.org^
 ||firstclinic.com^
@@ -1871,6 +1878,7 @@
 ||freesecuritycams.com^
 ||freetoursanpetersburgo.com^
 ||freewaygod.com^
+||freezeframehero.com^
 ||frencdhsole.com^
 ||frequentlyusescreen.news^
 ||fresh^
@@ -2053,6 +2061,7 @@
 ||goldcoemail.com^
 ||goldengatemarkets.com^
 ||goldenmeadowpath.com^
+||goldenmysticsunny.my^
 ||goldenopportunitywalmart.com^
 ||golf.com^
 ||golfairbag.info^
@@ -2248,6 +2257,7 @@
 ||healthtipsdeal.com^
 ||healthtodaay.com^
 ||healthttipshub.com^
+||healthworldweekly.com^
 ||healthyenvironmentfactor.com^
 ||healthyfoodsforhealing.com^
 ||healthygringa.com^
@@ -2326,6 +2336,7 @@
 ||holidaysinwine.com^
 ||hollyne.com^
 ||home-remodelling.info^
+||home4four.com^
 ||homebanking-app.com^
 ||homedepotworkshop.com^
 ||homeeyeglaszes.gifts^
@@ -2458,6 +2469,7 @@
 ||imagoid.com^
 ||imaxzone.com^
 ||imbb.forth.gr^
+||imgacross5.it^
 ||imgix.net^
 ||imgur.com^
 ||imminentdisaster.com^
@@ -2820,6 +2832,7 @@
 ||lasermin.com^
 ||lastarria.cl^
 ||lasuiteteatro.com^
+||lavafairy.com^
 ||lavings.com^
 ||lawrencewoodmere.org^
 ||laxhawk.com^
@@ -2830,6 +2843,7 @@
 ||lcenterprises.com^
 ||leaderpaypal.com^
 ||leadingthedigitaltransformationeu.eu^
+||leadplaza.it^
 ||leadpublicschools.org^
 ||leafbravesoulvision.eu^
 ||leafresolutionitem.bond^
@@ -3082,6 +3096,7 @@
 ||maxshop1.com^
 ||maxvclub.com^
 ||maxxtorks.com^
+||mazzolab.com^
 ||mbamem.com^
 ||mbntimes.com^
 ||mc.afee^
@@ -3386,6 +3401,7 @@
 ||newmaen.com^
 ||neworleans-food.com^
 ||news.bigbucksavers.com^
+||news.dempubblicitarie.it^
 ||news.iadsdk.apple.com^
 ||newscientist.com^
 ||newsmemory.com^
@@ -3950,6 +3966,7 @@
 ||qisetuly.com^
 ||qmmart.com^
 ||qnbewebwh.com^
+||qp-on.it^
 ||qq.com^
 ||qqnation.com^
 ||qrphp.com^
@@ -4856,7 +4873,9 @@
 ||thingear.com^
 ||thinklittlebigmarketing.com^
 ||thirtyminutehomeworkout.com^
+||thisdta.com^
 ||thisisbeforedusk.com^
+||thmtours.com^
 ||tholatou.com^
 ||thomanway.com^
 ||thomasko.com^
@@ -4954,6 +4973,7 @@
 ||tradingthoughtstoday.com^
 ||traditt.com^
 ||tradlin.com^
+||trailmatterskyriver.eu^
 ||trainingatwebmingo.com^
 ||traipsesuffolk.com^
 ||traitcraf.us^
@@ -5115,6 +5135,7 @@
 ||univ-lemans.fr^
 ||univali.br^
 ||univalle.me^
+||universalcoachingfederation.org^
 ||universalstudios.com^
 ||universarium.org^
 ||universidadean.edu.co^
@@ -5330,6 +5351,7 @@
 ||waterfrontwest.net^
 ||wathus.com^
 ||wavedir.com^
+||wavenesttimeframe.de^
 ||wavenia.com^
 ||wavesfactory.com^
 ||waw.pl^
@@ -5417,6 +5439,7 @@
 ||windowstandoors.co^
 ||windpowerenergie.com^
 ||windsorstore.com^
+||windstartrailrise.eu^
 ||winkoakland.com^
 ||winners.directory^
 ||winnersinvesting.com^
@@ -5544,6 +5567,7 @@
 ||zoemen.com^
 ||zoho.com^
 ||zoho.eu^
+||zoho.in^
 ||zohobooks.com^
 ||zohodesk.com.au^
 ||zohoexpense.sa^
