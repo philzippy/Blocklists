@@ -1,12 +1,13 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Saturday January 10 2026 15:40:00 UTC
-# Number of unique domains: 5611
+# Date: Sunday January 18 2026 15:33:00 UTC
+# Number of unique domains: 5620
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 ||10xbusinesstraining.com^
 ||11alive.com^
+||16personalities.com^
 ||1800contacts.com^
 ||18443thestar.ca^
 ||199382.com^
@@ -2137,6 +2138,7 @@
 ||greeley.golf^
 ||greenairlesspoll.com^
 ||greenearthgreenbacks.com^
+||greenechoquicktrail.coupons^
 ||greengley.com^
 ||greengymnetwork.com^
 ||greenhousepromedsoftware.com^
@@ -2903,6 +2905,7 @@
 ||lightdevicethreatpose.co.uk^
 ||lightning-everyday.com^
 ||lightningquickdailydeals.com^
+||lightweightloss.com^
 ||liivejourney.com^
 ||lilopo.com^
 ||limelight-logo.com^
@@ -3320,6 +3323,7 @@
 ||myidolsite.com^
 ||myinbox.cyberservices.com^
 ||myinfinitythehomedepot.com^
+||myinvesters.in^
 ||myitech.net.my^
 ||myiuc.com^
 ||mylife.com^
@@ -3564,6 +3568,7 @@
 ||omegafixes.com^
 ||omr3ayiqa.com^
 ||omrutah.com^
+||onamaeweb.jp^
 ||onceuponthatcake.com^
 ||oncoregolf.com^
 ||onefinancialuniverse.net^
@@ -3626,6 +3631,7 @@
 ||org.pe^
 ||orientateyourself.com^
 ||originalgraphiteplace.co.uk^
+||originhushcalmstar.eu^
 ||oromeditation.net^
 ||os.fan^
 ||osdealerfuel.com^
@@ -3783,6 +3789,7 @@
 ||pilograil.com^
 ||pimpolhinho.org^
 ||pinecrestmarinapa.com^
+||pinelilydeep.my^
 ||pingersh.com^
 ||pinglede.com^
 ||pingmypint.com^
@@ -4473,6 +4480,7 @@
 ||softaract.com^
 ||softcrescentglow.com^
 ||softparkcs.com^
+||softsandrisebright.de^
 ||sohailakapur.com^
 ||solanahoa.com^
 ||solardashhub.com^
@@ -4904,6 +4912,7 @@
 ||thrustbeamrunning.net^
 ||thryv.com^
 ||thumbhumortree.org^
+||thunderheartsparkbuilder.co.uk^
 ||thuuxnder.com^
 ||thwalkon.com^
 ||thysun.com^
@@ -5118,6 +5127,7 @@
 ||unah.hn^
 ||unam.mx^
 ||unbelievablycomplexstep.com^
+||unbounce.com^
 ||unchartedvalues.com^
 ||uncocktails.com^
 ||uncp.edu.pe^
