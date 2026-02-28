@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sunday February 20 2026 00:09:00 UTC
-# Number of unique domains: 5734
+# Date: Sunday February 28 2026 15:01:00 UTC
+# Number of unique domains: 5764
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 ||10xbusinesstraining.com^
@@ -33,6 +33,7 @@
 ||7centsecurity.com^
 ||8020research.info^
 ||9areblilo.com^
+||aaaable.com^
 ||aaaoffers.com^
 ||aaastoriesnews.com^
 ||aaateam.com^
@@ -145,6 +146,7 @@
 ||agileretreats.com^
 ||agngulf.com^
 ||agonafor.com^
+||agriais.com^
 ||agrupamentolimafreitas.org^
 ||aguaytierra.cl^
 ||agun9moodh.com^
@@ -766,6 +768,7 @@
 ||caraveoforcongress.com^
 ||carbike.scarcestimulating.be^
 ||careerngn.com^
+||careforliving.com.au^
 ||carentens.com^
 ||caretipsforyou.com^
 ||carezzare.com^
@@ -1063,6 +1066,7 @@
 ||conticentfanal.com^
 ||continentalmenof1783.exposed^
 ||contomy.com^
+||convenienceperfectdress.de^
 ||conventified.com^
 ||convertkit-mail2.com^
 ||convertkit.com^
@@ -1149,6 +1153,7 @@
 ||customsever.com^
 ||cutinte.com^
 ||cvb.liacooks.net^
+||cvcare.org^
 ||cvshealthcare.com^
 ||cyaniti.com^
 ||cybercoders.com^
@@ -1259,6 +1264,7 @@
 ||departures.com^
 ||dependautomotive.net.au^
 ||depictionjointworks.com^
+||depiqueo.com^
 ||dergydance.com^
 ||deservingcombo.com^
 ||designmodelbeautify.life^
@@ -1448,8 +1454,10 @@
 ||edit.ne.jp^
 ||editaserlat.com^
 ||editurri.com^
+||edl.io^
 ||edlio.com^
 ||edmundoshoes.com^
+||edocudownloads.com^
 ||eds.com^
 ||edu.br^
 ||edu.co^
@@ -1475,6 +1483,7 @@
 ||eduhi.at^
 ||eduia.net^
 ||eduveof.com^
+||eecierp.com^
 ||eep.br^
 ||eerwnsenmoistersareed.life^
 ||efax.com^
@@ -1846,6 +1855,7 @@
 ||flexmail.eu^
 ||flexuspad.com^
 ||flexypack.com^
+||flickerripplestillmoon.coupons^
 ||flicksh.com^
 ||flipboard.com^
 ||flipcharterss.com^
@@ -2235,6 +2245,7 @@
 ||haikututorials.com^
 ||hair-ie.com^
 ||hairhealth.com^
+||hairlikeregard.de^
 ||halcapus.com^
 ||halfmonthhiatusrevision.com^
 ||halimogluturtasimacilik.com^
@@ -2470,6 +2481,7 @@
 ||hyipinformer.com^
 ||hyprmx.com^
 ||hyundaifriends.com^
+||hyves.nl^
 ||hzwcuiihc.com^
 ||i.a.starbucks.com^
 ||i.imgur.com^
@@ -2528,6 +2540,7 @@
 ||importmaestro.com^
 ||importtemporarychance.org^
 ||improvements.com^
+||imx.to^
 ||in-running-trading-tool.org.uk^
 ||inagaming305.com^
 ||inbox.lt^
@@ -2627,6 +2640,7 @@
 ||investordelivery.com^
 ||invifit.com^
 ||invisiblehandinvestors.com^
+||inx-cdn.de^
 ||ionogis.com^
 ||ipaak.com^
 ||ipam.pt^
@@ -2762,6 +2776,7 @@
 ||kamajiando.com^
 ||kamyou.com^
 ||kandyne.com^
+||kanik.id^
 ||kantarsurvey-w.com^
 ||karachisports.life^
 ||karatesupply.com^
@@ -2996,6 +3011,7 @@
 ||loadedwords.com^
 ||localcbdsales.com^
 ||localconservative.com^
+||localpizzadeal.com^
 ||localrankers.com^
 ||localutilitysavings.com^
 ||locatorstoresamsclub.com^
@@ -3029,6 +3045,7 @@
 ||loveworkspro.com^
 ||lowmarts.com^
 ||loxford.london^
+||loyaltytoolbox.com^
 ||lpnu.ua^
 ||lqphhokgx.com^
 ||lrfb.ro^
@@ -3398,6 +3415,7 @@
 ||myquoter.com^
 ||myrarest.com^
 ||myrediscoveryofme.com^
+||myservices24.com^
 ||myskincareadvanced.com^
 ||mystagename.com^
 ||mysticalusa.info^
@@ -3495,6 +3513,7 @@
 ||nextwavepulse.com^
 ||nexvipsolutions.com^
 ||nflximg.net^
+||ngames.com^
 ||ngpvan.com^
 ||niagarague.com^
 ||nianticlabs.com^
@@ -3769,6 +3788,7 @@
 ||particularlybrightobject.org^
 ||partnerbrands.com^
 ||passport.net^
+||passtransparenthike.de^
 ||pastmatterdreamvision.de^
 ||pastorjustinjones.wordpress.com^
 ||pastvalleystillfire.de^
@@ -4005,6 +4025,7 @@
 ||proliberty.com^
 ||prolinegear.com^
 ||promostations.net^
+||promotionready.com^
 ||promotution.org^
 ||promptero.com^
 ||promyscore.com^
@@ -4219,6 +4240,7 @@
 ||ritualconvincefoods.org^
 ||rivercasa.com^
 ||rivercedargaze.my^
+||riverraintechsoul.eu^
 ||rizingzun.com^
 ||rkksa.com^
 ||rkyamanmusical.com^
@@ -4326,6 +4348,7 @@
 ||sasktel.net^
 ||sathewi.com^
 ||satsint.com^
+||saudexata.com^
 ||savage^
 ||savagex.com^
 ||savannahtime.com^
@@ -4516,6 +4539,7 @@
 ||skybeam.com^
 ||skydslir.com^
 ||skylinehave.com^
+||skysoulfutureocean.co.uk^
 ||skytuck.com^
 ||skyvats.com^
 ||slceps.org.uk^
@@ -4776,6 +4800,7 @@
 ||sunrisesprings.com^
 ||sunsetpooch.com^
 ||sunstorsolutions.com^
+||sunuff.com^
 ||supabets.co.za^
 ||supamoss.com^
 ||superiortechtoday.com^
@@ -4873,17 +4898,20 @@
 ||teachinginvestors.com^
 ||team.moneybank.cyberservices.com^
 ||teamprowess.com^
+||teams-events.com^
 ||teamxaviers.org^
 ||teaparty247.org^
 ||techilem.com^
 ||technitrile.com^
 ||technologicsolution.in^
 ||technolutions.net^
+||techtradeshows.com^
 ||techtrendsone.com^
 ||tecnm.mx^
 ||tedcdn.com^
 ||teddded.com^
 ||teeice.com^
+||teeslife.com^
 ||teethwhiteningprocess.com^
 ||tefane.com^
 ||tehnoloska.net^
@@ -4923,6 +4951,7 @@
 ||theathar.com^
 ||thebabooshka.com^
 ||thebeestchange.com^
+||thebest-method.com^
 ||thebestchange.cloud^
 ||thebestchange.homes^
 ||thebestchangge.com^
@@ -5088,6 +5117,7 @@
 ||trackburstmedia.com^
 ||traction-cafe.com^
 ||tracumhe.com^
+||tradedoubler.com^
 ||tradersagency.com^
 ||tradersfilesundisclosed.com^
 ||tradifyhq.com^
@@ -5362,6 +5392,7 @@
 ||vcmoffers.com^
 ||vectozoid.com^
 ||vedicgem.com^
+||vehiclesaving.com^
 ||vehiestore.com^
 ||velmarab.com^
 ||velofitter.com^
