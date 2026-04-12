@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Saturday April 04 2026 02:03:00 UTC
-# Number of unique domains: 5856
+# Date: Saturday April 12 2026 14:50:00 UTC
+# Number of unique domains: 5890
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 ||10xbusinesstraining.com^
@@ -195,6 +195,7 @@
 ||algomau.ca^
 ||alhekma.com^
 ||aliat.edu.mx^
+||alicanterocks.com^
 ||alicdn.com^
 ||aliciajenkins.com^
 ||alitasatucasa.com^
@@ -318,6 +319,7 @@
 ||aplaceformom.com^
 ||aplianceking.com^
 ||apocalypticlife.com^
+||apocalypticpost.com^
 ||apollofitness.net^
 ||appfolio.com^
 ||applentre.com^
@@ -708,6 +710,7 @@
 ||bullmarketnews.net^
 ||bumail16.com^
 ||bungbau.com^
+||bunkh.com^
 ||buoyancyweb.com^
 ||buoyasman.com^
 ||burberry.com^
@@ -736,6 +739,7 @@
 ||cablesliban.com^
 ||cabreecos.com^
 ||cafe-barizsta.co.za^
+||caffiksa.com^
 ||cafrist.com^
 ||cairoseo.com^
 ||calancejobs.com^
@@ -757,6 +761,7 @@
 ||cambridgecityschools.org^
 ||camisseta.com^
 ||campaign-view.com^
+||campaign.eventbrite.com^
 ||campaigner.com^
 ||campith.com^
 ||campovasto.com^
@@ -832,6 +837,7 @@
 ||centralsmarket.com^
 ||centredentairedk.com^
 ||centuryimaginewilderness.lifestyle^
+||cerbjet.com^
 ||cerisetechsolutions.com^
 ||certamoke.com^
 ||cerunti.com^
@@ -942,6 +948,7 @@
 ||clicksite.ir^
 ||cliffieco.com^
 ||cliffpureoriginfield.co^
+||cliffsidetech.com^
 ||climatekids.net^
 ||climbbe.com^
 ||clippedinevents.com^
@@ -1075,6 +1082,7 @@
 ||contacdup.cyberservices.com^
 ||contact.com^
 ||contactbees.com^
+||contacts.com^
 ||contafo.com^
 ||contemption.com^
 ||contentdday.com^
@@ -1340,6 +1348,7 @@
 ||disneyatoz.com^
 ||disneyconsumerproductsinteractive.com^
 ||dispatchthenew.com^
+||distantdestructioncrew.de^
 ||distilwaters.com^
 ||ditariackedvapored.lol^
 ||ditypy.com^
@@ -1347,6 +1356,7 @@
 ||diversarmshotel.com^
 ||divotmagazine.com^
 ||diwamethod.com^
+||dlchuanbo.com^
 ||dled-aore.com^
 ||dlefm.com^
 ||dm.maytag.com^
@@ -1374,6 +1384,7 @@
 ||doleluli.com^
 ||dominocigar.com^
 ||dominos.com^
+||donabeatriz.org^
 ||donaldjtrump.com^
 ||donate.tpusa.com^
 ||donkeywhisper.com^
@@ -1392,6 +1403,7 @@
 ||dpessltd.com^
 ||dqmceszzf.com^
 ||dragonsdense.com^
+||drakfin.motorcycles^
 ||drakowi.com^
 ||dramaticturnaround.com^
 ||dramitac.com^
@@ -1692,8 +1704,11 @@
 ||eurosportsscouting.net^
 ||euwls.com^
 ||evaluaterendezvous.co.uk^
+||evbstatic.com^
+||evbuc.com^
 ||evenfill.com^
 ||evenpolitics.com^
+||eventbrite.com^
 ||events.tpaction.com^
 ||events.tpusa.com^
 ||events2022.tpusa.com^
@@ -1991,6 +2006,7 @@
 ||futremme.com^
 ||futuredreadsealbutcher.org^
 ||futuresavingnow.com^
+||futureshadowcloudmountain.de^
 ||futurreproject.com^
 ||fuvitymac.com^
 ||fvpeiwan.com^
@@ -2220,6 +2236,7 @@
 ||greenhousepromedsoftware.com^
 ||greenlivingkit.com^
 ||greentreereversemortgage.com^
+||greenworkshealth.com^
 ||grelacle.com^
 ||grg10laaerberg.at^
 ||grg17geblergasse.at^
@@ -2323,6 +2340,7 @@
 ||hayrata.com^
 ||hazelnutclothing.com^
 ||hazzardfamily.store^
+||hcgdropsreview.com^
 ||hciiocs.com^
 ||hdrmi.com^
 ||hdross.com^
@@ -2450,6 +2468,7 @@
 ||homisolve.com^
 ||homzoe.com^
 ||honeymoontourtodanang.net^
+||honeysbee.com^
 ||hongeria.com^
 ||honkforjoy.com^
 ||honorablehypnotic.org^
@@ -3076,6 +3095,7 @@
 ||longestcontinuous.net^
 ||longliveamerican.com^
 ||lookruppo.com^
+||loopmodecircle.com^
 ||looseadult.host^
 ||lopezvoiceassistantsettlement.com^
 ||lora.woff2^
@@ -3716,6 +3736,7 @@
 ||omandompackers.com^
 ||ombaewe8.com^
 ||omegafixes.com^
+||omitdecoration.com^
 ||omr3ayiqa.com^
 ||omrutah.com^
 ||onamaeweb.jp^
@@ -3844,6 +3865,7 @@
 ||panylogy.com^
 ||papamurphys.com^
 ||papayasa.com^
+||parastorage.com^
 ||pardri.com^
 ||parhelionaccounting.com^
 ||parisnanterre.fr^
@@ -4085,6 +4107,7 @@
 ||profitgatewaay.com^
 ||profithuntershub.com^
 ||profitinsidershub.com^
+||profitsmeetings.com^
 ||profityours.com^
 ||profizza.com^
 ||progicsn.com^
@@ -4138,6 +4161,7 @@
 ||purelhealthy.com^
 ||purplesmart.co^
 ||put.backwoodsbean.com^
+||pvservicesindia.in^
 ||pxsweb.com^
 ||pygmou.com^
 ||pynxdigital.com^
@@ -4198,6 +4222,7 @@
 ||ranchpie.host^
 ||randfiq.xyz^
 ||randstadusa.com^
+||rangementsolution.com^
 ||rangeofsourcestobring.net^
 ||rapidlychangingconditions.org^
 ||rapllkfiognaz.com^
@@ -4535,6 +4560,7 @@
 ||sevier.org^
 ||sewexhale.com^
 ||sexasians.com^
+||sfddfa.com^
 ||sffnw.com^
 ||sfmc-content.com^
 ||shabnamshama.com^
@@ -4902,6 +4928,7 @@
 ||surveynetwork.com^
 ||survivalcombat.net^
 ||survivalguardian.com^
+||survivalhost.org^
 ||survivallife.com^
 ||survivalshot.net^
 ||survivalstronghold.net^
@@ -4996,6 +5023,7 @@
 ||teeice.com^
 ||teeslife.com^
 ||teethwhiteningprocess.com^
+||teetimeinfo.com^
 ||tefane.com^
 ||tehnoloska.net^
 ||teicagia.com^
@@ -5044,6 +5072,7 @@
 ||thebritishtribune.com^
 ||thebuttonradio.com^
 ||thecapitalist.com^
+||thechurchrestored.com^
 ||theclubmatrix.com^
 ||thecoloradoflyover.com^
 ||thecompressionzone.com^
@@ -5089,6 +5118,7 @@
 ||therealcheftig.com^
 ||theregister.co.uk^
 ||therehvhcrx.com^
+||therockandroll.com^
 ||theseacoffee.com^
 ||thesmartcitizenreport.com^
 ||thesmartincomeinvestor.com^
@@ -5288,6 +5318,7 @@
 ||tup.edu.ph^
 ||tureyinjilakus.com^
 ||turiix.com^
+||turnbucklecarrack.com^
 ||turnoutpac.org^
 ||turnruby.com^
 ||turntshead.com^
@@ -5499,6 +5530,7 @@
 ||vetsource.com^
 ||vettedor.com^
 ||vhcsk12.com^
+||vi-tee.com^
 ||viafreezohocrm.ca^
 ||viafreezohocrm.com^
 ||viafreezohocrm.in^
@@ -5802,6 +5834,7 @@
 ||youthfulappearancedrive.com^
 ||youthstoresa.com^
 ||youurbiz.com^
+||yqjnvf.com^
 ||yusercontent.com^
 ||ywortri.com^
 ||zaann.com^
@@ -5831,6 +5864,7 @@
 ||zoho.eu^
 ||zoho.in^
 ||zohobooks.com^
+||zohocloud.ca^
 ||zohodesk.com.au^
 ||zohoexpense.sa^
 ||zohoinsights-crm.in^
