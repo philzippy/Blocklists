@@ -1,7 +1,7 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Saturday May 15 2026 13:44:00 UTC
+# Date: Sunday May 24 2026 16:24:00 UTC
 # Number of unique domains: 6029
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
@@ -121,6 +121,7 @@
 ||aegvision.com^
 ||aejac.pt^
 ||aejohg.com^
+||aejsa.com^
 ||aelc-lamego.pt^
 ||aemariofonseca.pt^
 ||aemm.pt^
@@ -140,6 +141,7 @@
 ||afaqy.com^
 ||affiliatesend.com^
 ||affordextend.com^
+||afrinet-mali.com^
 ||afromajority.com^
 ||agagcp.com^
 ||againtrix.com^
@@ -426,6 +428,7 @@
 ||auschool.me^
 ||aussiejobsearch.com^
 ||australentertainment.com^
+||authorize.net^
 ||autoconfig.tpusa.com^
 ||autodealerblog.com^
 ||autodiscover.tpusa.com^
@@ -1015,10 +1018,12 @@
 ||codinglama.com^
 ||cofamily.org^
 ||coffeeofgoodness.com^
+||cogeex.com^
 ||cognitiveexcellenceintl.com^
 ||cohzees.com^
 ||coinmack.com^
 ||coinpfft.com^
+||coldmarkets.com^
 ||coldplay.com^
 ||colegia.org^
 ||colegioneuzadutra.com^
@@ -1589,6 +1594,7 @@
 ||elongation^
 ||eloqua.com^
 ||elsalamlekpalace.com^
+||elselect.se^
 ||elyvarying.com^
 ||em.nbcsports.com^
 ||em.shutterfly.com^
@@ -1723,6 +1729,7 @@
 ||estudiantes.sjpm.cl^
 ||estudiantesgach.com^
 ||esuperfit.com^
+||eta-concept.de^
 ||etaesco.com^
 ||etawamix.co.id^
 ||eternalyouthtech.com^
@@ -1910,6 +1917,7 @@
 ||firstcoasthealthandrehab.com^
 ||firstcoastind.com^
 ||firstdomesticapparatus.org^
+||firstfixservices.com^
 ||firstnlp.com^
 ||firstonlinebuy.com^
 ||fisheatu.com^
@@ -2258,6 +2266,7 @@
 ||grantamp.us^
 ||graovasco.net^
 ||graphicgravy.com^
+||graphiumemr.com^
 ||graphold.com^
 ||gratedane.com^
 ||gravelcrashesunder.co.uk^
@@ -2304,6 +2313,7 @@
 ||guamani.com^
 ||guardsma.press^
 ||guguki.com^
+||guiapymes.es^
 ||guiatx.com^
 ||guidancekids.com^
 ||guidelinesonoutsourcing.town^
@@ -2686,6 +2696,7 @@
 ||inkalook.com^
 ||inklene.com^
 ||inkxvity.com^
+||inmovialeads.es^
 ||innersloth.com^
 ||innoelo.com^
 ||innuendovip.com^
@@ -2702,6 +2713,7 @@
 ||instorad.com^
 ||insurance4travels.com^
 ||insurancehero.net^
+||insurancesinsurance.com^
 ||insurancesuperiorwi.com^
 ||insurancesystemsweb.com^
 ||insurancewebpage.com^
@@ -2746,6 +2758,7 @@
 ||investingplanner5.com^
 ||investingsdontlie.com^
 ||investingstrendstoday.com^
+||investingwisejournal.com^
 ||investistratix.com^
 ||investmentbankingrules.com^
 ||investmentdigger.com^
@@ -3008,6 +3021,7 @@
 ||kutoarjo.com^
 ||kwgjjxx.com^
 ||kxmegaro.com^
+||kyptronix.in^
 ||kyschools.us^
 ||kyu.internationaldevelopers.org^
 ||kzgunea.net^
@@ -3189,6 +3203,7 @@
 ||luckyracers.com^
 ||luelipe.com^
 ||luminousbeautybox.com^
+||luoyue.cc^
 ||luticael.com^
 ||luuckyou.com^
 ||luvmywalls.com^
@@ -3367,6 +3382,7 @@
 ||messages.va.gov^
 ||metfabequipment.com^
 ||mfiusaf.com^
+||mfmstudio.in^
 ||mggolf.com^
 ||mgnfesentefvfvritichyzffpozoanskyish.makeup^
 ||mgopava.cz^
@@ -3606,6 +3622,7 @@
 ||nayrisun.com^
 ||nazihtc.com^
 ||nbcsports.com^
+||nc-online.de^
 ||ncjh-qyjwoepkdntszwkgyne.com^
 ||ncodeonal.com^
 ||ndigitizing.com^
@@ -3617,6 +3634,7 @@
 ||needtoknowfacts.com^
 ||negotium.ba^
 ||neighborhoodalerts.com^
+||neighborly.com^
 ||neighborlyemailstats.com^
 ||nellict.com^
 ||nelphaem.com^
@@ -3923,6 +3941,7 @@
 ||ownyourfutures.com^
 ||ozservice.net^
 ||ozy.com^
+||ozzio.jp^
 ||p4ed.com^
 ||paardencolumns.com^
 ||pacemodern.com^
@@ -4073,6 +4092,7 @@
 ||pitchbo542ok.com^
 ||pittmandavis.com^
 ||pixelmagnate.com^
+||pixelsoftgames.com^
 ||pixelursuit.com^
 ||pixicage.com^
 ||pixieset.com^
@@ -4684,6 +4704,7 @@
 ||shilovim.com^
 ||shineandbright.net^
 ||shiningocean.cn^
+||shinyksa.com^
 ||shipseal.com^
 ||shipstation.com^
 ||shmeyoung.com^
@@ -4981,6 +5002,7 @@
 ||students.asu.edu.jo^
 ||studentsfortrump.tpaction.com^
 ||studiolegalefemminella.it^
+||studioumbro.it^
 ||studyess.buzz^
 ||studyplanetsbeyond.com^
 ||stuffandstyles.com^
@@ -5753,6 +5775,7 @@
 ||walterfast.com^
 ||waltonemc.com^
 ||wanderclevergaze.coupons^
+||warszawa.pl^
 ||washedia.com^
 ||washingtontimesnews.com^
 ||watanaloud.com^
