@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Sunday May 24 2026 16:24:00 UTC
-# Number of unique domains: 6052
+# Date: Sunday May 24 2026 16:39:00 UTC
+# Number of unique domains: 6050
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 ||10xbusinesstraining.com^
@@ -3406,7 +3406,6 @@
 ||millionocracyundeify.hair^
 ||minbetter.com^
 ||mindwellnes.com^
-||minecraftprod.maelstrom.gameservices.xboxlive.com^
 ||mineplex.com^
 ||minerpetty.host^
 ||minhthy.com^
@@ -5933,7 +5932,6 @@
 ||wu.newstodaytech.com^
 ||wyattresearchnewsletters.com^
 ||wyze.com^
-||xboxlive.com^
 ||xemchitay.com^
 ||xfxefw85.cc^
 ||xianmanjituan.com^
