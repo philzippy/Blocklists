@@ -1,3 +1,10 @@
+# Title: philzippy/blocklists/ads_experimental
+#
+# This hosts file is a merged collection of hosts from a reverse dns lookup
+# Date: Thursday July 16 2026 15:28:00 UTC
+# Number of unique domains: 9157
+# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/ads_experimental
+# Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 ||03ed9035a0801f.com^
 ||0i0i0i0.com^
 ||0n.click^
