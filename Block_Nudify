@@ -1,8 +1,10 @@
 # Title: philzippy/blocklists/Block Nudify sites
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday April 6 2025 15:17:00 UTC
+# Date: Thursday July 16 2026 15:37:00 UTC
 # Number of unique domains: 13
+# Use with DSN sinkholes which support ADP format (ie pihole)
+# Sinks requests to nudify resources, effectively blocking this abusive functionality
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/refs/heads/master/Block_Nudify
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists
 ||undressher.org^
