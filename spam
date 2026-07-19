@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Saturday July 11 2026 13:41:00 UTC
-# Number of unique domains: 6207
+# Date: Sunday July 19 2026 16:32:00 UTC
+# Number of unique domains: 6235
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 ||10xbusinesstraining.com^
@@ -87,6 +87,7 @@
 ||activehosted.com^
 ||activeliffe.com^
 ||activewanderer.hair^
+||activosazullevante.com^
 ||actsecu.com^
 ||acueti.com^
 ||acuityscheduling-mail.com^
@@ -148,6 +149,7 @@
 ||afromajority.com^
 ||agagcp.com^
 ||againtrix.com^
+||agenciax.pt^
 ||agencyinbox.com^
 ||agencyzoom.com^
 ||agendust.com^
@@ -338,6 +340,7 @@
 ||apokalypsis.com^
 ||apollofitness.net^
 ||appfolio.com^
+||appgiaoduc.com^
 ||applentre.com^
 ||applest.gamesandappstore.com^
 ||appliancehav.com^
@@ -390,6 +393,7 @@
 ||artnursery.org^
 ||artpunchla.com^
 ||arubanetworks.com^
+||arukikata.co.jp^
 ||arwoodge.com^
 ||as-j.net^
 ||asacolorado.com^
@@ -895,6 +899,7 @@
 ||chamaileon.io^
 ||chaminvestment.com^
 ||champions.photos^
+||chancellorinsja.com^
 ||change.boats^
 ||change.org^
 ||changeeday.com^
@@ -1067,6 +1072,7 @@
 ||collegebuys.co.uk^
 ||collegefrancais.net^
 ||collierscholls.com^
+||collinwoodmiddle.net^
 ||colmexen.com^
 ||colombianco.com^
 ||colorado.edu^
@@ -1146,6 +1152,7 @@
 ||conticentfanal.com^
 ||continentalmenof1783.exposed^
 ||contomy.com^
+||contractchart.com^
 ||convenienceperfectdress.de^
 ||conventified.com^
 ||convertkit-mail2.com^
@@ -1322,7 +1329,10 @@
 ||dealsnewsbest.org^
 ||dealswide.pk^
 ||dealwiki.net^
+||dealzcahnge.com^
 ||dealzcahnge.info^
+||dealzcahnge.net^
+||dealzcahnge.org^
 ||deanoandco.com^
 ||debombsk.com^
 ||debra.org^
@@ -1430,6 +1440,7 @@
 ||diversarmshotel.com^
 ||divotmagazine.com^
 ||diwamethod.com^
+||djfbd.org^
 ||dlchuanbo.com^
 ||dled-aore.com^
 ||dlefm.com^
@@ -1620,6 +1631,7 @@
 ||elasticmails.com^
 ||elchgh.com^
 ||electricalserviceskaneohe.com^
+||electricidadindustrial.ar^
 ||electricvehiclesnow.com^
 ||elegantessencecare.com^
 ||elegantglow.icu^
@@ -1720,6 +1732,7 @@
 ||enlabrs.com^
 ||enocmisr.com^
 ||ens.univ-artois.fr^
+||enshinkarate.co.uk^
 ||ensureourstrictstandard.net^
 ||enterclubs.com^
 ||entexin.com^
@@ -2207,6 +2220,7 @@
 ||gftwihd.com^
 ||ggnngo.com^
 ||ggsuryarushingxs.com^
+||ggwphost.com^
 ||ghethwa.com^
 ||ghtb.tepm.jp^
 ||ghzwow.com^
@@ -2320,6 +2334,7 @@
 ||grablevels.com^
 ||graceausick.com^
 ||graciefashion.com^
+||gracolsas.com^
 ||gradbena.si^
 ||gradeitonline.com^
 ||grandeplus.biz^
@@ -2372,6 +2387,7 @@
 ||gslb6.fbs.trendmicro.com.akadns.net^
 ||gssdech.edu^
 ||gtel.vn^
+||gttit.com^
 ||gualtric-survey.com^
 ||guamani.com^
 ||guardsma.press^
@@ -2464,6 +2480,7 @@
 ||hayrata.com^
 ||hazelnutclothing.com^
 ||hazzardfamily.store^
+||hbtpetpaysages.com^
 ||hcgdropsreview.com^
 ||hciiocs.com^
 ||hdrmi.com^
@@ -2884,6 +2901,7 @@
 ||itemold.com^
 ||items.gog.com^
 ||iterable.com^
+||itlocators.com^
 ||itnapper.com^
 ||itrithuc.vn^
 ||itsos-mariecurie.it^
@@ -3378,6 +3396,7 @@
 ||manyvids.com^
 ||maplestreetinc.com^
 ||mapprosearch.com^
+||marathibulls.com^
 ||marconi-galletti.it^
 ||margaham.com^
 ||mariacher.cc^
@@ -3404,6 +3423,7 @@
 ||martianroversrecording.com^
 ||maseafter.cyberservices.com^
 ||maskarayugo.com^
+||masrefrigeracion.mx^
 ||masscommunities.biz^
 ||masterclass.com^
 ||mastermind.com^
@@ -3973,6 +3993,7 @@
 ||onlineclientsrewards.com^
 ||onlineclinic.homes^
 ||onlinedatasentryjob.com^
+||onlineempiredevelopment.com^
 ||onlineflyersales.com^
 ||onlinemarket.com^
 ||onlinemarketingacademia.com^
@@ -4150,6 +4171,7 @@
 ||perfectnutrittion.com^
 ||perfectpicturesocm.com^
 ||perfectteachertips.com^
+||perfectumrah.us^
 ||performancegolfzone.com^
 ||performancesciences.net^
 ||performantic.net^
@@ -4629,6 +4651,7 @@
 ||rr.com^
 ||rs-stripe.signupgenius.com^
 ||rs6.net^
+||rsbuilders.co.uk^
 ||rsschef.com^
 ||rsyioyxiw.com^
 ||rtedadventures.com^
@@ -4960,6 +4983,7 @@
 ||snow.edu^
 ||soares-muzik.com^
 ||sobmonitor.org^
+||soccomavk.com^
 ||socialdeal.nl^
 ||sodbuyi.com^
 ||sodypops.com^
@@ -5113,6 +5137,7 @@
 ||straighttalkphonenumber.com^
 ||strasbourg.fr^
 ||stratagainmicro.info^
+||stratosphere.lat^
 ||stratrgichealthmanagement.org^
 ||streajate.com^
 ||streamlinethedeployment.com^
@@ -5196,6 +5221,7 @@
 ||supraland.world^
 ||sureconsultores.com^
 ||surfnsailstore.com^
+||surojitpalmal.com^
 ||surprisingfactorbigbash.net^
 ||surreptitiousredoubtable.com^
 ||surveyinsighthub.com^
@@ -5827,6 +5853,7 @@
 ||vers.co.in^
 ||versium.com^
 ||verti-game.com^
+||vescomprint.com^
 ||vetsource.com^
 ||vettedor.com^
 ||vfemail.net^
@@ -6122,6 +6149,7 @@
 ||yieldoptimizer.com^
 ||yogaium.net^
 ||yolcar.es^
+||yorgood.com^
 ||yorijore1.rdersaini.com^
 ||yoshizawaryo.com^
 ||youchasethedreams.com^
