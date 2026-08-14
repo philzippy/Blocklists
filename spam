@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Saturday August 08 2026 13:37:00 UTC
-# Number of unique domains: 6300
+# Date: Thursday August 14 2026 01:13:00 UTC
+# Number of unique domains: 6330
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 ||10xbusinesstraining.com^
@@ -150,6 +150,7 @@
 ||afromajority.com^
 ||agagcp.com^
 ||againtrix.com^
+||agenciapz.com^
 ||agenciax.pt^
 ||agencyinbox.com^
 ||agencyzoom.com^
@@ -462,6 +463,7 @@
 ||autodiscover.tpusa.com^
 ||automateddatabase.com^
 ||autonen.com^
+||availableglop.cyou^
 ||avamallory.com^
 ||avantelso.com^
 ||avast.com^
@@ -522,6 +524,7 @@
 ||barkchca.com^
 ||barracuda.com^
 ||barringerpoint.com^
+||barringtonpottery.com^
 ||basaclothing.com^
 ||basbal.com^
 ||baselrestaurant.com^
@@ -671,6 +674,7 @@
 ||bluemountain.com^
 ||bluepalmbiofuel.com^
 ||bluesky-cbd.com^
+||bmo.tepm.jp^
 ||bnks.edu.np^
 ||boardmanschools.org^
 ||boashoponlinedepartment.com^
@@ -709,6 +713,7 @@
 ||boutique-tile.com^
 ||boxzone.com^
 ||boycomonline.com^
+||bprkbu.co.id^
 ||bptikpjateng.org^
 ||braceformarketgain.com^
 ||brag.org^
@@ -935,6 +940,7 @@
 ||chases.app^
 ||chat.roblox.com^
 ||chatterfriendsvip.com^
+||chattoday.co^
 ||chd01.com^
 ||cheapnewinsurance.com^
 ||checkingscores.com^
@@ -1394,6 +1400,7 @@
 ||depictionjointworks.com^
 ||depiqueo.com^
 ||dergydance.com^
+||desarrollodas.com^
 ||deservingcombo.com^
 ||designmodelbeautify.life^
 ||designmodo.com^
@@ -1450,6 +1457,7 @@
 ||disneyconsumerproductsinteractive.com^
 ||dispatchthenew.com^
 ||distantdestructioncrew.de^
+||distilled.com^
 ||distilwaters.com^
 ||ditariackedvapored.lol^
 ||ditypy.com^
@@ -1495,6 +1503,7 @@
 ||doolidir.com^
 ||doorksma.com^
 ||doorstepguides.com^
+||dopecustomhats.com^
 ||doramunosato.com^
 ||doryoin.com^
 ||doubleclick.net^
@@ -1522,6 +1531,7 @@
 ||dreamlabsworld.de^
 ||dreams4lessofficial.com^
 ||drewmindsetsquadkings.org^
+||driarecomenda.com^
 ||driftrans.com^
 ||dripemail2.com^
 ||drjanroda.com^
@@ -1642,6 +1652,7 @@
 ||efuserassets.com^
 ||efusercontent.com^
 ||egolokountu.com^
+||ehealthtoday.com^
 ||eigbox.net^
 ||einfach-schoene-zaehne.com^
 ||ekatraweaves.com^
@@ -2402,6 +2413,7 @@
 ||griswoldforcolorado.org^
 ||grotelec.com^
 ||groupe-djehiche.com^
+||groupomedimed.com^
 ||groupracy.com^
 ||growmoneyskills.com^
 ||growscore.org^
@@ -2676,6 +2688,7 @@
 ||housecallpro.com^
 ||housecommunications.gov^
 ||housefittings.cloud^
+||houseor.com^
 ||houseprojectplus.com^
 ||houserenewell.com^
 ||howgard.com^
@@ -2830,6 +2843,7 @@
 ||inspirescotland.co.uk^
 ||insradio.com^
 ||instaboost.com^
+||instamail.co.in^
 ||instamed.com^
 ||instawealthdaily.com^
 ||instinctivesneak.com^
@@ -2872,6 +2886,7 @@
 ||interviewjobtips.com^
 ||inthetech.world^
 ||inthevita.com^
+||intodomain.com^
 ||intricatenetworks.com^
 ||intuitivel0gica1reas0ningskills.codes^
 ||invesftmentguru.com^
@@ -3052,6 +3067,7 @@
 ||katieporter.com^
 ||katowice.pl^
 ||katpcw.com^
+||kc.ac.th^
 ||kclsed.org^
 ||kcstarlight.com^
 ||kean.edu^
@@ -3164,6 +3180,7 @@
 ||labbanirest.com^
 ||lacansaf.shop^
 ||laddharenewables.com^
+||lafantascienza.com^
 ||lafussal.co^
 ||lagommoda.ae^
 ||laimaliz.com^
@@ -3368,6 +3385,7 @@
 ||madrid.uned.es^
 ||maesdagua.pt^
 ||magicmushgames.com^
+||magicnewdeals.com^
 ||magicnewdeals.info^
 ||magicnewdeals.net^
 ||magicnewdeals.org^
@@ -3916,6 +3934,7 @@
 ||notsolive.com^
 ||nousur.com^
 ||nouveau.edu.mx^
+||novadata.nl^
 ||novalfibretech.com^
 ||novashere.com^
 ||novazuki.com^
@@ -4140,6 +4159,7 @@
 ||palteolitheraic.com^
 ||pamalitan.com^
 ||panabordados.com^
+||panafricanemarket.com^
 ||panamaproduction.com^
 ||panamericantrading.com^
 ||panaxchange.com^
@@ -4700,6 +4720,7 @@
 ||rpsk12.org^
 ||rr.com^
 ||rs-stripe.signupgenius.com^
+||rs.tepm.jp^
 ||rs6.net^
 ||rsbuilders.co.uk^
 ||rsschef.com^
@@ -4902,6 +4923,7 @@
 ||shamewate.info^
 ||shamposunsilkrambutpanjanghub.com^
 ||shanichi.com^
+||sharet.org^
 ||sharpeconomicnews.com^
 ||sheepmagazine.com^
 ||sheerbulls.com^
@@ -4996,6 +5018,7 @@
 ||sledandbed.com^
 ||slewingbackdreadfulclumps.camp^
 ||slickwraps.com^
+||slidey.io^
 ||slimspirits01.fun^
 ||slingly.com^
 ||slkinc.com^
@@ -5071,6 +5094,7 @@
 ||soundingdistortion.com^
 ||soundofweeping.com^
 ||sounq.com^
+||sourcecodeit.com^
 ||sourghbr.com^
 ||southwestvoicecare.com^
 ||soutipasgroupe.com^
@@ -5256,6 +5280,7 @@
 ||sumitmusic.net^
 ||summerprojects.in^
 ||summit-academy.com^
+||summitpoint.com^
 ||sunglasseslovee.com^
 ||sunlightsafety.com^
 ||sunnyhilldist.com^
@@ -5363,6 +5388,7 @@
 ||tbkhat.com^
 ||tdayer.com^
 ||tds.net^
+||teabaths.com^
 ||teachhealth.org^
 ||teachinginvestors.com^
 ||team.moneybank.cyberservices.com^
@@ -5391,6 +5417,7 @@
 ||tehnoloska.net^
 ||teicagia.com^
 ||teicee.com^
+||tek-up.tn^
 ||teknocats.com^
 ||telegram.com^
 ||teletoby.com^
@@ -5531,6 +5558,7 @@
 ||thwalkon.com^
 ||thysun.com^
 ||tiago-tours.com^
+||tianjianpack.com^
 ||tiempopararecordar.com^
 ||tiezesty.net^
 ||tigenete.com^
@@ -6024,6 +6052,7 @@
 ||watchworldmagzine.org^
 ||waterformingsurface.org^
 ||waterfrontwest.net^
+||waterlimousines.com.au^
 ||wathus.com^
 ||wavedir.com^
 ||wavenesttimeframe.de^
@@ -6206,6 +6235,7 @@
 ||yearofeternaljoy.com^
 ||yedier.com^
 ||yehefors.com^
+||yementime.com^
 ||ygeoz.com^
 ||ygllc.com^
 ||ygolfingstore.com^
