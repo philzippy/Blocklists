@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Thursday August 14 2026 01:13:00 UTC
-# Number of unique domains: 6330
+# Date: Thursday August 16 2026 15:07:00 UTC
+# Number of unique domains: 6345
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 ||10xbusinesstraining.com^
@@ -160,6 +160,7 @@
 ||agileretreats.com^
 ||agngulf.com^
 ||agonafor.com^
+||agoodway.com^
 ||agriais.com^
 ||agrupamentolimafreitas.org^
 ||aguaytierra.cl^
@@ -654,6 +655,7 @@
 ||bjrszc.com^
 ||bkksmoke.com^
 ||blackswanwallets.com^
+||blackwolve.com^
 ||blaspar.com^
 ||blastcraft.co^
 ||blcomputersys.com^
@@ -1968,6 +1970,7 @@
 ||feedbackweek.com^
 ||feeds.tpusa.com^
 ||feelgoodmemories.com^
+||feetlinks.com^
 ||fefcoll.org^
 ||fehgroup.com^
 ||fellowshipepc.org^
@@ -1986,6 +1989,7 @@
 ||fightergod3.shop^
 ||fighttherightpac.com^
 ||fillfam.com^
+||filmhelper.com^
 ||filmscenesofinterest.org^
 ||filterta.com^
 ||fim.edu.al^
@@ -2386,6 +2390,7 @@
 ||grcgrupa.com^
 ||greasemonkey.com^
 ||greasemonkeyauto.com^
+||great-visa.com^
 ||greatchicelegance.com^
 ||greatdaynew.com^
 ||greatdivinedishes.com^
@@ -3240,6 +3245,7 @@
 ||levachaykina.com^
 ||leverast.com^
 ||lewdr.com^
+||lexikon.com^
 ||leysta.com^
 ||lguplus.co.kr^
 ||liacooks.net^
@@ -3481,6 +3487,7 @@
 ||masrefrigeracion.mx^
 ||masscommunities.biz^
 ||masterclass.com^
+||mastermailx.com^
 ||mastermind.com^
 ||masterpiecethemonth.com^
 ||masturban.com^
@@ -3796,6 +3803,7 @@
 ||natureprovip.com^
 ||naturesportsalliance.com^
 ||natvel.com^
+||naucam.com^
 ||naver.com^
 ||naviance.com^
 ||navigatorsnetwork.com^
@@ -4662,6 +4670,7 @@
 ||rightbraintechnology.com^
 ||rightchoiceinvestors.com^
 ||rightmix.com^
+||rightviewmedical.com^
 ||ring.com^
 ||ringtruck.com^
 ||rinshaus.com^
@@ -5047,6 +5056,7 @@
 ||smilecraftdentistfm.com^
 ||smiqro.com^
 ||smokepages.com^
+||smokeymountainadventure.com^
 ||smsi.be^
 ||smsolusi.com^
 ||smtp-auth.no-ip.com^
@@ -5082,6 +5092,7 @@
 ||songkick.com^
 ||sonobello^
 ||sony.tv^
+||sooseg.com^
 ||soppeli.com^
 ||sopron.hu^
 ||soricade.com^
@@ -5096,6 +5107,7 @@
 ||sounq.com^
 ||sourcecodeit.com^
 ||sourghbr.com^
+||southernbelleconsultingcompany.org^
 ||southwestvoicecare.com^
 ||soutipasgroupe.com^
 ||sp2garwolin.pl^
@@ -6013,6 +6025,7 @@
 ||voicogentel.net^
 ||voiconom.com^
 ||voiprojas.com^
+||volcanicrifle.com^
 ||volcanosa.com^
 ||vortlndsl.com^
 ||vortxmarketing.com^
@@ -6093,6 +6106,7 @@
 ||wecarib.com^
 ||wedos.net^
 ||weebly.com^
+||weedjungle.com^
 ||weekend.com^
 ||weekofeternaljoy.com^
 ||weeverify.com^
@@ -6308,6 +6322,7 @@
 ||zohoexpense.sa^
 ||zohoinsights-crm.in^
 ||zohoinsights.com^
+||zohoinvoice.com^
 ||zohomail.com^
 ||zohopeople.ca^
 ||zohopeople.com^
