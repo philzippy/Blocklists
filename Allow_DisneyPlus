@@ -1,3 +1,10 @@
+# Title: philzippy/blocklists/Allow_DisneyPlus
+#
+# This hosts file is a merged collection of hosts from a reverse dns lookup
+# Date: Wednesday September 16 2026 02:17:00 UTC
+# Number of unique domains: 12
+# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/Allow_DisneyPlus
+# Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 disney.api.edge.bamgrid.com
 browser-intake-datadoghq.com
 7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
