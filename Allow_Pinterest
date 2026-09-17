@@ -1,3 +1,10 @@
+# Title: philzippy/blocklists/Allow_Pinterest
+#
+# This hosts file is a merged collection of hosts from a reverse dns lookup
+# Date: Wednesday September 17 2026 17:14:00 UTC
+# Number of unique domains: 7
+# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/refs/heads/master/Allow_Pinterest
+# Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 www.pinterest.com
 pinterest.com
 dualstack.pinterest.map.fastly.net
