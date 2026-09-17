@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/Allow_DisneyPlus
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Wednesday September 16 2026 02:17:00 UTC
-# Number of unique domains: 12
+# Date: Wednesday September 17 2026 17:14:00 UTC
+# Number of unique domains: 14
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/refs/heads/master/Allow_DisneyPlus
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 disney.api.edge.bamgrid.com
@@ -17,3 +17,5 @@ client-sdk-configs.bamgrid.com
 disney.connections.edge.bamgrid.com
 prod-frida-origin.bamgrid.com
 ipv6-onprem.cws.conviva.com
+disney.playback.edge.bamgrid.com
+playback-certs.bamgrid.com
