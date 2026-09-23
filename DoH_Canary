@@ -2,7 +2,7 @@
 #
 # Date: Wednesday September 23 2026 17:51:00 UTC
 # Number of unique domains: 6448
-# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
+# Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/refs/heads/master/DoH_Canary
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 # Description: Domain blocks for DoH bypass prevention
 # Format: AdBlock Plus (ABP) / uBlock Origin / Pi-hole Adlist
