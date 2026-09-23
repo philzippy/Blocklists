@@ -6,6 +6,22 @@
 #
 # Project home page: https://github.com/philzippy/Blocklists
 #
+# Title: Meta Muse & AI Security Blocklist
+# Description: Domain blocks for Meta Muse, Meta AI, telemetry, and DoH bypass prevention.
+# Format: AdBlock Plus (ABP) / uBlock Origin / Pi-hole Adlist
+
+# Dedicated Muse & Meta AI Domains
+||muse.ai^
+||meta.ai^
+||ai.meta.com^
+
+# Meta Telemetry & API Endpoints
+||pixel.facebook.com^
+||graph.facebook.com^
+||graph.meta.com^
+||analytics.facebook.com^
+||connect.facebook.net^
+
 #Top Most Dangerous Social Media Entities
 #Snapchat - done
 #Ask.fm - done
