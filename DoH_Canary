@@ -1,0 +1,4 @@
+! Title: DoH Canary
+! Description: Domain blocks for DoH bypass prevention
+! Format: AdBlock Plus (ABP) / uBlock Origin / Pi-hole Adlist
+||use-application-dns.net^
