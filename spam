@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Saturday September 18 2026 11:54:00 UTC
-# Number of unique domains: 6448
+# Date: Friday October 02 2026 12:00:00 UTC
+# Number of unique domains: 6491
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 ||10xbusinesstraining.com^
@@ -473,6 +473,7 @@
 ||autodiscover.tpusa.com^
 ||automateddatabase.com^
 ||autonen.com^
+||autorambler.ru^
 ||availableglop.cyou^
 ||avamallory.com^
 ||avantelso.com^
@@ -496,6 +497,7 @@
 ||aydinotoankara.com^
 ||ayersupply.com^
 ||aysspokane.com^
+||azfarda.com^
 ||azurecomm.net^
 ||b33r.us^
 ||babaeti.com^
@@ -518,6 +520,7 @@
 ||balanceflickergreenrise.coupons^
 ||balancewithgrace.com^
 ||balinstewartfoundation.me^
+||balivillaforrent.com^
 ||ballchair.com^
 ||ballesacroquer.com^
 ||balregular.com^
@@ -635,6 +638,7 @@
 ||bhuseod.com^
 ||biancawulwick.com^
 ||bic.cyberservices.com^
+||biddtrade.com^
 ||bidethali.com^
 ||biefie.com^
 ||bigarith.com^
@@ -776,6 +780,7 @@
 ||brooklinema.gov^
 ||browneaglearts.com^
 ||brownstoneresearch.com^
+||browseautos.com^
 ||browsekeytopics.com^
 ||broxans.com^
 ||brqryt.com^
@@ -852,6 +857,7 @@
 ||campaign.eventbrite.com^
 ||campaigner.com^
 ||campith.com^
+||campok12.org^
 ||campovasto.com^
 ||canaccr.com^
 ||canacidic.com^
@@ -902,6 +908,7 @@
 ||cautioustawdry.net^
 ||cbmvb.com^
 ||cbssports.com^
+||cbtis21.edu.mx^
 ||ccate.win^
 ||ccetkuwait.org^
 ||ccsend.com^
@@ -1105,6 +1112,7 @@
 ||cogeex.com^
 ||cognitiveexcellenceintl.com^
 ||cohzees.com^
+||coinhires.com^
 ||coinmack.com^
 ||coinpfft.com^
 ||coldmarkets.com^
@@ -1831,6 +1839,7 @@
 ||equalscentripetalmove.com^
 ||equifaxbreachsettlement.com^
 ||equipmentub.com^
+||erdconline.org^
 ||erg.partstoyota.net^
 ||ericsson.com^
 ||erleckw.com^
@@ -1942,6 +1951,7 @@
 ||ezerkapi.com.tr^
 ||ezgif.com^
 ||f5fojio3u.com^
+||faatlh.com^
 ||fabricanacionaldemunecos.com^
 ||fabulaceweather.com^
 ||facebook.com^
@@ -1972,6 +1982,7 @@
 ||fapfaplq-03.com^
 ||farawaystarsystem.net^
 ||faresamga.com^
+||farmahome.pt^
 ||farmhouseinteriordesigns.net^
 ||farreradvisory.com^
 ||fascaring.com^
@@ -2008,6 +2019,7 @@
 ||feedbackweek.com^
 ||feeds.tpusa.com^
 ||feelgoodmemories.com^
+||feeltoday.com^
 ||feetlinks.com^
 ||fefcoll.org^
 ||fehgroup.com^
@@ -2129,6 +2141,7 @@
 ||foods-factory.com^
 ||foodtruckbrokers.com^
 ||foolicritses.it^
+||footshoe.com^
 ||forensic-architecture.org^
 ||forestprovista.com^
 ||forestquestt.com^
@@ -2182,6 +2195,7 @@
 ||frijoleo.com^
 ||fringferno.com^
 ||frmbri.com^
+||frms.com^
 ||fromthink.com^
 ||frontlineeducation.com^
 ||frostburg.edu^
@@ -2698,6 +2712,7 @@
 ||homeheatgurus.com^
 ||homeloanwise.com^
 ||homemadecapital.com^
+||homemaderecipe.info^
 ||homeofthesushibowl.com^
 ||homeprostations.com^
 ||homesfinance.com^
@@ -2736,6 +2751,7 @@
 ||hotladyvibes.com^
 ||hotmail.be^
 ||hotmail.com^
+||hotsummersale.com^
 ||houcequick.net^
 ||houndshavenbassetrescue.com^
 ||house.gov^
@@ -2780,6 +2796,7 @@
 ||hushripplegoldcrest.eu^
 ||huzurotoduzce.com^
 ||hvfam-nethumming.com^
+||hvorostovsky.com^
 ||hwschools.org^
 ||hydercoemail.com^
 ||hydrocatheter.com^
@@ -3300,6 +3317,7 @@
 ||lensical.com^
 ||leonarsa.com^
 ||leosasms.com^
+||leranmmed.shop^
 ||lernsax.de^
 ||lessexposedtocommontandem.com^
 ||letmepayday.com^
@@ -3322,6 +3340,7 @@
 ||licenceopposite.xyz^
 ||liceulcfrarad.ro^
 ||lickemp.com^
+||lifelived.com^
 ||lifelocks360.com^
 ||lifelockstores.com^
 ||lifelong-apps.com^
@@ -3341,6 +3360,10 @@
 ||limelight-logo.com^
 ||limitededitiongoods.com^
 ||limitedtimetoday.com^
+||limitedttimedeal.com^
+||limitedttimedeal.info^
+||limitedttimedeal.net^
+||limitedttimedeal.org^
 ||lincolns100thbirthday.skin^
 ||linesatmultiplelevels.org^
 ||linewiki.com^
@@ -3744,6 +3767,7 @@
 ||motherdemocracy.com^
 ||motorcuramazan.com^
 ||mountain-marketers.info^
+||mountain-music.com^
 ||mountexpressvisions.com^
 ||movable-ink-306.com^
 ||movable-ink-5643.com^
@@ -4034,6 +4058,7 @@
 ||numaymolina.com^
 ||numerique-educatif.fr^
 ||numobul.com^
+||nuowai.com^
 ||nurturedradiance.com^
 ||nurturihealth.com^
 ||nutricooker.com^
@@ -4074,6 +4099,9 @@
 ||oeveward.com^
 ||offbeatsuit.org^
 ||offenderaddjam.com^
+||offersbestfr.store^
+||offerslopenem.live^
+||offersneert.space^
 ||offersperfect.com^
 ||office-365.cc^
 ||office-all.me^
@@ -4212,6 +4240,7 @@
 ||ownerflock.press^
 ||ownitha.com^
 ||ownyourfutures.com^
+||ozonboutique.com^
 ||ozservice.net^
 ||ozy.com^
 ||ozzio.jp^
@@ -4630,6 +4659,8 @@
 ||rallyemedia.com^
 ||ramadahhanberkaahcok.com^
 ||ramenpot.com^
+||ramirezoffere.com^
+||ramirezoffere.net^
 ||ramuhajirinsungaimedak.com^
 ||ranchpie.host^
 ||randfiq.xyz^
@@ -4681,6 +4712,7 @@
 ||rediscoveryourcreativity.com^
 ||redstateinvesting.com^
 ||redstateinvestings.com^
+||reelowcrm.com^
 ||reenspaceproperties.net^
 ||refuewa.com^
 ||reg.biv.sony.tv^
@@ -4696,6 +4728,7 @@
 ||reliableheatservices.com^
 ||reliantfamilyplan.com^
 ||relicengineer.com^
+||reltek.com^
 ||remarkrestaurant.com^
 ||remontypaciorek.com^
 ||remoteworkguidepro.com^
@@ -4725,6 +4758,7 @@
 ||resy.com^
 ||retailvipfinder.com^
 ||returnpath.net^
+||returnsettlement.com^
 ||reupolde.com^
 ||reviewzportal.com^
 ||reviveandglow.com^
@@ -4868,6 +4902,9 @@
 ||sanctuarycorner.com^
 ||sandbox-keep.com^
 ||sandhyashahmd.com^
+||sanjosedeals.info^
+||sanjosedeals.net^
+||sanjosedeals.org^
 ||sanminla.com^
 ||sanskincare.com^
 ||santacreuvasut.com^
@@ -5330,6 +5367,7 @@
 ||stu.ftccollege.edu^
 ||stu.nesc.edu.tt^
 ||stuccocaledon.com^
+||studenert.shop^
 ||student.edu.az^
 ||student.lvusd.org^
 ||student.uthrad.pl^
@@ -5411,6 +5449,7 @@
 ||survivalshot.net^
 ||survivalstronghold.net^
 ||surviveinsight.com^
+||survivingbiden.com^
 ||susawa.com^
 ||suspendspacemissions.net^
 ||sustainablog.net^
@@ -5632,6 +5671,7 @@
 ||thetotalyoulifestyle.com^
 ||theuncommonthoughts.com^
 ||theuniversityschool.org^
+||thevalar.com^
 ||thevalleypound.com^
 ||theworlldnow.com^
 ||thingear.com^
@@ -5879,6 +5919,7 @@
 ||ukmlumut.com^
 ||ulht.pt^
 ||ulisboa.pt^
+||ulsachihuahua.edu.mx^
 ||ultimateheatvip.com^
 ||ultimatesavorthetaste.com^
 ||ultimatetrendytreasures.com^
@@ -6099,6 +6140,7 @@
 ||virtualassistantsservice.com^
 ||virtualclinicc.com^
 ||virtuallyteiii.com^
+||virtualshowings.com^
 ||virtualtechworld.com^
 ||vision.edu.mk^
 ||visionlogicmintvibe.de^
@@ -6349,6 +6391,7 @@
 ||yedier.com^
 ||yehefors.com^
 ||yementime.com^
+||yf72.com^
 ||ygeoz.com^
 ||ygllc.com^
 ||ygolfingstore.com^
