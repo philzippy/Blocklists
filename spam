@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Friday October 02 2026 12:00:00 UTC
-# Number of unique domains: 6491
+# Date: Friday October 10 2026 17:00:00 UTC
+# Number of unique domains: 6526
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 ||10xbusinesstraining.com^
@@ -428,6 +428,7 @@
 ||asonjob.com^
 ||asonpixel.com^
 ||asonred.com^
+||asosila.ru^
 ||aspect-records.com^
 ||asphaltrepair.com^
 ||asrithasgroup.com^
@@ -1092,6 +1093,7 @@
 ||cnego.me^
 ||cnpcv.ro^
 ||cnpschools.org^
+||cnra.sn^
 ||cnteafair.net^
 ||coachsuccess.org^
 ||cobalt-speed.com^
@@ -1129,6 +1131,7 @@
 ||collection-cam.us^
 ||collegebuys.co.uk^
 ||collegefrancais.net^
+||collegesainthadelin.be^
 ||collierscholls.com^
 ||collinwoodmiddle.net^
 ||colmexen.com^
@@ -1280,6 +1283,7 @@
 ||crisisoffers.net^
 ||crisisoffers.org^
 ||crisprlawblog.net^
+||cristojuvenil.com.do^
 ||critiquepolitique.com^
 ||croscili.com^
 ||cross.net.id^
@@ -1388,6 +1392,7 @@
 ||dealerinspire.com^
 ||dealernotifications.com^
 ||dealersocket.com^
+||dealforgenews.shop^
 ||dealsnewsbest.org^
 ||dealswide.pk^
 ||dealwiki.net^
@@ -2041,6 +2046,7 @@
 ||fillfam.com^
 ||filmhelper.com^
 ||filmscenesofinterest.org^
+||filmway.com^
 ||filterta.com^
 ||fim.edu.al^
 ||fin.emathematicslearn.com^
@@ -2174,6 +2180,7 @@
 ||freesecuritycams.com^
 ||freetoursanpetersburgo.com^
 ||freewaygod.com^
+||freewhat.com^
 ||freezeframehero.com^
 ||frelok.com^
 ||frencdhsole.com^
@@ -2325,6 +2332,7 @@
 ||giavisach.com^
 ||gibbory.com^
 ||giftedexam.com^
+||giftful.com^
 ||giftingle.com^
 ||giftposthost.com^
 ||gigahonen.com^
@@ -2359,6 +2367,7 @@
 ||gmai.com^
 ||gmh.cz^
 ||gmu.edu^
+||gmx.at^
 ||gmx.com^
 ||gmxa.xyz^
 ||gnawticaldog.com^
@@ -3000,6 +3009,7 @@
 ||iprsbd.com^
 ||ipsmafia.com^
 ||ipv.pt^
+||iqfoot.com^
 ||iqrand.com^
 ||ir.internetofresources.com^
 ||iriparo.it^
@@ -3008,6 +3018,7 @@
 ||ironmail-usa.com^
 ||irs.com^
 ||isbezosinspace.com^
+||isdiar.com^
 ||ishedauk.com^
 ||isisromero.it^
 ||isiswa.uitm.edu.my^
@@ -3273,6 +3284,7 @@
 ||lakmibeautyproducts.com^
 ||lalinearoja.net^
 ||lamancom.com^
+||languedoc-roussillon-cinema.fr^
 ||lanierdentalcare.com^
 ||lankyfiber.com^
 ||lardbargains.com^
@@ -3317,7 +3329,9 @@
 ||lensical.com^
 ||leonarsa.com^
 ||leosasms.com^
+||leranmmed.info^
 ||leranmmed.shop^
+||leranmmed.store^
 ||lernsax.de^
 ||lessexposedtocommontandem.com^
 ||letmepayday.com^
@@ -3340,6 +3354,7 @@
 ||licenceopposite.xyz^
 ||liceulcfrarad.ro^
 ||lickemp.com^
+||lifearchivist.net^
 ||lifelived.com^
 ||lifelocks360.com^
 ||lifelockstores.com^
@@ -3559,6 +3574,7 @@
 ||marketalertsedge.com^
 ||marketcarttrendz.com^
 ||marketdailyupdates.com^
+||marketing.savatree.com^
 ||marketingwebsites.biz^
 ||marketsnelection.com^
 ||marketsourceinfo.com^
@@ -3648,6 +3664,7 @@
 ||metaedgeservices.com^
 ||metfabequipment.com^
 ||mfiusaf.com^
+||mflogistics.pk^
 ||mfmstudio.in^
 ||mftechs.com^
 ||mg.walainternational.com^
@@ -3790,6 +3807,7 @@
 ||mtest.com.sa^
 ||mtjyouelk.com^
 ||mtrosecogic.org^
+||mtyo.com^
 ||mudawna.com^
 ||muddymuse.com^
 ||mudjackingconcretelevelingkansascity.com^
@@ -4100,7 +4118,10 @@
 ||offbeatsuit.org^
 ||offenderaddjam.com^
 ||offersbestfr.store^
+||offerslopenem.best^
 ||offerslopenem.live^
+||offerslopenem.online^
+||offerslopenem.rest^
 ||offersneert.space^
 ||offersperfect.com^
 ||office-365.cc^
@@ -4156,6 +4177,7 @@
 ||oniestket.com^
 ||onlddiket.com^
 ||online-educationpro.com^
+||online.de^
 ||onlineahmad.com^
 ||onlinebookride.com^
 ||onlinecare01.com^
@@ -4211,6 +4233,7 @@
 ||originalgraphiteplace.co.uk^
 ||originhalodepthgrace.coupons^
 ||originhushcalmstar.eu^
+||orleansvintagefestival.com^
 ||oromeditation.net^
 ||os.fan^
 ||osdealerfuel.com^
@@ -4485,6 +4508,7 @@
 ||ppepc.com^
 ||ppgi.cl^
 ||ppke.hu^
+||ppsb.org^
 ||pracspo.com^
 ||pradanadwip.com^
 ||pragateefoundation.org^
@@ -4549,6 +4573,8 @@
 ||prohealthycare.org^
 ||proliberty.com^
 ||prolinegear.com^
+||promodropday.help^
+||promohealthspot.store^
 ||promostations.net^
 ||promotionready.com^
 ||promotution.org^
@@ -4640,6 +4666,7 @@
 ||quizvolt.com^
 ||qumanguo.com^
 ||quorumtracking.com^
+||quotemadness.com^
 ||raatlas.com^
 ||rabungap.org^
 ||racyters.com^
@@ -4761,6 +4788,7 @@
 ||returnsettlement.com^
 ||reupolde.com^
 ||reviewzportal.com^
+||revitness.com^
 ||reviveandglow.com^
 ||revolutionizespace.org^
 ||revolutionpro.org^
@@ -4864,6 +4892,7 @@
 ||russell.it^
 ||rvpmpharmacy.com^
 ||rwsinerji.com^
+||rwtrials.com^
 ||rxseer.com^
 ||rykachev.com^
 ||sablines.com^
@@ -5027,6 +5056,7 @@
 ||serenitysphere.icu^
 ||serequinos.com^
 ||sergiant.com^
+||servaireandco.com^
 ||servc-xflnit.com^
 ||serve-themes.com^
 ||serveapologydragon.com^
@@ -5081,6 +5111,7 @@
 ||shopnicoleandrews.com^
 ||shoponline.uk.net^
 ||shoptopdirectory.com^
+||shorten.tv^
 ||shotokantv.com^
 ||shoulderflavor.xyz^
 ||shpalle.com^
@@ -5232,6 +5263,7 @@
 ||soutipasgroupe.com^
 ||sp2garwolin.pl^
 ||sp34gdynia.pl^
+||spaao.com^
 ||spanishors.com^
 ||spanninggreatdistances.com^
 ||sparc.mc-mc.com^
@@ -5425,6 +5457,7 @@
 ||sunuff.com^
 ||supabets.co.za^
 ||supamoss.com^
+||superfisheu.com^
 ||superiortechtoday.com^
 ||superlativer.net^
 ||supertools.com^
@@ -5988,6 +6021,7 @@
 ||uopeople.edu^
 ||uoradea.ro^
 ||upandgoingnow.com^
+||update-ssadministration.com^
 ||update.biv.sony.tv^
 ||updatesandinsights.org^
 ||upedmoust.com^
@@ -6054,6 +6088,7 @@
 ||valebrand.com^
 ||valetant.com^
 ||validationfailures.net^
+||validations.com^
 ||valimail.com^
 ||valleros.quest^
 ||valuablebusinessresources.eu^
