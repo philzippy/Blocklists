@@ -1,8 +1,8 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Friday October 16 2026 12:55:00 UTC
-# Number of unique domains: 6550
+# Date: Saturday October 24 2026 12:20:00 UTC
+# Number of unique domains: 6587
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
 # Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
 ||10xbusinesstraining.com^
@@ -203,6 +203,7 @@
 ||alasrtrust.com^
 ||alazhar.eg^
 ||alcmpn.com^
+||alconholding.com^
 ||aldi.us^
 ||aldine-isd.org^
 ||aleencell.com^
@@ -265,6 +266,7 @@
 ||alumne.cat^
 ||alumno.udg.mx^
 ||alumnoifp.es^
+||alumnos-santagema.es^
 ||aluno.aescolasmmcartaxo.pt^
 ||aluno.sesiescola.org.br^
 ||aluno.unicesumar.edu.br^
@@ -732,6 +734,7 @@
 ||boopkids.com^
 ||boostastarup.com^
 ||boostedgoldstore.me^
+||boostpay.com^
 ||border.battle.tpusa.com^
 ||borderbattle.tpusa.com^
 ||bornhungryhub.com^
@@ -776,6 +779,7 @@
 ||brittanypettersen.com^
 ||broad.freshcatchfishmarketgrill.com^
 ||broeders.be^
+||brokestudent.com^
 ||broniary.com^
 ||bronwynandrews.com^
 ||broojaltheqa.com^
@@ -818,6 +822,7 @@
 ||businesssolutionsprofit.com^
 ||businessuccess.co.in^
 ||businessvblog.com^
+||busybirds.com^
 ||buyinsuranceleadsonline.com^
 ||buysub.com^
 ||buysustainablestuff.com^
@@ -878,6 +883,7 @@
 ||capustip.info^
 ||caraveoforcongress.com^
 ||carbike.scarcestimulating.be^
+||carbin.com^
 ||cardecore.com^
 ||careerngn.com^
 ||carefield.com^
@@ -895,6 +901,7 @@
 ||caronetwork.com^
 ||carpartsprices.com^
 ||carpoetry.com^
+||carrare-communication.com^
 ||carreteromd.com^
 ||carrierzone.com^
 ||cartiercul.com^
@@ -927,6 +934,7 @@
 ||cebasusa.com^
 ||cedar-bringer.com^
 ||cefet-rj.br^
+||ceffgame.com^
 ||celeritystaff.pro^
 ||celestialobjectsvisible.com^
 ||celides.com^
@@ -948,6 +956,7 @@
 ||cesyagene.com^
 ||cfmsource.com^
 ||cgifilms.com^
+||cgold.com^
 ||chadaoban.com^
 ||chafern.com^
 ||chamacom.com^
@@ -1458,7 +1467,9 @@
 ||deutchdds.com^
 ||dev-prod05.conferdeploy.net^
 ||dewdrev.com^
+||dfirstmail.com^
 ||dfxsolutions.com^
+||dgloc.com^
 ||dharmous.com^
 ||di6c32rekpj5q.cloudfront.net^
 ||diaconnector.com^
@@ -1484,6 +1495,7 @@
 ||digitalmarketinglobe.com^
 ||digitalmediapowerhouse.com^
 ||digitalmoneyusa.com^
+||digitalnomadlife.com^
 ||digitalreaddepot.com^
 ||digitalskyscraper.com^
 ||digitalz.org^
@@ -1818,6 +1830,7 @@
 ||eniac.edu.br^
 ||enlabrs.com^
 ||enocmisr.com^
+||enroll.pironcorp.com^
 ||ens.univ-artois.fr^
 ||enshinkarate.co.uk^
 ||ensureourstrictstandard.net^
@@ -2077,6 +2090,7 @@
 ||firearmkart.com^
 ||firebaseapp.com^
 ||firedbarragesofmissiles.org^
+||firedeath.com^
 ||fireflyengage.com^
 ||firehousesolutions.com^
 ||firelotusentertainment.org^
@@ -2488,6 +2502,7 @@
 ||greengymnetwork.com^
 ||greenhousepromedsoftware.com^
 ||greenlivingkit.com^
+||greenmall.com.ng^
 ||greentreereversemortgage.com^
 ||greenworkshealth.com^
 ||grelacle.com^
@@ -2881,6 +2896,7 @@
 ||imminentdisaster.com^
 ||immobiliarealbertini.it^
 ||immobilier.com^
+||immoinvestisseurs.fr^
 ||impact.woff2^
 ||impactinitialoutbreak.net^
 ||impacttodetermine.com^
@@ -3062,6 +3078,7 @@
 ||ivacationforever.com^
 ||ivalisgroup.com^
 ||ivinsyste.com^
+||ivoiredt-ci.com^
 ||iwundluacc.com^
 ||ix.finance^
 ||ixcomb.com^
@@ -3166,6 +3183,7 @@
 ||karachisports.life^
 ||karatesupply.com^
 ||karazeh.com^
+||kataplut.com^
 ||kathrinsombold.com^
 ||katieandspud.com^
 ||katieporter.com^
@@ -3326,8 +3344,10 @@
 ||learnenglishdictionary.com^
 ||learnerscope.com^
 ||learngrowandgive.com^
+||leathercat.com^
 ||leaudipp.com^
 ||leavingadensecore.net^
+||leclat.org^
 ||lecys.com^
 ||leeoutdoorpower.com^
 ||legalmediacheck.com^
@@ -3375,6 +3395,7 @@
 ||lifelong-sun.com^
 ||lifenrgy.com^
 ||liferaising.net^
+||lifestyleflex.com^
 ||lifestylehack1.com^
 ||lifetime-stocks.com^
 ||liftata.com^
@@ -3515,6 +3536,7 @@
 ||mail-zr.com^
 ||mail.barnesandnoble.com^
 ||mail.comms.yahoo.net^
+||mail.dk^
 ||mail.freshmarketdata.com^
 ||mail.goodreads.com^
 ||mail.hbomax.com^
@@ -3605,6 +3627,8 @@
 ||masrefrigeracion.mx^
 ||masrient.com^
 ||masscommunities.biz^
+||massias.info^
+||massiliaexport.com^
 ||masterclass.com^
 ||mastermailx.com^
 ||mastermind.com^
@@ -3987,6 +4011,7 @@
 ||newconfusion.com^
 ||newdorphs.org^
 ||neweducdept.com^
+||newerahemonc.online^
 ||newgreatday.com^
 ||newlyevo1vedanimals.digital^
 ||newmaen.com^
@@ -4455,6 +4480,7 @@
 ||pku.edu.cn^
 ||plainsborohomes.com^
 ||planetsvariablemagnetic.org^
+||planningfamilialvarois.org^
 ||plantharm.com^
 ||playedgame.com^
 ||playfab.com^
@@ -4593,6 +4619,8 @@
 ||prolinegear.com^
 ||promodropday.help^
 ||promodropday.homes^
+||promohealthspot.online^
+||promohealthspot.site^
 ||promohealthspot.store^
 ||promostations.net^
 ||promotionready.com^
@@ -4626,6 +4654,7 @@
 ||psychoticcough.com^
 ||pteroen.com^
 ||pthomas.cyberservices.com^
+||pu-ami.org^
 ||puaiawpmuembreua.com^
 ||public-edu.co.uk^
 ||publicgazefanatical.life^
@@ -4713,6 +4742,7 @@
 ||randstadusa.com^
 ||rangementsolution.com^
 ||rangeofsourcestobring.net^
+||rapidfirephotos.com^
 ||rapidlychangingconditions.org^
 ||rapllkfiognaz.com^
 ||rapsolar.com^
@@ -4819,6 +4849,7 @@
 ||rexmigrasi.com^
 ||rfxpwwkg.com^
 ||rg-schwaz.at^
+||rhed.com.ar^
 ||ricci.edu.mo^
 ||riceret.com^
 ||richieburnett.com^
@@ -5356,6 +5387,7 @@
 ||st.ul.edu.lb^
 ||stackmail.com^
 ||staffxico.net^
+||stanbiotec.com^
 ||standard-trainer.com^
 ||standardizationnow.com^
 ||standardus.com^
@@ -5363,6 +5395,7 @@
 ||starbucks.com^
 ||starenginebay.de^
 ||starpluses.com^
+||starsignandprint.co.za^
 ||starsprime.com^
 ||starswebsite.com^
 ||starz.com^
@@ -5836,6 +5869,7 @@
 ||tpaa.org^
 ||tpaction.com^
 ||tpusa.com^
+||tracanelli.com^
 ||tracesofwaterfound.com^
 ||trackburstmedia.com^
 ||tracthere.com^
@@ -5849,6 +5883,7 @@
 ||tradingthoughtstoday.com^
 ||traditt.com^
 ||tradlin.com^
+||trafficagency.com^
 ||trailmatterskyriver.eu^
 ||trainingatwebmingo.com^
 ||traipsesuffolk.com^
@@ -6149,6 +6184,7 @@
 ||verizonmedia.com^
 ||verry.skin^
 ||vers.co.in^
+||versel.com^
 ||versium.com^
 ||verti-game.com^
 ||vescomprint.com^
@@ -6513,6 +6549,7 @@
 ||zibracompany.com^
 ||zilkdevelopments.com^
 ||zimandy.hu^
+||zirkestudio.com^
 ||zjsbchdk.net^
 ||zkhrafa.com^
 ||zobaao.com^
