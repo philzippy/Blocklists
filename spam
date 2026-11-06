@@ -1,10 +1,10 @@
 # Title: philzippy/blocklists/spam
 #
 # This hosts file is a merged collection of hosts from a reverse dns lookup
-# Date: Saturday October 31 2026 16:34:00 UTC
-# Number of unique domains: 6617
+# Date: Friday November 06 2026 23:40:00 UTC
+# Number of unique domains: 6640
 # Fetch the latest version of this file: https://raw.githubusercontent.com/philzippy/Blocklists/master/spam
-# Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/
+# Project home page: https://github.com/philzippy/Blocklists# Title: philzippy/blocklists/\
 ||10xbusinesstraining.com^
 ||11alive.com^
 ||1337.no^
@@ -70,6 +70,7 @@
 ||acehardwarebargain.com^
 ||acehardwareco.com^
 ||acemlna.com^
+||acemortgages.net^
 ||acerosyvitrinas.com^
 ||acestart.com^
 ||acetaiacremonini.com^
@@ -488,6 +489,7 @@
 ||averevereoccasioni.it^
 ||averox.com^
 ||avfoiltv.com^
+||avocats.com^
 ||avtreebox.com^
 ||awdmon.com^
 ||awojqzniq.com^
@@ -564,6 +566,7 @@
 ||bcmsocial.co.uk^
 ||bea-services.ch^
 ||beachvolleyballpl.com^
+||beaconite.edu.pk^
 ||beaconofhopeumc.org^
 ||beaconschool.org^
 ||beampeet.com^
@@ -1082,6 +1085,7 @@
 ||clothingbrands.org^
 ||cloud.tpusa.com^
 ||cloud.uautonoma.cl^
+||cloud33dbest.online^
 ||cloud33dbest.site^
 ||cloudinary.com^
 ||cloudxrays.com^
@@ -1129,6 +1133,7 @@
 ||cogeex.com^
 ||cognitiveexcellenceintl.com^
 ||cohzees.com^
+||coin2fa.com^
 ||coinhires.com^
 ||coinmack.com^
 ||coinpfft.com^
@@ -2064,6 +2069,7 @@
 ||festiveseasoon.com^
 ||fg169.com^
 ||fi.edu^
+||fibre.fr^
 ||fibre2fashion.com^
 ||fictodim.com^
 ||fieldigi.com^
@@ -2638,6 +2644,7 @@
 ||hdrmi.com^
 ||hdross.com^
 ||healthcaremarketinglawyer.com^
+||healthcarex.com^
 ||healthcheckexpress.com^
 ||healthcodeapp.com^
 ||healthdietplans.com^
@@ -2736,6 +2743,7 @@
 ||hlvmorinho.com^
 ||hmcba.org^
 ||hmtu.edu.vn^
+||hncy798.com^
 ||hnwlaq.com^
 ||hobsoftla.com^
 ||hofferm.com^
@@ -2870,6 +2878,7 @@
 ||icrenltd.com^
 ||ictcult.com^
 ||ictpot.com^
+||idahoterminsurance.net^
 ||ideaandreality.net^
 ||ideas2tech.com^
 ||idosi.org^
@@ -3106,6 +3115,7 @@
 ||jakkloref.com^
 ||jaliscoedu.mx^
 ||jamadots.com^
+||jamesflowerdew.com^
 ||jamiemayo.net^
 ||janaojala.com^
 ||jas1.ds.jas.com^
@@ -3526,6 +3536,7 @@
 ||luxcrafte.com^
 ||luxefashitrends.com^
 ||luxurylifedividends.com^
+||luxurypresent.com^
 ||m2sformation.com^
 ||m512rk.com^
 ||macaupec.com^
@@ -3604,6 +3615,7 @@
 ||manbrust.com^
 ||mancaregalavny.com^
 ||mandrillapp.com^
+||mandrilux.fr^
 ||manegerialismnow.com^
 ||manifestwealthtoday.com^
 ||manipulatedversionside.tel^
@@ -4070,6 +4082,7 @@
 ||nightma.us^
 ||nikkorivera.com^
 ||nimble.com^
+||ninasmarketinc.com^
 ||ninatele.com^
 ||ninelet.com^
 ||niothinker.com^
@@ -4988,6 +5001,7 @@
 ||saintmarksschool.in^
 ||saintmichelannecy.fr^
 ||sakhbir.com^
+||salahagency.com^
 ||saledone.com^
 ||salehys23.co^
 ||salesavvypro.com^
@@ -5636,6 +5650,7 @@
 ||tawarkan.com^
 ||tawarwghayar.com^
 ||taxblock.in^
+||taxlist.com^
 ||taxuzbmivih.com^
 ||taylorflooringtools.com^
 ||tbkhat.com^
@@ -5656,6 +5671,9 @@
 ||technologicsolution.in^
 ||technolutions.net^
 ||technosoftsolutions.in^
+||techoonline.online^
+||techoonline.site^
+||techoonline.store^
 ||techtradeshows.com^
 ||techtrendsone.com^
 ||tecnm.mx^
@@ -5747,6 +5765,7 @@
 ||thegreatestnovels.biz^
 ||thehalloweenspot.com^
 ||thehealthdrops.com^
+||thehealthiest.com^
 ||thejoybutton.com^
 ||thekifureview.com^
 ||thelimitlessapp.com^
@@ -5988,6 +6007,7 @@
 ||tuc.gr^
 ||tucowsfull.com^
 ||tuff-apparel.com^
+||tulanews.com^
 ||tup.edu.ph^
 ||tureyinjilakus.com^
 ||turiix.com^
@@ -6124,6 +6144,7 @@
 ||urbanfarmclub.com^
 ||urbansprot.com^
 ||uri.edu^
+||urjgfu.com^
 ||urlzs.com^
 ||us.vieraconnect.tv^
 ||usach.cl^
@@ -6210,6 +6231,7 @@
 ||ventfito.com^
 ||verificationme.com^
 ||verison.net^
+||veritaclaims.com^
 ||verizonmedia.com^
 ||verry.skin^
 ||vers.co.in^
@@ -6268,6 +6290,7 @@
 ||vision.edu.mk^
 ||visionlogicmintvibe.de^
 ||visionslip.com^
+||visithell.com^
 ||visitlifestylepro.com^
 ||visualconscience.com^
 ||visualpes.com^
